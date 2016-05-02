@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Migrando meu blog para Github Pages, usando Jekyll"
+title:  "Migrando meu blog para Github Pages usando Jekyll"
 date:   2016-05-01 21:19:00 -0300
 categories: jekyll update
 ---
