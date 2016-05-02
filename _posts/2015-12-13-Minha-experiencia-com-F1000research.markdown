@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Minha experiência com F1000research: pôsteres e slides"
-date:   2016-05-02 12:00:00 -0300
+date:   2015-12-13 12:00:00 -0300
 categories: old blog import
 ---
 Há poucos dias, <a href="http://pharmak.blogspot.com/2015/12/minha-experiencia-com-o-peerj-preprints.html">falei</a> da minha experiência de publicação de preprints com o PeerJ e porque acredito nessa modalidade de divulgação científica. Agora, vou apresentar outra nova forma de apresentar os resultados científicos: a publicação de pôsteres e slides no F1000Research. Este serviço é uma plataforma de acesso aberto para a publicação de resultados de cientistas da área de ciências biológicas e da saúde. Seu principal diferencial é a suposta não interferência de um corpo editorial nas publicações. O staff do <a href="http://f1000research.com/">F1000Research</a> afirma que ele não é um periódico, ou um jornal. Eles usam o termo "plataforma de publicação" para dar a entender essa diferença, mas ainda sim deixar vago o suficiente para permitir variadas interpretações. As publicações passam por uma avaliação editorial sucinta e são publicadas rapidamente (às vezes, em poucas horas!) após a submissão. A avaliação inicial é obrigatória e serve para filtrar casos de desvio flagrante das regras editoriais. Não existe revisão por pares pré-publicação. Apesar disso, o F1000Research insiste que suas publicações "não são preprints". Com efeito, uma vez que você publica seu material lá, não pode mais editá-lo, diferentemente do <a href="https://peerj.com/preprints/">PeerJ Preprints</a>, onde essa funcionalidade ainda persiste.<br />
