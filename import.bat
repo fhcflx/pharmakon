@@ -1,0 +1,1 @@
+ruby -rubygems -e 'require "jekyll-import";JekyllImport::Importers::Blogger.run({"source" => "D:\blog-04-28-2016.xml","no-blogger-info" => false,"replace-internal-link" => false})'
