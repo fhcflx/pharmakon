@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
+published: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Este é o tema básico do Jekyll. Mais sobre a customização de seu tema Jekyll, bem como a sua documentação básica em [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at:
+O código-fonte do novo tema Jekyll está disponível em:
 {% include icon-github.html username="jglovier" %} /
 [jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at
+Código-fonte do Jekyll:
 {% include icon-github.html username="jekyll" %} /
 [jekyll](https://github.com/jekyll/jekyll)
+
