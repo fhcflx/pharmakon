@@ -6,25 +6,27 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Pharmakon
+title: Pharmakon - Ciência médica e não médica
 email: heldercfelix@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Blog sobre ciência médica, pesquisa científica, oncologia pediátrica,
   farmacologia e outras ciências da saúde afins. Continuação do blog
   publicado em http://pharmakon.blogspot.com
-baseurl:
+baseurl: /pharmakon
 url: # the base hostname & protocol for your site
 twitter_username: fhcflx
 github_username:  fhcflx
 
 # Build settings
 markdown: kramdown
-
-subtitle: Ciência médica e não médica
-author: Francisco H C Felix
+subtitle: Pharmakon
+author: fhcflx
 simple_search: http://google.com/search
-description:
-name: gh-pages
+description: > # this means to ignore newlines until "baseurl:"
+  Blog sobre ciência médica, pesquisa científica, oncologia pediátrica,
+  farmacologia e outras ciências da saúde afins. Continuação do blog
+  publicado em http://pharmakon.blogspot.com
+name:
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: /articles/:short_year/:title
 timezone: America/New_York
@@ -38,9 +40,9 @@ page:
   extension: md
 editor: gvim
 git:
-  branch: master
+  branch: tufte
 transfer:
   command: rsync
   settings: -av
   source: _site/
-  destination: /Volumes/zero/jekyll/pharmakon
+  destination:
