@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Todas as postagens, ordem cronológica
+title: Todas as postagens
 ---
 
 <div class="home">
