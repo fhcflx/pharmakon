@@ -5,10 +5,12 @@ title: Marcadores
 
 <div class="tags-expo">
   <div class="tags-expo-list">
+    <li>
     {% for tag in site.tags %}
     <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
     {% endfor %}
-  </div>
+    </li>
+</div>
   <hr/>
   <div class="tags-expo-section">
     {% for tag in site.tags %}
