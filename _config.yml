@@ -22,10 +22,6 @@ markdown: kramdown
 subtitle: Ciência médica
 author: fhcflx
 simple_search: http://google.com/search
-description: > # this means to ignore newlines until "baseurl:"
-  Blog sobre ciência médica, pesquisa científica, oncologia pediátrica,
-  farmacologia e outras ciências da saúde afins. Continuação do blog
-  publicado em http://pharmakon.blogspot.com
 name:
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: /articles/:short_year/:title

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Todas as postagens
+title: Todas
 ---
 
 <div class="home">

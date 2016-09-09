@@ -4,6 +4,12 @@ layout: default
 <h1>{{ page.title}}</h1>
 <p class="subtitle">{{ page.date | date: "%B %-d, %Y" }}</p>
 
+<ul class="tags">
+  {% for tag in page.tags %}
+    <li><a href="{{ site.baseurl }}/marcadores#{{ tag }}" class="tag">{{ tag }}</a></li>
+  {% endfor %}
+</ul>
+
 {{ content }}
 
 {% include disqus.html %}

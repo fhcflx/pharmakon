@@ -3,26 +3,24 @@ layout: page
 title: Categorias
 ---
 
-<div class="tags-expo">
-  <div class="tags-expo-list">
-    {% for tag in site.categories %}
-    <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
-    {% endfor %}
-  </div>
-  <hr/>
-  <div class="tags-expo-section">
-    {% for tag in site.categories %}
-    <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
-    <ul class="tags-expo-posts">
-      {% for post in tag[1] %}
-        <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
-      <li>
-        {{ post.title }}
-      <small class="post-date">{{ post.date | date_to_string }}</small>
-      </li>
-      </a>
-      {% endfor %}
-    </ul>
-    {% endfor %}
-  </div>
-</div>
+{% capture site_categories %}{% for tag in site.categories %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign category_words = site_categories | split:',' | sort %}
+
+<!-- Posts by Tag -->
+<div style="width: 1200px;">
+  {% for item in (0..site.categories.size) %}{% unless forloop.last %}
+    {% capture this_word %}{{ category_words[item] }}{% endcapture %}
+    <h2 id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>
+    {% for tag in site.categories[this_word] %}{% if post.title != null %}
+      <div>
+        <span style="float: left;">
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </span>
+        <span style="float: right;">
+          {{ post.date | date_to_string }}
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    {% endif %}{% endfor %}
+  {% endunless %}{% endfor %}
+</div>  
