@@ -1,12 +1,12 @@
 <div>
-<ul style="width: 1200px;" class="tags">
+<ul style="max-width: 1200px; font-size: 80%" class="tags">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] }}{% endcapture %}
-    <li>
+    {% if site.tags[this_word].size>9 %}<li>
       <a href="#{{ this_word | cgi_escape }}" class="tag">{{ this_word }}
         <span>({{ site.tags[this_word].size }})</span>
       </a>
-    </li>
+    </li>{% endif %}
   {% endunless %}{% endfor %}
 </ul>
 </div>
