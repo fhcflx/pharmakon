@@ -2,7 +2,8 @@
 layout: post
 title:  "Minha experiência com PeerJ Preprints"
 date:   2015-12-07 12:00:00 -0300
-categories: "old_blog_import"
+tags:
+  - old blog import
 ---
 <div style="text-indent: 30px;">
 Sempre tive curiosidade sobre o repositório de <i>preprints</i> das ciências exatas, o <a href="http://arxiv.org/">arXiv</a> (lê-se 'arquaive'). Criado por <a href="https://en.wikipedia.org/wiki/Paul_Ginsparg">Paul Ginsparg</a>, um físico da Universidade de Cornell que é mundialmente conhecido por sua gênese do repositório <i>open access</i> de arquivos de física, originalmente sediado no <a href="http://www.nature.com/nature/debates/e-access/Articles/ginsparg.html">Los Alamos National Laboratory (LANL)</a>. Ele lançou a primeira versão do que viria a ser o arXiv em 14 de agosto de 1991 (coincidentemente, no dia de meu aniversário de 20 anos - sabe o que isso significa? Acertou, NADA!).
