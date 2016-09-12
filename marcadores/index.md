@@ -9,7 +9,7 @@ title: Marcadores
 {% include taglist.html %}
 
 <!-- Posts by Tag -->
-<div style="width: 1200px;">
+<div style="max-width: 1200px;">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] }}{% endcapture %}
     {% if site.tags[this_word].size>9 %}<h2 id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>{% endif %}
