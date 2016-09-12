@@ -54,7 +54,7 @@ Onde a introdução do filtro Liquid ```size``` permitiu escolher apenas os marc
 {% endraw %}
 ```
 
-Só queria mais uma coisa, marcadores em cada postagem! Novamente, peguei a sugestão de Pavel Dmytrenko e usar o [estilo de marcadores de Wouter Beeftink](http://codepen.io/wbeeftink/pen/dIaDH). Para isso, tive que cometer a ousadia de _retocar_ o arquivo ```tufte.css```. Copiei o código de CSS dos marcadores de Beeftink (exceto o referente ao body, pois queria manter a tipografia de Tufte) e colei no tufte.css (são pouco mais de 50 linhas).
+Só queria mais uma coisa, marcadores em cada postagem! Novamente, peguei a sugestão de Pavel Dmytrenko e usei o [estilo de marcadores de Wouter Beeftink](http://codepen.io/wbeeftink/pen/dIaDH). Para isso, tive que cometer a ousadia de _retocar_ o arquivo ```tufte.css```. Copiei o código de CSS dos marcadores de Beeftink (exceto o referente ao body, pois queria manter a tipografia de Tufte) e colei no tufte.css (são pouco mais de 50 linhas).
 
 ```css
 .tags {
