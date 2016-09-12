@@ -5,8 +5,8 @@
     {% include header.html %}
     <article class="group">
       {{ content }}
+      {% for layout=post %}{% include disqus.html %}{% endfor %}
     </article>
-    {% for layout=post %}{% include disqus.html %}{% endfor %}
     {% include print-footer.html %}
     {% include footer.html %}
   </body>
