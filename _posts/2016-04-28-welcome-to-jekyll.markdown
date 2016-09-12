@@ -4,6 +4,9 @@ title:  "Welcome to Jekyll! - como instalei Jekyll no Mac OS X El Capitan"
 date:   2016-04-28 16:02:51 -0300
 categories:
   - jekyll update
+  - Mac OS X El Capitan
+  - Ruby
+  - Bundler
 ---
 
 >You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
@@ -25,7 +28,7 @@ print_hi('Tom')
 
 Esta é a postagem de exemplo que vem no pacote do Jekyll. Ela dá informações sobre o local das postagens no sistema de diretórios, o _script_ do Jekyll para servir a página localmente, como adicionar novas postagens, como incluir _snippets_ de código, e direciona para a documentação.
 
-Jekyll foi fácil de instalar, uma vez que superado o problema de instalar uma cópia de [Ruby](https://www.ruby-lang.org/pt/) que possa ser usada para desenvolvimento no Mac OS X El Capitan. O sistema da Apple vem com uma cópia de Ruby pré-instalada que não pode ser usada facilmente. A sua pasta de instalação padrão é ```/usr/bin```, a qual, juntamente com outras pastas do sistema, são protegidas pelo _System Integrity Protection_. Ele não permite a modificação destas pastas, nem mesmo por usuários logados como _root_. A melhor maneira é instalar **outra cópia** do Ruby, funcional. Para esse fim, usei um gerenciador de pacotes, o [rbenv](https://github.com/rbenv/rbenv#readme), o qual permite escolher a versão a ser instalada. Isso é importante, pois o Jekyll 3 depende do Ruby v2. Particularmente, no meu sistema, obtive melhores resultados com Ruby 2.2. Então, a instalação procedeu assim:
+Jekyll foi fácil de instalar, uma vez superado o problema de instalar uma cópia de [Ruby](https://www.ruby-lang.org/pt/) que possa ser usada para desenvolvimento no Mac OS X El Capitan. O sistema da Apple vem com uma cópia de Ruby pré-instalada que não pode ser usada facilmente. A sua pasta de instalação padrão é ```/usr/bin```, a qual, juntamente com outras pastas do sistema, são protegidas pelo _System Integrity Protection_. Ele não permite a modificação destas pastas, nem mesmo por usuários logados como _root_. A melhor maneira é instalar **outra cópia** do Ruby, funcional. Para esse fim, usei um gerenciador de pacotes, o [rbenv](https://github.com/rbenv/rbenv#readme), o qual permite escolher a versão a ser instalada. Isso é importante, pois o Jekyll 3 depende do Ruby v2. Particularmente, no meu sistema, obtive melhores resultados com Ruby 2.2. Então, a instalação procedeu assim:
 
 > ATENÇÃO! Antes é necessário ter instalado [XCode](https://itunes.apple.com/br/app/xcode/id497799835?mt=12) e [Command Line Tools](https://developer.apple.com/opensource/) para Xcode.
 
