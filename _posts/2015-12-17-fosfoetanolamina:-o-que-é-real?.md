@@ -7,7 +7,6 @@ tags:
   - cancer
   - fosfoetanolamina
   - terapia alternativa
-blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-6679960266040497065
 ---
 
 Não é preciso apresentar a fosfoetanolamina, uma substância cujo nome vem sendo tão divulgado quanto pouco compreendido. Recentemente, uma polêmica acendeu-se a respeito do possível efeito anticâncer da fosfoetanolamina. Mas, afinal, o que é esta substância?
