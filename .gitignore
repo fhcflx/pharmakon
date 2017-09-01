@@ -4,3 +4,4 @@ _site
 ._*
 .DS\_Store
 config.codekit
+Gemfile.lock
