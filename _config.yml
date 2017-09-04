@@ -24,7 +24,7 @@ author: fhcflx
 simple_search: http://google.com/search
 name:
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-permalink: /articles/:short_year/:title
+permalink: /articles/:short_year/:title.html
 timezone: America/Fortaleza
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'README.md']
