@@ -41,9 +41,9 @@ transfer:
   settings: -av
   source: _site/
   destination:
- defaults:
+defaults:
   -
-   scope:
-     type: pages
-   values:
-     permalink: /:path/:basename:output_ext
+  scope:
+   type: pages
+  values:
+   permalink: /:path/:basename:output_ext
