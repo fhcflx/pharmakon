@@ -15,7 +15,7 @@ Em conjunto, classifico minha experiência com a publicação de pôsteres (e sl
 <br />
 <br />
 <figure>
-  <img alt="f1000" src="http://2.bp.blogspot.com/-X3fVz7UFgMk/Vm3MY8S9OGI/AAAAAAAAgK0/GC7tvgVlPLQ/s1600/f1000.png" width="550" /><img border="0" />
+  <img alt="f1000" src="http://2.bp.blogspot.com/-X3fVz7UFgMk/Vm3MY8S9OGI/AAAAAAAAgK0/GC7tvgVlPLQ/s1600/f1000.png" width="550 border="0" />
   <figcaption><br />Minhas submissões já publicadas no F1000Research.</figcaption>
 </figure>
 <br />

@@ -21,7 +21,7 @@ Esse problema levou Paul Ginsparg a criar uma caixa de entrada de email centrali
 <br />
 <br />
 <figure>
-  <img alt="LANL" height="400" src="https://upload.wikimedia.org/wikipedia/en/8/8f/ArXiv_1994.gif" style="margin-left: 1em; margin-right: 1em;" width="392" /><img border="0" />
+  <img alt="LANL" height="400" src="https://upload.wikimedia.org/wikipedia/en/8/8f/ArXiv_1994.gif" style="margin-left: 1em; margin-right: 1em;" width="392" border="0" />
   <figcaption>Fig1. - Tela do arXiv em 1994, navegador Mosaic. Naquela época, formulários em html eram novidade (fonte: Wikipedia).</figcaption>
 </figure>
 <br />
@@ -38,7 +38,7 @@ A publicação em acesso aberto, todavia, tomou proporções imprevisíveis, ao 
 <br />
 <br />
 <figure>
-  <img alt="arXiv" src="https://3.bp.blogspot.com/-ePTVa6wafTI/VmRbyVYfMnI/AAAAAAAAgJY/UCOTKsx1i5k/s1600/Captura%2Bde%2BTela%2B2015-12-06%2Ba%25CC%2580s%2B11.47.32.png" width="550" /><img border="0" />
+  <img alt="arXiv" src="https://3.bp.blogspot.com/-ePTVa6wafTI/VmRbyVYfMnI/AAAAAAAAgJY/UCOTKsx1i5k/s1600/Captura%2Bde%2BTela%2B2015-12-06%2Ba%25CC%2580s%2B11.47.32.png" width="550" border="0" />
   <figcaption>Fig2. - Tela atual do arXiv, navegador Safari.</figcaption>
 </figure>
 <br />
@@ -54,7 +54,7 @@ Repositórios de preprints para a área de saúde e ciências biológicas inclue
 <br />
 <br />
 <figure>
-  <img alt="bioRxiv" src="http://www.biorxiv.org/sites/default/files/bioRxiv_logo.png" height="138" width="400" /><img border="0" />
+  <img alt="bioRxiv" src="http://www.biorxiv.org/sites/default/files/bioRxiv_logo.png" height="138" width="400" border="0" />
   <figcaption>Fig3. - Logo do bioRxiv.</figcaption>
 </figure>
 <br />
@@ -73,7 +73,7 @@ Bom, depois de ler as <a href="https://peerj.com/about/preprints/scope-and-instr
 <br />
 <br />
 <figure>
-  <img alt="PeerJ" src="https://2.bp.blogspot.com/-m9WB-5cqYtQ/VmTyi0b-kYI/AAAAAAAAgJs/cOBOLOo0Rs8/s1600/Captura%2Bde%2BTela%2B2015-12-06%2Ba%25CC%2580s%2B23.43.39.png" width="550" /><img border="0" />
+  <img alt="PeerJ" src="https://2.bp.blogspot.com/-m9WB-5cqYtQ/VmTyi0b-kYI/AAAAAAAAgJs/cOBOLOo0Rs8/s1600/Captura%2Bde%2BTela%2B2015-12-06%2Ba%25CC%2580s%2B23.43.39.png" width="550" border="0" />
   <figcaption>Fig4. - Primeira tela para submissão no PeerJ.</figcaption>
 </figure>
 <br />
@@ -85,7 +85,7 @@ Ao iniciar o processo, vamos para uma tela onde existem diversos campos a serem 
 <br />
 <br />
 <figure>
-  <img alt="PeerJ" src="https://1.bp.blogspot.com/-q1XJ2XYSrVU/VmT16rXxLMI/AAAAAAAAgJ4/isVsFCv377o/s1600/Captura%2Bde%2BTela%2B2015-12-06%2Ba%25CC%2580s%2B23.49.41.png" width="550" /><img border="0" />
+  <img alt="PeerJ" src="https://1.bp.blogspot.com/-q1XJ2XYSrVU/VmT16rXxLMI/AAAAAAAAgJ4/isVsFCv377o/s1600/Captura%2Bde%2BTela%2B2015-12-06%2Ba%25CC%2580s%2B23.49.41.png" width="550" border="0" />
   <figcaption>Fig5. - Tela para submissão no PeerJ Preprints.</figcaption>
 </figure>
 <br />
