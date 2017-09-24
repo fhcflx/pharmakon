@@ -1,3 +1,6 @@
 source 'https://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins
-gem 'jekyll-import'
+group :jekyl_plugins do
+    gem "github-pages"
+    gem "jekyll-seo-tag"
+    gem 'jekyll-import'
+end

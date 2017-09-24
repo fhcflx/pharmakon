@@ -47,3 +47,6 @@ defaults:
     type: pages
    values:
     permalink: /:path/:basename:output_ext
+
+plugins:
+  - jekyll-seo-tag
