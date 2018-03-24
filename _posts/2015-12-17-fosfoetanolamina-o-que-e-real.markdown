@@ -13,8 +13,8 @@ permalink: /fosfoetanolamina/
 ---
 
 Não é preciso apresentar a fosfoetanolamina, uma substância cujo nome vem sendo tão divulgado quanto pouco compreendido. Recentemente, uma polêmica acendeu-se a respeito do possível efeito anticâncer da fosfoetanolamina. Mas, afinal, o que é esta substância?
-![Fosfoetanolamina](https://upload.wikimedia.org/wikipedia/commons/e/e6/Phosphorylethanolamine.svg)
-*Estrutura química da fosforiletanolamina, também conhecida como fosfoetanolamina.*
+![Fosfoetanolamina]({{ site.baseurl }}/assets/img/Phosphorylethanolamine.png)
+*Estrutura química da fosforiletanolamina, também conhecida como fosfoetanolamina. Fonte: [Fvasconcelos](https://commons.wikimedia.org/wiki/User:Fvasconcellos), domínio público.*
 <!--more-->
 
 A [fosforiletanolamina](http://pubchem.ncbi.nlm.nih.gov/compound/1015#section=Top), ou fosfoetanolamina,
