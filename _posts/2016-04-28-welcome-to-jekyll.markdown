@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Jekyll! - como instalei Jekyll no Mac OS X El Capitan"
 date:   2016-04-28 16:02:51 -0300
 categories:
-  - jekyll update
+  - Jekyll update
   - Mac OS X El Capitan
   - Ruby
   - Bundler

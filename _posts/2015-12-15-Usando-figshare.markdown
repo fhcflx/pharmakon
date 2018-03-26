@@ -3,7 +3,8 @@ layout: post
 title:  "Usando figshare"
 date:   2015-12-15 12:00:00 -0300
 tags:
-  - old blog import
+  - figshare
+  - Publicação acadêmica
 ---
 Bem <a href="http://pharmak.blogspot.com/2013/09/gliomas-em-criancas-aula-de-atualizacao.html" target="\_blank">antes</a> de me interessar por repositórios institucionais para pôsteres e slides, eu já havia começado a depositá-los no <a href="http://pt.slideshare.net/?ss">Slideshare</a>, serviço de armazenamento na nuvem que permite a visualização de slides em sites, blogs, redes sociais, etc. Esta funcionalidade do Slideshare sempre me agradou muito. Ele tinha tudo o que eu achava interessante para difusão de idéias: integração automática com o LinkedIn e outras redes sociais, snippets para incorporação fácil em blogs, páginas pessoais, institucionais e outras, além de uma página pessoal que centralizava todos os meus carregamentos. Além de todas estas facilidades, funcionalidades de edição online e análise de tráfego. Mas o Slideshare não é uma via de publicação. Seu conteúdo não tem facilidades para citação científica.
 <!--more-->
