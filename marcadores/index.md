@@ -12,14 +12,14 @@ title: Marcadores
 <div style="max-width: 1200px;">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] }}{% endcapture %}
-    {% if site.tags[this_word].size>9 %}<h2 id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>{% endif %}
+    {% if site.tags[this_word].size>5 %}<h2 id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>{% endif %}
     {% for post in site.tags[this_word] %}{% if site.tags[this_word].size>5 %}{% if post.title != null %}
       <div>
         <span style="float: left;">
           <a href="{{ post.url }}">{{ post.title }}</a>
         </span>
         <span style="float: right;">
-          {{ post.date | %d/%m/%Y }}
+          {{ post.date | date:"%d/%m/%Y" }}
         </span>
       </div>
       <div style="clear: both;"></div>
