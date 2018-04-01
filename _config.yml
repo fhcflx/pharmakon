@@ -33,21 +33,12 @@ post:
 page:
   template: _page.txt
   extension: md
-editor: gvim
-#git:
-#  branch: gh-pages
-# transfer:
-#  command: rsync
-#  settings: -av
-#  source: _site/
-#  destination:
 defaults:
   -
    scope:
     type: pages
    values:
     permalink: /:path/:basename:output_ext
-    author: ffelix
 
 plugins:
   - jekyll-seo-tag

@@ -4,6 +4,7 @@ title:  "Modalidades alternativas de publicação acadêmica"
 date:   2016-04-15 12:00:00 -0300
 tags:
   - Publicação acadêmica
+author: ffelix
 ---
 
 Atualmente, o paradigma da publicação científica gira basicamente em torno de um modelo: o de publicações editoradas e [revisadas por pares](https://pt.wikipedia.org/wiki/Revis%C3%A3o_por_pares). Dominado por algumas poucas empresas e instituições, este modelo baseia-se em periódicos científicos que publicam em meio impresso, na internet, ou ambos, trabalhos que passam por uma laboriosa seleção de qualidade. Inicialmente, um corpo editorial avalia a qualidade geral das submissões, sua adequação à linha editorial do periódico, sua aparente solidez científica, o desenho geral e o interesse para a audiência do periódico. Após este filtro altamente subjetivo, os manuscritos ainda não publicados são enviados para revisores técnicos, normalmente pessoas com profundo conhecimento da área sobre a qual a submissão trata. Pelo menos dois destes revisores são acionados pelos editores. Caso os dois aceitem a incubência e aprovem o manuscrito, o mesmo é encaminhado para publicação.

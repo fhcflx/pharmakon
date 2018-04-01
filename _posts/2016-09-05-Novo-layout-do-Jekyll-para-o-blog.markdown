@@ -6,6 +6,7 @@ tags:
   - Jekyll update
   - GitHub
   - Bundler
+author: ffelix
 ---
 
 Depois de migrar meu blog para o [GitHub Pages](https://pages.github.com)<label for="github-pages" class="margin-toggle sidenote-number"></label><input type="checkbox" id="github-pages" class="margin-toggle"/><span class="sidenote">GitHub Pages é o serviço de hospedagem e servidor de web do popular GitHub, repositório de código de programação e projetos.</span>, usando [Jekyll](https://jekyllrb.com), resolvi alterar o layout da página. Busquei temas para Jekyll, encontrando uma [lista](http://jekyllthemes.org) grande. Depois de muita indecisão, escolhi o tema [Tufte-Jekyll](http://jekyllthemes.org/themes/tufte-jekyll/), de Clay Harmon, baseado no [CSS](https://github.com/edwardtufte/tufte-css) criado por Dave Liepmann e Edward Tufte<label for="tufte" class="margin-toggle sidenote-number"></label><input type="checkbox" id="tufte" class="margin-toggle"/><span class="sidenote">[Tufte](https://en.wikipedia.org/wiki/Edward_Tufte), considerado pioneiro e mago da infografia e visualização de dados, ficou conhecido por seu estilo, com tipografia elegante, muitas notas à margem do texto e uso inteligente de gráficos.</span>
