@@ -1,5 +1,5 @@
 ---
 layout: tagpage
 title: Câncer
-tag: cancer
+tag: Câncer
 ---

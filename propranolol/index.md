@@ -1,5 +1,5 @@
 ---
 layout: tagpage
 title: Propranolol
-tag: propranolol
+tag: Propranolol
 ---
