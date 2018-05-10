@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Suco de romã para o tratamento de cistite hemorrágica secundária a quimioterapia"
-date:   2018-05-08 12:00:00 -0300
+date:   2018-05-07 12:00:00 -0300
 tags:
   - Câncer
 author: ffelix
