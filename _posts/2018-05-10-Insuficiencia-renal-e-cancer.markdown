@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Tratamento para insuficiência renal crônica em crianças e o risco de câncer"
-date:   2018-05-08 12:00:00 -0300
+date:   2018-05-10 12:00:00 -0300
 tags:
   - Câncer
 author: ffelix
 ---
-Pesquisadores israelenses publicaram um estudo observacional usando o Registro Nacional Israelense a fim de investigar a incidência de câncer em crianças e adolescentes com insuficiência renal tratadas com diálise por tempo prolongado ou transplante. Seus achados foram relatados no Journal of Pediatric Hematology/Oncology.
+Pesquisadores israelenses publicaram um estudo observacional usando o Registro Nacional Israelense a fim de investigar a incidência de câncer em crianças e adolescentes com insuficiência renal tratadas com diálise por tempo prolongado ou transplante. Seus achados foram relatados no _Journal of Pediatric Hematology/Oncology_.
 <!--more-->
 Os autores revisaram dados do Registro Nacional Israelense de Terapia de Reposição Renal, procurando pacientes entre 0-19 anos tratados entre 1990 e 2012. Os dados foram cruzados com informações do Registro Nacional Israelense de Câncer, para rastrear os casos de neoplasias. Eles calcularam a associação de variáveis com a ocorrência de malignidade através de análise univariada e a incidência de câncer ajustada para a idade no período estudado para comparação.
 
