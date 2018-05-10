@@ -7,7 +7,7 @@ tags:
 author: ffelix
 ---
 
-Numa revisão publicada no número 3 deste ano do Journal of Neuro-Oncology, o Dr. Rick da UCSF e colegas explicam o _Tumor Treating Fields_ (TTF), novo tratamento que foi incorporado ao tratamento padrão do glioblastoma, tumor cerebral mais frequente e mais letal em adultos.
+Numa revisão publicada no número 3 deste ano do _Journal of Neuro-Oncology_, o Dr. Rick da UCSF e colegas explicam o _Tumor Treating Fields_ (TTF), novo tratamento que foi incorporado ao tratamento padrão do glioblastoma, tumor cerebral mais frequente e mais letal em adultos.
 <!--more-->
 O TTF constitui um conceito inédito de tratamento, uma nova modalidade terapêutica baseada num mecanismo de ação nunca antes explorado. O TTF usa campos elétricos aplicados ao crânio dos pacientes para inibir o crescimento de células tumorais. O efeito de campos elétricos na biologia celular tem sido explorado há bastante tempo, mas não sem controvérsias. A técnica de eletroporação usa campos elétricos de alta intensidade e alta frequência para permitir a transferência de DNA através de membranas celulares. Já campos elétricos de intensidade moderada já haviam mostrado alterar a orientação de estruturas celulares. Em 2004, Kirson e colegas demonstraram que campos elétricos de baixa intensidade e frequência intermediária podiam inibir a replicação de células tumorais _in vitro_. Posteriormente, os mesmos pesquisadores mostraram a inibição do crescimento de tumores em diversas espécies animais. No entanto, desde o início a recepção desde nova modalidade de tratamento foi variável, devido ao ceticsmo sobre seu mecanismo de ação e ao fato de que era difícil reproduzir os resultados.
 

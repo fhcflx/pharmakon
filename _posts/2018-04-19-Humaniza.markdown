@@ -7,7 +7,7 @@ tags:
 author: ffelix
 ---
 
-Nesta semana, o Journal of Clinical Oncology (JCO) publicou os resultados de uma pesquisa do MD Anderson Câncer Center que avaliou a percepção de pacientes com câncer avançado sobre a humanização da consulta oncológica. 
+Nesta semana, o _Journal of Clinical Oncology_ (JCO) publicou os resultados de uma pesquisa do MD Anderson Câncer Center que avaliou a percepção de pacientes com câncer avançado sobre a humanização da consulta oncológica. 
 <!--more-->
 Pacientes com mais de 18 anos e câncer avançado foram recrutados para a pesquisa na Clinica de Cuidados Paliativos e assistiram dois vídeos que mostravam uma encenação artística de consulta médica. Em um dos vídeos, o médico atendia o paciente com um notepad, sem usar outros equipamentos eletrônicos (consulta face a face). No outro vídeo, o médico usava um computador de mesa padrão para tomar notas (consulta com computador). Todos os pacientes assistiram aleatoriamente aos dois vídeos, respondendo um questionário após cada exibição. Nem os atores que fizeram os vídeos e nem os pacientes conheciam os objetivos da pesquisa.
 

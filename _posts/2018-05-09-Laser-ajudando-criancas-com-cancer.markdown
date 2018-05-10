@@ -7,7 +7,7 @@ tags:
 author: ffelix
 ---
 
-Pesquisadores da _Associazone Italiana di Ematologia e Oncologia Pediatrica_ publicaram um estudo sobre a eficácia da **Fotobiomodulação** com laser no tratamento da mucosite severa em crianças e adolescentes com câncer. O relato saiu na _Pediatric Blood and Cancer (PBC)_
+Pesquisadores da _Associazone Italiana di Ematologia e Oncologia Pediatrica_ publicaram um estudo sobre a eficácia da **Fotobiomodulação** com laser no tratamento da mucosite severa em crianças e adolescentes com câncer. O relato saiu na _Pediatric Blood and Cancer_ (PBC).
 <!--more-->
 A mucosite oral é uma das complicações frequentes e debilitantes da quimioterapia (QT) do câncer. Crianças e adolescentes são mais suscetíveis ao desenvolvimento de mucosite, a qual ocorre em 40-80% dos pacientes, dependendo do tipo e dose da QT realizada. A mucosite traz dor e dificuldade de alimentação aos pacientes, muitas vezes com necessidade de internação para hidratação endovenosa e suporte nutricional. Não existe um tratamento padrão, e várias modalidades são empregadas, incluindo a terapia com laser, denominada _fotobiomodulação_. 
 

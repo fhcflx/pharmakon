@@ -7,7 +7,7 @@ tags:
 author: ffelix
 ---
 
-No número 13 deste ano do Journal of Clinical Oncology (JCO), os resultados do maior ensaio clínico realizado com pacientes pediátricos com leucemia mielóide crônica (LMC) tratados com dasatinibe foram publicados.
+No número 13 deste ano do _Journal of Clinical Oncology_ (JCO), os resultados do maior ensaio clínico realizado com pacientes pediátricos com leucemia mielóide crônica (LMC) tratados com dasatinibe foram publicados.
 <!--more-->
 Pesquisadores de um consórcio internacional de tratamento de pacientes pediátricos com LMC, que incluiu a Dra Lucia Lee do GRAAC/UNIFESP e o Dr Carmino de Souza da Universidade de Campinas, publicaram os resultados do maior estudo da utilização de dasatinibe para o tratamento de pacientes pediátricos com LMC na fase crônica. O dasatinibe já é aprovado para o tratamento de LMC na fase crônica e um ensaio fase I prévio já determinara as doses ideais na faixa etária pediátrica.
 
