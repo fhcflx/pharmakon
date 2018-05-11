@@ -27,7 +27,7 @@ O estudo incluiu 810 pacientes com GBM que haviam sido recrutados para dois gran
 
 Os resultados mostraram sem ambiguidade que nenhuma destas classes de medicamentos teve influência na sobrevida dos pacientes com GBM. Este estudo reuniu um número bem maior de pacientes em comparação com os outros citados. Além disso, tem a vantagem de ser uma análise secundária de um grupo homogêneo de pacientes recrutados prospectivamente.
 
-Este estudo pode ser lido na íntegra [aqui]().
+Este estudo pode ser lido na íntegra [aqui](http://bit.ly/fhcflxAb).
 
 O caso do reposicionamento de drogas cardiovasculares no tratamento do GBM constitui um exemplo das virtudes e fraquezas dos estudos retrospectivos. Não é incomum que estudos assim desenhados sugiram efeitos aue nunca são confirmados em ensaios prospectivos. A principal razão é o conjunto de variáveis de confundimento. 
 
