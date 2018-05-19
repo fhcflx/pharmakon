@@ -20,4 +20,4 @@ Em relação ao risco do desenvolvimento de meningiomas, a pesquisa não mostrou
 
 O grupo responsável pela pesquisa ainda não tem nenhuma teoria sobre as causas dessa associação. É possível que um mecanismo imunológico específico ainda não conhecido esteja agindo e inibindo o crescimento de células de glioma. O recente aumento de interesse em imunoterapia do câncer mostra que essa é uma vertente ampla para o desenvolvimento de possíveis novos tratamentos.
 
-Veja o trabalho completo [aqui](bit.ly/fhcflxSg).
+Veja o trabalho completo [aqui](http://bit.ly/fhcflxSg).
