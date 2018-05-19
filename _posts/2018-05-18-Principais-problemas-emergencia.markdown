@@ -1,4 +1,4 @@
-—-
+---
 layout: post 
 title: "Principais problemas que levam crianças com câncer à emergência"
 date: 2018-05-18 08:00:00 -0700
@@ -6,7 +6,7 @@ tags:
   - Câncer
   - Suporte
 author: ffelix
-—-
+---
 
 Crianças e adolescentes com câncer utilizam frequente o serviço de emergência médica, mas se desconhecem os principais problemas que as levam a procurar uma emergência. Uma pesquisa publicada no _Journal of Pediatric Hematology/Oncology_ (JPHO) tenta responder esta questão.
 <!--more-->

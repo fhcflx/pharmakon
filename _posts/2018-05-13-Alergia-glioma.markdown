@@ -1,4 +1,4 @@
-—-
+---
 layout: post 
 title: "Alergia e o risco de desenvolver tumores cerebrais"
 date: 2018-05-13 08:00:00 -0700
@@ -6,7 +6,7 @@ tags:
   - Câncer
   - Imunoterapia
 author: ffelix
-—-
+---
 
 No número 2 do volume 138 do _Journal of Neuro-Oncology_ (JCO), um grupo de pesquisadores franceses publicou um trabalho investigando se as alegações de que a alergia reduz o risco de tumores cerebrais seriam verdade ou não.
 <!--more-->
