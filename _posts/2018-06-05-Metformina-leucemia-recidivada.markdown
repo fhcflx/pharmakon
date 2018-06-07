@@ -33,4 +33,4 @@ metformina realmente pode ajudar no tratamento de LLA refratária através da in
 próximo passo é planejar e conduzir ensaios fase II para confirmar o efeito da metformina nestes pacientes que, em geral, não tem alternativa
 de tratamento para sua doença.
 
-O artigo completo pode ser lido [aqui](http://bit.ly/2LvLe09).
+O artigo completo pode ser lido [aqui](http://bit.ly/fhcflx09).
