@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: "Metformina usada em crianças e adolescentes dom leucemia recidivada"
+title: "Metformina usada em crianças e adolescentes com leucemia recidivada"
 date: 2018-06-05 08:00:00 -0700
 tags:
   - Câncer
