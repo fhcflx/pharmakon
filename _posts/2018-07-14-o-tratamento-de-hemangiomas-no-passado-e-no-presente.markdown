@@ -9,7 +9,7 @@ tags:
 - Anomalias vasculares
 ---
 Essa é uma revisão de uma postagem de 4 anos atrás, quando faziam 5 anos que o tratamento dos hemangiomas tinha sido revolucionado pela descoberta do efeito do propranolol e dos betabkoqueadores. De lá para cá, essa revolução tornou-se o novo padrão de tratamento destes tumores vasculares. Mas, afinal, como se tratavam os hemangiomas antes?
-
+<!--more-->
 Antes de tudo, vamos definir o que são hemangiomas: eles são tumores vasculares, benignos (nunca evoluem para tumores malignos), típicos de bebês (nunca surgem em crianças grandes e adolescentes), que crescem rapidamente no primeiro ano de vida e involuem espontaneamente ao longo de vários anos, causando complicações numa minoria de casos (10-15%) e deixando cicatrizes esteticamente problemáticas em 1/3 dos casos. Quando pais procuram o médico com crianças com hemangiomas, muitas vezes já se tratam de casos complicados, pois na maioria dos casos simples a lesão é pequena e reduz sem despertar maiores preocupações na família. Os hemangiomas são também chamados de _hemangiomas infantis_ (termo preferido) ou hemangiomas capilares.
 
 Lesões que crescem lentamente ou não crescem, que surgem em crianças maiores ou adultos, _não são hemangiomas infantis_! Devem ser outras formas de anomalias vasculares, as quais existem às centenas. É muito comum que pacientes e familiares sejam informados erroneamente que essas lesões constituem hemangiomas.
@@ -18,7 +18,7 @@ Lesões que crescem lentamente ou não crescem, que surgem em crianças maiores 
 ![](http://4.bp.blogspot.com/-psMv09JO_0c/UynC_otufTI/AAAAAAAAZ_Y/Uo7_XSXyx4Q/s1600/Captura+de+Tela+2014-03-19+a%CC%80s+11.24.00.png)
 
 Figuras retiradas do livro Mulliken &amp; Young's Vascular Anomalies, Hemangiomas and Malformations, 2 ed., Oxford University Press, 2013 (protegidas por direitos autorais).
-    <!--more-->
+   
 O professor John B. Mulliken, considerado uma
       das maiores autoridades em anomalias vasculares do mundo e discípulo de Judah
       Folkman (1933-2008), o descobridor da angiogênese, nos mostrava, na introdução do capítulo de sua clássica obra sobre o tratamento de hemangiomas, um interessante histórico.  Logo no começo, ele avisa: "o hemangioma vermelho brilhante de rápido crescimento nos leva a tomar uma providência, a fazer algo, qualquer coisa". Assim, a ansiedade relacionada com esta lesão ordinariamente benigna e que não requer tratamento na maioria dos casos (sabemos bem hoje) sempre levou mães e médicos ansiosos a tentar as mais estapafúrdias terapias possíveis. No século XVIII, era comum a "queimação" com "ferro quente" (cautério), ou ainda a extirpação cirúrgica de lesões que, muitas vezes, regrediriam espontaneamente. Vários casos de hemorragias graves com óbito de crianças com hemangiomas, mesmo pequenos, foram descritas na literatura antiga, como resultado de técnicas abstrusas de tratamento.
