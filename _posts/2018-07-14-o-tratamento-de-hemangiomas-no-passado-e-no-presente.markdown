@@ -8,7 +8,7 @@ tags:
 - Hemangioma
 - Anomalias vasculares
 ---
-Essa é uma revisão de uma postagem de 4 anos atrás, quando faziam 5 anos que o tratamento dos hemangiomas tinha sido revolucionado pela descoberta do efeito do propranolol e dos betabkoqueadores. De lá para cá, essa revolução tornou-se o novo padrão de tratamento destes tumores vasculares. Mas, afinal, como se tratavam os hemangiomas antes?
+Essa é uma revisão de uma postagem de 4 anos atrás, quando faziam 5 anos que o tratamento dos hemangiomas tinha sido revolucionado pela descoberta do efeito do propranolol e dos betabloqueadores. De lá para cá, essa revolução tornou-se o novo padrão de tratamento destes tumores vasculares. Mas, afinal, como se tratavam os hemangiomas antes?
 <!--more-->
 
 Antes de tudo, vamos definir o que são hemangiomas: eles são tumores vasculares, benignos (nunca evoluem para tumores malignos), típicos de bebês (nunca surgem em crianças grandes e adolescentes). Crescem rapidamente no primeiro ano de vida e involuem espontaneamente ao longo de vários anos, causando complicações numa minoria de casos (10-15%) e deixando cicatrizes esteticamente problemáticas em 1/3 dos casos. Quando pais procuram o médico com crianças com hemangiomas, muitas vezes já se tratam de casos complicados, pois na maioria dos casos simples a lesão é pequena e reduz sem despertar maiores preocupações na família. Os hemangiomas são também chamados de _hemangiomas infantis_ (termo preferido) ou hemangiomas capilares.
