@@ -14,9 +14,9 @@ Antes de tudo, vamos definir o que são hemangiomas: eles são tumores vasculare
 
 Lesões que crescem lentamente ou não crescem, que surgem em crianças maiores ou adultos, _não são hemangiomas infantis_! Devem ser outras formas de anomalias vasculares, as quais existem às centenas. É muito comum que pacientes e familiares sejam informados erroneamente que essas lesões constituem hemangiomas.
 
-![http://4.bp.blogspot.com/-OsJc9f__W2s/UynC-rNiobI/AAAAAAAAZ_Q/7AAE-94urB8/s1600/Captura+de+Tela+2014-03-19+a%CC%80s+11.13.04.png]()
-![http://4.bp.blogspot.com/-psMv09JO_0c/UynC_otufTI/AAAAAAAAZ_Y/Uo7_XSXyx4Q/s1600/Captura+de+Tela+2014-03-19+a%CC%80s+11.24.00.png]()
-![http://1.bp.blogspot.com/-GPDrIbpSG7g/UynC_NBDKxI/AAAAAAAAZ_U/2p36_vgf8XU/s1600/Captura+de+Tela+2014-03-19+a%CC%80s+12.27.19.png]()
+![](http://4.bp.blogspot.com/-OsJc9f__W2s/UynC-rNiobI/AAAAAAAAZ_Q/7AAE-94urB8/s1600/Captura+de+Tela+2014-03-19+a%CC%80s+11.13.04.png)
+![](http://4.bp.blogspot.com/-psMv09JO_0c/UynC_otufTI/AAAAAAAAZ_Y/Uo7_XSXyx4Q/s1600/Captura+de+Tela+2014-03-19+a%CC%80s+11.24.00.png)
+
 Figuras retiradas do livro Mulliken &amp; Young's Vascular Anomalies, Hemangiomas and Malformations, 2 ed., Oxford University Press, 2013 (protegidas por direitos autorais).
     <!--more-->
 O professor John B. Mulliken, considerado uma
@@ -29,7 +29,7 @@ Ainda é preocupante a tendência de alguns médicos de voltar aos velhos tratam
 
 A quem procurar quando uma criança tem um hemangioma? _Não existe uma especialidade devotada às chamadas anomalias vasculares, então não se pode falar de um grupo de médicos ou uma especialidade que seja a “melhor” para conduzir hemangiomas._ Os maiores especialistas nestas lesões são de varias especialidades diferentes como o dr. Mulliken (cirurgião plástico), como a dra. Adams (onco-hematologista pediátrica), que constituem as maiores autoridades mundiais e como a dra. Leauté-Labréze (dermatologista), a qual descobriu recentemente o uso de propranolol para hemangiomas. No entanto, a maioria dos cirurgiões, oncologistas ou dermatologistas não tem experiência com o tratamento de hemangiomas, ou a tem de forma limitada. Todos os médicos, porém, podem e devem ter noções gerais sobre anomalias vasculares, incluindo quando referir para um colega com reconhecida experiência.
 
-![http://1.bp.blogspot.com/-oSJ6nNh9FAQ/Uyo_xbeZT_I/AAAAAAAAZ_w/7v4oePhAcrg/s1600/Captura+de+Tela+2014-03-19+a%CC%80s+12.26.43.png]()
+![](http://1.bp.blogspot.com/-oSJ6nNh9FAQ/Uyo_xbeZT_I/AAAAAAAAZ_w/7v4oePhAcrg/s1600/Captura+de+Tela+2014-03-19+a%CC%80s+12.26.43.png)
 Essa imagem parcial, retirada de capítulo do livro do dr. Mulliken, mostra uma jovem que desenvolveu um grande hemangioma infantil na face. O seguimento, **ABSOLUTAMENTE SEM NENHUM TRATAMENTO**, é testemunho de que a regressão espontânea dos hemangiomas, que pode demorar vários anos, muitas vezes não deixa nenhuma marca posterior.
 
 Assim, na dúvida, informe-se com médicos ou outros pacientes quem é o médico que tem mais experiência com o tratamento de hemangiomas, independente da especialidade. Qual o papel da cirurgia no tratamento dos hemangiomas? Mesmo antigamente, como se viu, esse papel era limitado. É comum que pais ansiosos fantasiem que “basta retirar o hemangioma e meu filho(a) ficará normal”! Mas é uma ilusão: na maioria dos casos de hemangiomas complicados, a cirurgi é excessivamente mutiladora e deixará grandes cicatrizes para o resto da vida. Nos casos simples, basta aguardar que a lesão desaparece sozinha. É importante, no entanto, que um diagnóstico bem feito seja realizado, pois outras anomalias vasculares não vão involuir espontaneamente. Em alguns casos selecionados e bem indicados, a cirurgia pode sim ser positiva e ajudar.
