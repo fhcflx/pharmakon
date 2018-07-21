@@ -16,7 +16,7 @@ title: Marcadores
     {% for post in site.tags[this_word] %}{% if site.tags[this_word].size>5 %}{% if post.title != null %}
       <div>
         <span style="float: left;">
-          <a href="{{ post.url }}">{{ post.title }}</a>
+          <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
         </span>
         <span style="float: right;">
           {{ post.date | date:"%d/%m/%Y" }}
