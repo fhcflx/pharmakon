@@ -17,6 +17,8 @@ Um total de 101 pacientes participou do estudo. Uma semana após o tratamento, q
 
 Os autores do estudo concluíram que a fotobiomodulação laser mostrou-se um tratamento eficaz e seguro para a mucosite oral pós-QT, acelerando a recuperação da mucosa e reduzindo a dor.
 
+_Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._ 
+
 Leia o estudo completo [aqui](http://bit.ly/fhcflxB6).
 
 Outro estudo publicado na PBC foi realizado por pesquisadores do _Saint Jude Children's Research Hospital_. Eles criaram um sistema _online_ interativo para estimular jovens sobreviventes de câncer pediátrico a realizar atividade física regular. O exercício físico associa-se com melhor qualidade de vida e menos recorrência nesta população.
@@ -24,5 +26,7 @@ Outro estudo publicado na PBC foi realizado por pesquisadores do _Saint Jude Chi
 O protocolo de atividade física do _Center for Disease Control and Prevention_ recomenda &#8805; 60 minutos de atividade por dia, 7 dias por semana. Os participantes do estudo receberam material educacional, um monitor de atividade e tiveram acesso a um _website_ criado para encorajar a participação em atividades físicas através de um sistema de recompensas. Atividades diárias eram informadas através do monitor, acumulando pontos e promovendo um avatar a conquistar níveis de dificuldade consecutivos. Os pontos acumulados também podiam ser trocados por prêmios, como camisetas ou adesivos. Participantes de um grupo controle recebiam apenas o monitor de atividade e material educacional.
 
 Setenta e oito participantes completaram o estudo. Os participantes que usaram o _website_ obtiveram melhores escores físicos e neurocognitivos do que os participantes do grupo controle. Os pesquisadores concluíram que a estratégia interativa foi bem sucedida e melhor para promover aderência à atividade física entre os sobreviventes de câncer pediátrico.
+
+_Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._ 
 
 Leia o estudo completo [aqui](http://bit.ly/fhcflxFT).

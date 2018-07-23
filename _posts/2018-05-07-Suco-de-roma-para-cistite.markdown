@@ -21,4 +21,6 @@ Os resultados mostraram que a função da bexiga foi melhor preservada e a destr
 
 Os autores concluíram que os efeitos do suco de romã podem ser benéficos no tratamento da cistite hemorrágica induzida por CTX em animais experimentais, devido a seus efeitos anti-oxidante e anti-inflamatório. 
 
+_Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._ 
+
 Leia o estudo completo [aqui](http://bit.ly/fhcflx7F).

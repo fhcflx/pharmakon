@@ -31,4 +31,6 @@ Alpelisibe é um inibidor da isoforma PIK3CA (p110&alpha;) da PI3K. O ensaio fas
 
 Os autores concluíram que este estudo mostrou que o tratamento com alpelisibe é tolerável dentro das doses especificadas e mostrou eficácia inicial promissora, dando suporte ao racional de tratar pacientes com tumores portadores de mutações de PIK3CA (PI3K&alpha;).
 
+_Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
+
 Veja a publicação completa [aqui](http://ascopubs.org/doi/abs/10.1200/JCO.2017.72.7107).

@@ -19,4 +19,6 @@ Os 20 genes mais afetados por alterações, em ordem, foram: TP53, MDM2, CDK4, R
 
 Os autores concluíram que, em pacientes adultos com sarcomas de partes moles, vale a pena estudar a genômica dos tumores a fim de personalizar o tratamento com terapias alvo adequadas para as alterações genéticas encontradas com grande frequência nestes pacientes.
 
+_Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._ 
+
 O artigo completo pode ser lido [aqui](http://bit.ly/fhcflxFJ)

@@ -35,4 +35,6 @@ com o fato de que estes pacientes têm mais lesões de extremidade e menos lesõ
 de disseminação extrapulmonar entre os mais velhos. Tumores axiais, presença de metástases e metástases extrapulmonares são todos fatores
 que se associam com menor sobrevida, o que parece dar suporte a estas conclusões.
 
+_Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._ 
+
 O estudo pode ser lido [aqui](http://bit.ly/fhcflx9O).

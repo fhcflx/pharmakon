@@ -20,5 +20,6 @@ O novo tratamento com TTF tem características e limitações únicas. Os pacien
 
 Mais pesquisas estão sendo realizadas com TTF para tumores cerebrais, e várias possibilidades interessantes são vislumbradas. Entre elas, o uso de TTF em crianças e adolescentes e antes da radioterapia para amplificar seu efeito. Outras drogas, inclusive agentes biológicos e terapia alvo, estão sendo testados em combinação com TTF para tratar glioblastoma. Uma nova modalidade de terapia oncológica está nascendo, e sua utilização em combinação com as outras modalidades clássicas, cirurgia, radioterapia e quimioterapia, ou com outras modalidades novas, como imunoterapia, promete modificar para sempre o modo como os tumores cerebrais são tratados.
 
-Leia o artigo original [aqui](https://link.springer.com/article/10.1007/s11060-018-2768-x?wt_mc=alerts.TOCjournals&utm_source=toc&utm_medium=email&utm_content=11060&utm_campaign=).
+_Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
+Leia o artigo original [aqui](https://link.springer.com/article/10.1007/s11060-018-2768-x?wt_mc=alerts.TOCjournals&utm_source=toc&utm_medium=email&utm_content=11060&utm_campaign=).
