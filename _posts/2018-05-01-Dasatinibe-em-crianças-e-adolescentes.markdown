@@ -7,13 +7,14 @@ tags:
 author: ffelix
 ---
 
-No número 13 deste ano do _Journal of Clinical Oncology_ (JCO), os resultados do maior ensaio clínico realizado com pacientes pediátricos com leucemia mielóide crônica (LMC) tratados com dasatinibe foram publicados.
+No número 13 deste ano do _Journal of Clinical Oncology_ (JCO), os resultados do maior ensaio clínico realizado com pacientes pediátricos com leucemia mielóide crônica (LMC){% include lmc.html %} tratados com dasatinibe foram publicados.
 <!--more-->
-Pesquisadores de um consórcio internacional de tratamento de pacientes pediátricos com LMC, que incluiu a Dra Lucia Lee do GRAAC/UNIFESP e o Dr Carmino de Souza da Universidade de Campinas, publicaram os resultados do maior estudo da utilização de dasatinibe para o tratamento de pacientes pediátricos com LMC na fase crônica. O dasatinibe já é aprovado para o tratamento de LMC na fase crônica e um ensaio fase I prévio já determinara as doses ideais na faixa etária pediátrica.
+
+Pesquisadores de um consórcio internacional de tratamento de pacientes pediátricos com LMC, que incluiu a Dra Lucia Lee do GRAAC/UNIFESP e o Dr Carmino de Souza da Universidade de Campinas, publicaram os resultados do maior estudo da utilização de dasatinibe para o tratamento de pacientes pediátricos com LMC na fase crônica. O dasatinibe já é aprovado para o tratamento de LMC na fase crônica e um ensaio fase I{% include fases.html %} prévio já determinara as doses ideais na faixa etária pediátrica.
 
 Neste estudo fase II, 113 pacientes com LMC na fase crônica foram tratados com dasatinibe suspensão oral após diagnóstico inicial ou após desenvolverem resistência ao imatinibe. A resposta citogenética foi atingida com 3-6 meses de tratamento e a remissão citogenética completa foi de 76-92% em 1 ano de tratamento. A sobrevida livre de progressão foi de 78-93% em 4 anos.
 
-O tratamento foi bem tolerado e nenhum evento de efusão pleural ou pericárdica, nem hipertensão pulmonar foi observado. Apenas 4% dos pacientes apresentou alterações do crescimento e desenvolvimento. Em conclusão, este estudo mostrou que o dasatinibe é muito eficaz e seguro em pacientes pediátricos com LMC em fase crônica.
+O tratamento foi bem tolerado e nenhum evento de efusão pleural ou pericárdica{% include derrame.html %}, nem hipertensão pulmonar foi observado. Apenas 4% dos pacientes apresentou alterações do crescimento e desenvolvimento. Em conclusão, este estudo mostrou que o dasatinibe é muito eficaz e seguro em pacientes pediátricos com LMC em fase crônica.
 
 Veja a publicação [aqui](http://ascopubs.org/doi/abs/10.1200/JCO.2017.75.9597).
 
