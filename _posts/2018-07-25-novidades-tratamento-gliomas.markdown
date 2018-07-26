@@ -30,8 +30,10 @@ A chance de sobrevida varia radicalmente com o tipo de tumor. Enquanto mais de 8
 |Meduloblastoma|Maiores que 3 anos|RTQT|
 |Tumores embrionários|Maiores que 3 anos|RTQT|
 |Ependimoma|Maiores que 1 ano|RT|
+_ <sup>*<\sup>Gliomas difusos de tronco, o tipo mais comum de glioma maligno em crianças, são tratados à parte._
 
-Na tabela, as colunas mostram a classificacação clínica do paciente (Diagnóstico), informações sobre a doença (Detalhes) e o tratamento mais indicado pela literatura científica mais recente (Recomendação). Abreviaturas: RT (radioterapia{% include radioterapi.html %}), QT (quimioterapia{% include quimio.html %}), RTQT (radioquimioterapia).
+
+Na tabela, as colunas mostram a classificacação clínica do paciente (Diagnóstico), informações sobre a doença (Detalhes) e o tratamento mais indicado pela literatura científica mais recente (Recomendação). Abreviaturas: RT (radioterapia{% include radioterapia.html %}), QT (quimioterapia{% include quimio.html %}), RTQT (radioquimioterapia).
 
 _Nota: todas as informações nestas tabelas foram retiradas da literatura científica citada, porém não necessariamente refletem a prática e a opinião de todos os profissionais e todos os centros envolvidos no tratamento de crianças com tumores cerebrais. Cada centro especializado ou profissional individual pode utilizar informações ou referências diferentes e pode informar chances de sobrevida diferentes, dependendo de suas experiências individuais._
 
@@ -39,7 +41,7 @@ _Nota: todas as informações nestas tabelas foram retiradas da literatura cient
 
 **Gliomas de alto grau:** a maior novidade foi a demonstração que o glioblastoma e outros gliomas malignos são bem diferentes em crianças e em adultos. Enquanto os adultos com gliomas malignos tem mutações dos genes EGFR e IDH, as crianças apresentam mutações do gene H3F3A ou H3F3B. Isso explica porque os tratamentos funcionam diferente para adultos e crianças. Enquanto adultos respondem ao medicamento temozolomida, as crianças somente vão ter resposta se for acrescentado o medicamento lomustina (terapia alquilante dual).
 
-**Gliomas difusos de tronco cerebral:** neste grupo de pacientes, o padrão de tratamento continua sendo a RT, embora um grande esforço esteja sendo desenvolvido no mundo inteiro para tentar desenvolver uma terapia alvo{% include.html %} para essa doença refratária à QT. Inibidores da enzima HDAC, o ácido valpróico e o SAHA estão sendo testados no mundo inteiro. Dados preliminares apontam a possível eficacia destas drogas nessa doença, a qual quase sempre tem a mutação H3K27M.
+**Gliomas difusos de tronco cerebral:** neste grupo de pacientes, o padrão de tratamento continua sendo a RT, embora um grande esforço esteja sendo desenvolvido no mundo inteiro para tentar desenvolver uma terapia alvo{% include alvo.html %} para essa doença refratária à QT. Inibidores da enzima HDAC, o ácido valpróico e o SAHA estão sendo testados no mundo inteiro. Dados preliminares apontam a possível eficacia destas drogas nessa doença, a qual quase sempre tem a mutação H3K27M.
 
 **Meduloblastomas:** tumores malignos mais comuns em crianças e com uma das melhores taxas de cura. A grande novidade recente é o uso de biologia molecular para classificar os pacientes em 4 grupos, um deles com resultados piores ao tratamento e o restante  com melhores resultados. Estas novas informações ainda serão integradas aos tratamemtos.
 
