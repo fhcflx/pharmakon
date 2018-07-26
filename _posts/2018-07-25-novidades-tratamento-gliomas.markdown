@@ -25,12 +25,12 @@ A chance de sobrevida varia radicalmente com o tipo de tumor. Enquanto mais de 8
 |Diagnóstico|Detalhes|Recomendação|
 | --- |: --- :| --- :|
 |Glioma de baixo grau|Recorrente ou progressivo|Vimblastina semanal|
-|Glioma de alto grau<sup>*<\sup>|Maiores que 3 anos|RT e QT oral|
+|Glioma de alto grau<sup>*</sup>|Maiores que 3 anos|RT e QT oral|
 |Glioma difuso de tronco cerebral|Maiores que 3 anos|RT|
 |Meduloblastoma|Maiores que 3 anos|RTQT|
 |Tumores embrionários|Maiores que 3 anos|RTQT|
 |Ependimoma|Maiores que 1 ano|RT|
-_ <sup>*<\sup>Gliomas difusos de tronco, o tipo mais comum de glioma maligno em crianças, são tratados à parte._
+_ <sup>*</sup>Gliomas difusos de tronco, o tipo mais comum de glioma maligno em crianças, são tratados à parte._
 
 
 Na tabela, as colunas mostram a classificacação clínica do paciente (Diagnóstico), informações sobre a doença (Detalhes) e o tratamento mais indicado pela literatura científica mais recente (Recomendação). Abreviaturas: RT (radioterapia{% include radioterapia.html %}), QT (quimioterapia{% include quimio.html %}), RTQT (radioquimioterapia).
