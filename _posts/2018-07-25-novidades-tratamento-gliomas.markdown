@@ -30,6 +30,7 @@ A chance de sobrevida varia radicalmente com o tipo de tumor. Enquanto mais de 8
 | Meduloblastoma | Maiores que 3 anos | RTQT |
 | Tumores embrionários | Maiores que 3 anos | RTQT |
 | Ependimoma | Maiores que 1 ano | RT |
+
 _ <sup>*</sup>Gliomas difusos de tronco, o tipo mais comum de glioma maligno em crianças, são tratados à parte._
 
 
