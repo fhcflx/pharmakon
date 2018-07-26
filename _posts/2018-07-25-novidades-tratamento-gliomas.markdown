@@ -22,14 +22,14 @@ Isso significa que cerca de metade das crianças diagnosticadas com tumor cerebr
 
 A chance de sobrevida varia radicalmente com o tipo de tumor. Enquanto mais de 85-90% dos pacientes com gliomas{% include glioma.html %} de baixo grau alcançam sobrevida prolongada, pacientes com gliomas de alto grau ou gliomas difusos da ponte têm um prognóstico ruim - menos de 10% vivem mais de 2 anos nas séries internacionais (Felix, 2013).&nbsp;A chance de sobrevida depende, fundamentalmente, do diagnóstico e tratamento adequados os quais somente podem ser oferecidos em centros especializados e multidisciplinares. É importante que os pacientes recebam a atenção de profissionais com experiência e conhecimento e tenham ao seu alcance os recursos necessários ao tratamento. O maior determinante do resultado é o tipo de tumor a ser tratado. A tabela que acompanha este texto mostra o tratamento mais adequado de acordo com a literatura mais recente, para os principais tipos de tumores cerebrais.
 
-|Diagnóstico|Detalhes|Recomendação|
+| Diagnóstico | Detalhes | Recomendação |
 | --- |:---:| ---:|
-|Glioma de baixo grau|Recorrente ou progressivo|Vimblastina semanal|
-|Glioma de alto grau<sup>*</sup>|Maiores que 3 anos|RT e QT oral|
-|Glioma difuso de tronco cerebral|Maiores que 3 anos|RT|
-|Meduloblastoma|Maiores que 3 anos|RTQT|
-|Tumores embrionários|Maiores que 3 anos|RTQT|
-|Ependimoma|Maiores que 1 ano|RT|
+| Glioma de baixo grau | Recorrente ou progressivo | Vimblastina semanal |
+| Glioma de alto grau<sup>*</sup> | Maiores que 3 anos | RT e QT oral |
+| Glioma difuso de tronco cerebral | Maiores que 3 anos | RT |
+| Meduloblastoma | Maiores que 3 anos | RTQT |
+| Tumores embrionários | Maiores que 3 anos | RTQT |
+| Ependimoma | Maiores que 1 ano | RT |
 _ <sup>*</sup>Gliomas difusos de tronco, o tipo mais comum de glioma maligno em crianças, são tratados à parte._
 
 
