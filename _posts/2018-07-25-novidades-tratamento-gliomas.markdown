@@ -31,7 +31,7 @@ A chance de sobrevida varia radicalmente com o tipo de tumor. Enquanto mais de 8
 | Tumores embrionários | Maiores que 3 anos | RTQT |
 | Ependimoma | Maiores que 1 ano | RT |
 
-_<sup>*</sup>Gliomas difusos de tronco, o tipo mais comum de glioma maligno em crianças, são tratados à parte._
+<sup>*</sup>_Gliomas difusos de tronco, o tipo mais comum de glioma maligno em crianças, são tratados à parte._
 
 
 Na tabela, as colunas mostram a classificacação clínica do paciente (Diagnóstico), informações sobre a doença (Detalhes) e o tratamento mais indicado pela literatura científica mais recente (Recomendação). Abreviaturas: RT (radioterapia{% include radioterapia.html %}), QT (quimioterapia{% include quimio.html %}), RTQT (radioquimioterapia).
