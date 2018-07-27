@@ -16,7 +16,7 @@ em cada 100 mil vai ter um tumor cerebral, algo em torno de 30 casos por ano. Is
 talvez pela existência de casos que não são diagnosticados a tempo. No Hospital Infantil
 Albert Sabin, único hospital do Ceará a contar com o tratamento multidisciplinar
 completo para crianças com tumores cerebrais, a sobrevida global das crianças com
-tumores cerebrais, cinco anos após o diagnóstico, é em torno de 50% (Araújo, 2011).
+tumores cerebrais, cinco anos após o diagnóstico, é em torno de 50%{% include araujo.html %}.
 
 Isso significa que cerca de metade das crianças diagnosticadas com tumor cerebral vai viver mais de 5 anos, o que geralmente corresponde à cura clínica para pacientes com tumores.
 
@@ -31,7 +31,7 @@ A chance de sobrevida varia radicalmente com o tipo de tumor. Enquanto mais de 8
 | Tumores embrionários | Maiores que 3 anos | RTQT |
 | Ependimoma | Maiores que 1 ano | RT |
 
-_ <sup>*</sup>Gliomas difusos de tronco, o tipo mais comum de glioma maligno em crianças, são tratados à parte._
+_<sup>*</sup>Gliomas difusos de tronco, o tipo mais comum de glioma maligno em crianças, são tratados à parte._
 
 
 Na tabela, as colunas mostram a classificacação clínica do paciente (Diagnóstico), informações sobre a doença (Detalhes) e o tratamento mais indicado pela literatura científica mais recente (Recomendação). Abreviaturas: RT (radioterapia{% include radioterapia.html %}), QT (quimioterapia{% include quimio.html %}), RTQT (radioquimioterapia).
