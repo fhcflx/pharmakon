@@ -25,12 +25,12 @@ Satoshi Ömura, microbiologista japonês da Kiwasato University, desenvolveu ino
 
 Na década de 60, devido à emergência de cepas de plasmódio resistentes a drogas, o tratamento da malária era difícil. Youyou Tu procurou medicamentos tradicionais chineses, tentando isolar deles substâncias ativas. Ela conseguiu isolar a artemisinina a partir do extrato da planta <i>Artemisia annua</i>, um composto com potente efeito contra plasmódios resistentes a outras drogas. Devido a sua descoberta, que deu origem a uma nova classe de drogas antimaláricas, ela foi agraciada com o Nobel.
 
-![](https://upload.wikimedia.org/wikipedia/commons/f/fc/Tu_Youyou_and_Lou_Zhicen_in_1951.TIF)
+![](https://upload.wikimedia.org/wikipedia/commons/c/c1/Tu_Youyou_in_1950s.jpg)
 _Figura 1: Tu Youyou (direita) e seu professor Lou Zhicen (楼之岑) (esquerda) em 1951. Fotógrafo anônimo (Em 1951, a China não tinha leis de direitos autorais. A foto está no domínio público há mais de 50 anos.) (WenxueCity), via Wikimedia Commons._
 
 Publicações relevantes:
-- Burg et al., Antimicrobial Agents and Chemotherapy (1979) 15:361-367.
+- [Burg et al., Avermectins, New Family of Potent Anthelmintic Agents: Producing Organism and Fermentation. Antimicrobial Agents and Chemotherapy (1979) 15:361-367.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC352666/pdf/aac00273-0045.pdf)
 - Egerton et al., Antimicrobial Agents and Chemotherapy (1979) 15:372-378.
-- Tu et al., Yao Xue Xue Bao (1981) 16, 366-370 (Chinês) 
+- Tu et al., [Studies on the constituents of Artemisia annua L. (author's transl)]. Yao Xue Xue Bao (1981) 16, 366-370 (Chinês) 
 
 Fonte: [The 2015 Nobel Prize in Physiology or Medicine - Press Release](http://www.nobelprize.org/nobel_prizes/medicine/laureates/2015/press.html)
