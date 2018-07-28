@@ -1,0 +1,29 @@
+---
+layout: post
+title: Prêmio Nobel de Fisiologia e Medicina 2017 - pesquisa inútil?
+date: '2017-11-03T20:22:00.000-03:00'
+author: Francisco H C Felix
+tags:
+- Fisiologia e Medicina
+- Nobel
+---
+
+O Prêmio Nobel de Fisiologia ou Medicina de 2017
+  foi agraciado a 3 cientistas pelos seus trabalhos na área do ciclo circadiano, algo que hoje poderia ser considerado "inútil" pela onda conservadora da política atual.
+  <!--more-->
+
+Dia 1 de outubro, Thomas Pearlmann, secretário do comitê do Prêmio Nobel, anunciou que Jeffrey Hall e Michael Rosbash, da Brandeis University, e Michael Young, da Rockefeller University, dividirão o Prêmio Nobel em Fisiologia ou Medicina de 2017. De acordo com o secretário, o trabalho dos coentistas explicou como plantas, animais e os seres humanos se adaptam aos ciclos naturais, como o ciclo dia-noite (circadiano).
+
+O meio científico foi surpreendido pela premiação de um grupo que não figurava entre as listas de favoritos. Apostava-se que o prêmio poderia ir para a imunoterapia do câncer ou para a técnica de edição genética com CRISPR. Jerome Groopman, escrevendo para o The New Yorker, comentou que a Academia Sueca quis mandar uma clara mensagem ao mundo científico e aos políticos que decidem sobre o financiamento da pesquisa, num momento em que se discutem as verbas para pesquisas ditas "inúteis". Groopman acredita que o Karolinska Institute desejou mandar uma mensagem para os gestores da pesquisa atualmente. 
+
+Os pesquisadores agraciados publicaram seus achados estudando um gene que regula o ciclo circadiano em moscas das frutas. Na época (início da década de 90), a aplicabilidade da pesquisa era nenhuma, embora fosse muito interessante do ponto de vista teórico. Hoje, além de fundamental para entender como os organismos vivos reagem a mudanças cíclicas do ambiente, esse conhecimento criou todo um novo ramo da biologia e da medicina, com aplicações potenciais muit extensas. Groopman aponta que, numa conjuntura como a atual, talvez a pesquisa dos 3 nunca fosse financiada. Certamente, políticos iriam achar que pesquisar o relógio biológico de moscas era "inútil".
+
+Nas palavras de Groopman, a Academia Sueca deixou claro seu posicionamento a favor da pesquisa básica, aquela empreendida não para curar o câncer ou o Alzheimer, mas pelo simples prazer de conhecer. Sem a pesquisa básica, provavelmente não teríamos quase nada do que é tão útil hoje em dia.
+
+![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Ciclo_circadiano.jpg)
+_Figura: mecanismo molecular do ritmo circadiano. Créditos Natália Marin, CC-BY SA 3.0._
+
+Publicações relevantes:
+- [Paul E. Hardin, Jeffrey C. Hall & Michael Rosbash. Feedback of the Drosophila period gene product on circadian cycling of its messenger RNA levels. Nature (1990), 343:536.](https://www.nature.com/nature/journal/v343/n6258/abs/343536a0.html?foxtrotcallback=true)
+
+Fonte: [Jerome Groopman. The Real Message of the 2017 Nobel Prize in Physiology or Medicine, The New Yorker.](https://www.newyorker.com/tech/elements/the-real-message-of-the-2017-nobel-prize-in-physiology-medicine)
