@@ -28,4 +28,4 @@ Então, o sal refinado tem sal... e remédios? Na verdade, é bem isso, pois ele
 
 Mas todo mundo sabe que sal faz mal à saúde! Claro, consumido em excesso, **qualquer tipo de sal**, seja do mar, do Himalaia ou das luas de Saturno, faz mal sim. O ideal é ter parcimônia no seu uso e ingerir uma quantidade pequena diariamente de sal. Usado em quantidade, sal do Himalaia vai prejudicar a saúde tanto quanto qualquer outro. 
 
-Concluindo, se você é rico e quer mostrar isso para suas amigas esnobes, compre aquela placa de sal Himalaio, mas por esse motivo. Não doure a pílula com contos de fada. E não esqueça de tomar um suplemento de iodo e medir regularmente a pressão arterial, que pode aumentar!!
+Concluindo, se você é rico e quer mostrar isso para seus amigos esnobes, compre aquela placa de sal Himalaio, mas por esse motivo. Não doure a pílula com contos de fada. E não esqueça de tomar um suplemento de iodo e medir regularmente a pressão arterial, que pode aumentar!!
