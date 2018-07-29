@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Prêmio Nobel de Fisiologia e Medicina 2016
+title: Prêmio Nobel de Fisiologia ou Medicina 2016
 date: '2016-10-04T20:22:00.000-03:00'
 author: Francisco H C Felix
 tags:
-- Fisiologia e Medicina
+- Fisiologia ou Medicina
 - Nobel
 ---
 

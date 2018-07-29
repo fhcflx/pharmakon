@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Prêmio Nobel de Fisiologia e Medicina 2014 - o GPS cerebral
+title: Prêmio Nobel de Fisiologia ou Medicina 2014 - o GPS cerebral
 date: '2014-10-07T20:22:00.000-03:00'
 author: Francisco H C Felix
 tags:
-- Fisiologia e Medicina
+- Fisiologia ou Medicina
 - Nobel
 ---
 

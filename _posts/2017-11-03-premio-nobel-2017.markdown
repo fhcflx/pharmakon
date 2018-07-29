@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Prêmio Nobel de Fisiologia e Medicina 2017 - pesquisa inútil?
+title: Prêmio Nobel de Fisiologia ou Medicina 2017 - pesquisa inútil?
 date: '2017-11-03T20:22:00.000-03:00'
 author: Francisco H C Felix
 tags:
-- Fisiologia e Medicina
+- Fisiologia ou Medicina
 - Nobel
 ---
 
