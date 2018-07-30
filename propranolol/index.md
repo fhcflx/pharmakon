@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: Propranolol
-tag: Propranolol
+title: Anomalias vasculares
+tag: Anomalias vasculares
 ---
