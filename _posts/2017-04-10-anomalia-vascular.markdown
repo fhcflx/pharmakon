@@ -27,13 +27,13 @@ Historicamente, as anomalias vasculares foram rotuladas com termos descritivos, 
 |Malformação venosa|Hemangioma cavernoso|
 |Malformação arteriovenosa|Hemangioma arteriovenoso|
 
-_ Tabela comparativa da nomenclatura moderna e histórica_
+_Tabela comparativa da nomenclatura moderna e histórica_
 
 ### Tumores vasculares
 
 **Tumores vasculares**, muitas vezes referidos como hemangiomas, são os tumores mais comuns em crianças, ocorrendo em 1-2% delas. A [prevalência](https://pt.wikipedia.org/wiki/Prevalência) é ainda maior (10%) em prematuros de muito baixo peso ao nascer. Os tumores vasculares são caracterizados por crescimento excessivo de vasos normais, que mostram aumento da proliferação endotelial. Eles podem estar presentes ao nascimento, mas muitas vezes aparecem dentro de uma a duas semanas após o nascimento ou durante a infância. Existem diferentes tipos de tumores vasculares, os quais podem ser divididos em tumores benignos, tumores de malignidade intermediária e tumores malignos{% include cancer.html %}.
 
-#### Tumores vasculares benignos
+### Tumores vasculares benignos
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/3d/Capillary_haemangioma.jpg)
 
@@ -45,11 +45,11 @@ _ Tabela comparativa da nomenclatura moderna e histórica_
 
 **Granuloma piogênico**, também conhecido como **hemangioma capilar lobular**, é um tumor vascular benigno pequeno que envolve principalmente a pele (88,2%) e as membranas mucosas. O granuloma piogénico aparece como uma mácula vermelha que cresce rapidamente, se transforma em uma pápula e transforma-se eventualmente numa lesão pedunculada, ligada a uma haste estreita{% include aalst.html %}.
 
-#### Tumores vasculares de malignidade intermediária
+### Tumores vasculares de malignidade intermediária
 
 **Hemangioendoteliomas** são um grupo de tumores vasculares de comportamento incerto. Algumas variantes são benignas, outras podem localmente agressivas ou metastizar de forma infrequente, enquanto o hemangioendotelioma epitelióide é francamente maligno.
 
-#### Tumores vasculares malignos
+### Tumores vasculares malignos
 
 Os tumores vasculares verdadeiramente malignos são o **angiossarcoma** e o **hemangioendotelioma epitelióide**. Ambos são sarcomas de partes moles com diferenciação endotelial, representando, em conjunto, menos de 1% de todos os sarcomas de partes moles. O diagnóstico patológico é por vezes desafiador, com caraterísticas histológicas, clínicas e radiológicas se sobrepondo entre os dois tipos de tumores malignos e também com tumores benignos, como o [hemangioma epitelióide](https://pt.wikipedia.org/wiki/Hemangioma_epitelióide){% include antonescu.html %}.
 
@@ -57,19 +57,19 @@ Os tumores vasculares verdadeiramente malignos são o **angiossarcoma** e o **he
 
 **Malformação vascular** é um termo coletivo para diferentes doenças ocasionadas por erros no desenvolvimento vascular. Pode ser uma alteração das artérias, capilares, veias e vasos linfáticos ou uma desordem de uma combinação destes (as lesões são nomeadas com base no vaso primário que é mal formado). Um malformação vascular consiste de um conjunto de tubos ou sacos deformados, devido a um erro no desenvolvimento vascular (dismorfogênese). No entanto, o volume endotelial é estável nestas defeitos. Malformações vasculares congênitas são sempre já presentes ao nascimento, embora elas nem sempre sejam visíveis. Em contraste com os tumores vasculares, malformações vasculares não têm uma fase de crescimento, nem uma fase de involução. Malformações vasculares tendem a crescer proporcionalmente com a criança{% include chim.html %}, e não regridem, mas persistir por toda a vida. Malformações vasculares podem ser divididas em lesões de baixo fluxo, de alto fluxo e tipos combinados-complexos.
 
-#### Malformações vasculares de baixo fluxo
+### Malformações vasculares de baixo fluxo
 
 ![](https://upload.wikimedia.org/wikipedia/commons/5/54/Myhand.jpg)
 
-- **Malformação capilar** (também conhecidas como manchas de cor vinho do Porto): Malformações capilares (MC) são lesões de pele avermelhadas, planas, na sua maioria na região da cabeça e pescoço e que escurecem com o avançar da idade, ao contrário de sinais de nascença como a _mancha salmão_, _Nevus simplex_ ou _nevo vascular_, os quais clareiam ou desaparecem nos primeiros anos de vida. As MC constituem 11% de todas as malformações vasculares. As síndromes associadas com MC são: [Síndrome de Sturge-Weber](https://pt.wikipedia.org/wiki/Síndrome_de_Sturge-Weber) e [Síndrome de Klippel-Trenaunay](https://pt.wikipedia.org/wiki/Síndrome_de_Klippel-Trenaunay). MC podem ser tratadas com laser ou cirurgia.
+ **Malformação capilar** (também conhecidas como manchas de cor vinho do Porto): Malformações capilares (MC) são lesões de pele avermelhadas, planas, na sua maioria na região da cabeça e pescoço e que escurecem com o avançar da idade, ao contrário de sinais de nascença como a _mancha salmão_, _Nevus simplex_ ou _nevo vascular_, os quais clareiam ou desaparecem nos primeiros anos de vida. As MC constituem 11% de todas as malformações vasculares. As síndromes associadas com MC são: [Síndrome de Sturge-Weber](https://pt.wikipedia.org/wiki/Síndrome_de_Sturge-Weber) e [Síndrome de Klippel-Trenaunay](https://pt.wikipedia.org/wiki/Síndrome_de_Klippel-Trenaunay). MC podem ser tratadas com laser ou cirurgia.
 
-- **Malformação venosa** é uma lesão azulada, compressive à digitopressão; as lesões aumentam com a atividade física ou quando colocadas em posição pendente. A lesão azulada representa veias dilatadas. Malformações venosas (MV) podem causar dor matutina devido à estase e microtrombos venosos.  A maioria ocorre na região da cabeça e pescoço. MV são as anomalias vasculares mais comuns, perfazendo 40% do total. Podem ser tratadas através de [escleroterapia](https://pt.wikipedia.org/wiki/Escleroterapia) e cirurgia.
+ **Malformação venosa** é uma lesão azulada, compressive à digitopressão; as lesões aumentam com a atividade física ou quando colocadas em posição pendente. A lesão azulada representa veias dilatadas. Malformações venosas (MV) podem causar dor matutina devido à estase e microtrombos venosos.  A maioria ocorre na região da cabeça e pescoço. MV são as anomalias vasculares mais comuns, perfazendo 40% do total. Podem ser tratadas através de [escleroterapia](https://pt.wikipedia.org/wiki/Escleroterapia) e cirurgia.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/2b/Lymphangioma.jpg)
 
-- **Malformação linfática (ML)** é uma proliferação benigna do sistema linfático{% include perkins.html %}. Elas resultam de erros durante a formação dos canais linfáticos. ML perfazem 28% de todas as anomalias vasculares. Também podem ser tratadas através de escleroterapia e cirurgia.
+ **Malformação linfática (ML)** é uma proliferação benigna do sistema linfático{% include perkins.html %}. Elas resultam de erros durante a formação dos canais linfáticos. ML perfazem 28% de todas as anomalias vasculares. Também podem ser tratadas através de escleroterapia e cirurgia.
 
-#### Malformações vasculares de alto fluxo
+### Malformações vasculares de alto fluxo
 
 Todas as malformações vasculares de alto fluxo envolvem artérias. Elas constituem 14% de todas as malformações vasculares.
 
@@ -79,7 +79,7 @@ Todas as malformações vasculares de alto fluxo envolvem artérias. Elas consti
 
 - **Malformação arteriovenosa (MAV)**: uma lesão onde ocorre a comunicação entre uma artéria e uma veia, através de um conjunto de vasos displásicos.
 
-#### Malformações vasculares combinadas (complexas)
+### Malformações vasculares combinadas (complexas)
 
 Uma combinação de duas ou mais malformações simples, envolvendo mais de um tipo de vaso sanguíneo.
 - **MVC**: Malformação veno-capilar
@@ -89,8 +89,8 @@ Uma combinação de duas ou mais malformações simples, envolvendo mais de um t
 - **ML-MAV**: malformação linfática - arteriovenosa
 - **MC-MAV**: malformação capilar - arteriovenosa
 
-{{Referências}}
-
 ## Leia mais:
 
-[Classificação de anomalias vasculares |descr=da Sociedade Internacional para o Estudo das Anomalias Vasculare](http://issva.org/content.aspx?page_id=22&club_id=298433&module_id=152904)
+[Classificação de anomalias vasculares |descr=da Sociedade Internacional para o Estudo das Anomalias Vasculares](http://issva.org/content.aspx?page_id=22&club_id=298433&module_id=152904)
+
+_Esta postagem baseia-se no verbete da Wikipedia "[Anomalia vascular](https://pt.wikipedia.org/wiki/Anomalia_vascular)", em grande parte escrito pelo autor deste blog._
