@@ -91,6 +91,6 @@ Uma combinação de duas ou mais malformações simples, envolvendo mais de um t
 
 ## Leia mais:
 
-[Classificação de anomalias vasculares |descr=da Sociedade Internacional para o Estudo das Anomalias Vasculares](http://issva.org/content.aspx?page_id=22&club_id=298433&module_id=152904)
+[Classificação de anomalias vasculares da Sociedade Internacional para o Estudo das Anomalias Vasculares](http://issva.org/content.aspx?page_id=22&club_id=298433&module_id=152904)
 
 _Esta postagem baseia-se no verbete da Wikipedia "[Anomalia vascular](https://pt.wikipedia.org/wiki/Anomalia_vascular)", em grande parte escrito pelo autor deste blog._
