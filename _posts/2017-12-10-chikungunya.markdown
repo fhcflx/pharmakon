@@ -8,7 +8,7 @@ tags:
 - Epidemias
 ---
 No século XX, o mundo viu surgirem grandes epidemias de arbovírus. Dengue, Zika, Chikungunya, O'nyong-nyong, e vários outros menos conhecidos começaram a tomar as manchetes de notícias do planeta com chamadas alarmantes. Mas afinal, o que são estes arbovírus?
-</--more-->
+<!--more-->
 
 O nome _arbovírus_ vem do termo em inglês **AR**thropod **BO**rne **VIRUS**es, criado em 1942 para agrupar vários vírus que estavam sendo descobertos como causadores de encefalites{% include encefalite.html %} e que eram transmitidos por artrópodes{% include artropode.html %}. Estes vírus são encontrados infectando naturalmente diversos tipos de animais em áreas de floresta em vários lugares do mundo. A infecção em seres humanos era rara, e epidemias somente passaram a ocorrer quando a atividade humana invadiu e modificou o habitat natural dos animais que são hospedeiros destes vírus. 
 
