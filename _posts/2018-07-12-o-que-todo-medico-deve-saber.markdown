@@ -10,6 +10,7 @@ author: ffelix
 ---
 Neste texto tento mostrar que muitas vezes, mesmo tendo conhecimento adequado sobre o assunto, um(a) medico(a) generalista pode fazer mais ainda e ser a diferença para os pacientes com câncer se atentar para alguns detalhes e organizar uma abordagem objetiva e humana.
 <!--more-->
+
 A grande maioria dos pacientes que descobre ser portador de um câncer{% include cancer.html %} vai ser atendido inicialmente por um médico generalista. Nessa definição se enquadram os clínicos gerais, os pediatras, os cirurgiões gerais e os gineco-obstetras. Nós médicos passamos um tempo prolongado do curso aprendendo como o câncer surge, seus mecanismos, sua biologia, seus sintomas, entre outros detalhes acadêmicos. Essa grande quantidade de informação nem sempre ajuda realmente no momento de comunicar aos pacientes sobre uma suspeita de doença neoplásica.
 
 Uma das lacunas na maioria dos currículos de escolas médicas é o ensino da relação medico-paciente, especialmente a comunicação diagnóstica de má notícia. Muitos profissionais ficam à mercê de sua própria experiência e estrutura de relação interpessoal, e nem sempre isso é suficiente. O correto é que, ao lado do conhecimento técnico sobre a doença, também fosse treinada a abordagem humana. No entanto, isso não é a norma hoje em dia.

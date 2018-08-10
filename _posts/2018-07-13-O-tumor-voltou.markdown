@@ -10,6 +10,7 @@ author: ffelix
 ---
 Este texto baseia-se em um informativo da Sociedade Nacional de Tumores Cerebrais americana, com o fim de apoiar os pacientes e familiares durante a difícil fase da recorrência da doença.
 <!--more-->
+
 A notícia sempre é um choque tanto para pacientes, quanto para familiares e profissionais da saúde que cuidam deles. Depois de uma árdua batalha que inclui cirurgia(s), radioterapia{% include radioterapia.html %}, quimioterapia{% include quimio.html %}, e depois de um período no qual se achava que estava tudo terminado, que a doença tinha sido vencida, ela volta.
 
 Então, após o choque inicial, impõe-se levantar, sacudir a poeira e marchar na nova etapa. Quais os novos desafios que a recorrência de um tumor cerebral{% include tumorsnc.html %} trazem?

@@ -11,6 +11,7 @@ Pesquisadores do _University of Miami Sylvester Comprehensive Cancer Center_ pub
 que a metformina, droga usada para o tratamento de diabetes tipo II, é segura e pode ter efeito em crianças e adolescentes com leucemia
 linfóide aguda recorrente e refratária a outros tratamentos.
 <!--more-->
+
 A leucemia linfóide aguda (LLA){% include lla.html %} é a forma de câncer{% include cancer.html %} mais frequente em crianças e adolescentes e responsável pelo maior número de mortes por
 câncer na pediatria. Apesar dos avanços que permitem a cura da maioria das crianças e adolescentes com LLA, alguns pacientes apresentam
 recorrência. Na maioria dos casos, a leucemia recorrente é altamente resistente a várias drogas antineoplásicas{% include quimio.html %} e refratária a outros
