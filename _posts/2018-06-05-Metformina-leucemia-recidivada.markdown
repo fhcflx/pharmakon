@@ -36,7 +36,7 @@ de tratamento para sua doença.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/9b/Unfolded_Protein_Response.gif)
 
-_Figura: as 3 vias da resposta a proteínas mal-enoveladas, deflagradas pelo estresse do retículo endoplasmático. Créditos Tifol (https://menu-it.ru/?p=6211) [CC BY-SA 4.0  (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons_
+_Figura: as 3 vias da resposta a proteínas mal-enoveladas, deflagradas pelo estresse do retículo endoplasmático. Créditos [Tifol](https://menu-it.ru/?p=6211) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons_
 
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 

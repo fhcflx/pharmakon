@@ -17,6 +17,12 @@ O grupo analisou 598 visitas à emergência por 231 crianças e adolescentes com
 
 Os favores de risco que aumentaram a hospitalização foram: internação nas 4 semanas anteriores (razão de possibilidades{% include odds.html %}, ou _odds ratio_ [RP] = 2,67), queixa de febre (RP = 1,9) e mais de uma queixa na admissão à emergência (RP aumentava em 1,45 para cada queixa adicional). Curiosamente, os autores relatam que pacientes da raça negra tiveram uma RP de 0,53 para internação. Isso deveria ser investigado para entender se a causa foi médica, uma anomalia estatística ou se existe uma diferença de conduta relacionada à etnia por trás do achado.
 
+![](https://upload.wikimedia.org/wikipedia/commons/3/3f/FEMA_-_18213_-_Photograph_by_Robert_Kaufmann_taken_on_10-25-2005_in_Louisiana.jpg)
+
+_Figura: pessoal de prontidão numa unidade emergência em Belle Chasse, Louisiana, Estados Unidos da América. Créditos Robert Kaufmann (arquivo fotográfico da FEMA), Domínio Público, via Wikimedia Commons_
+
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
-Leia o trabalho completo [aqui](http://bit.ly/fhcflxpP).
+Leia a publicação:
+- D Burcham M, Cochrane AR, Jacob SA, Carroll AE, Mueller EL. Emergency Department Chief Complaints Among Children With Cancer. J Pediatr Hematol Oncol 2018 Aug;40(6):445-449. [doi:10.1097/MPH.0000000000001223](http://doi.org/10.1097/MPH.0000000000001223).
+

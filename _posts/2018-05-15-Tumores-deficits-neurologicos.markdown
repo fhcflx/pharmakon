@@ -21,6 +21,12 @@ De acordo com os resultados, os pacientes com tumores supratentoriais hemisféri
 
 Este resultado chama a atenção para o fato de que a demora entre o início dos sintomas e o diagnóstico pode afetar a chance dos pacientes apresentarem déficits neurológicos, o que pode ter impacto na sua qualidade de vida. Embora o estudo não tenha concluído isso diretamente, pode-se especular que a demora no diagnóstico é um fator de risco para a piora de qualidade de vida dos pacientes com glioma de baixo grau.
 
+![]()
+
+_Figura: ressonância mostrando tumor de linha média em adolescente. A lesão forma um cisto e capta contraste na sua parede. A histologia foi de astrocitoma pilocítico (Arquivo do autor)._
+
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
-O trabalho completo pode ser lido [aqui](http://bit.ly/fhcflx4M).
+Leia a publicação:
+- Sadighi ZS, Curtis E, Zabrowksi J, et al. Neurologic impairments from pediatric low‐grade glioma by tumor location and timing of diagnosis. Pediatr Blood Cancer. 2018;65:e27063. [doi:10.1002/pbc.27063](https://doi.org/10.1002/pbc.27063).
+

@@ -22,6 +22,12 @@ Em outras palavras, está assegurado aos pacientes participantes de qualquer pes
 
 Os autores do artigo do JAMA listam uma série de  medidas que podem ser tomadas a nível institucional ou regulatório a fim de melhorar a transparência de resultados das pesquisas clínicas. Eles concluem que esta questão é uma prioridade atual e precisa ser resolvida para permitir melhores estudos com resultados realmente importantes para aqueles que realmente devem ser o centro do interesse da pesquisa clínica: os pacientes.
 
+![](https://upload.wikimedia.org/wikipedia/commons/7/74/Discourse-into-the-night.jpg)
+
+_Figura: discussão noite adentro, de [William Blades](https://pt.wikipedia.org/wiki/William_Blades). Créditos Domínio Público, via Wikimedia Commons_
+
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
-O artigo pode ser lido na íntegra [aqui](http://bit.ly/fhcflx71)
+Leia a publicação:
+- Overman MJ, Ellis LM, Joffe S. Ethics and the Underreporting of Research Biopsy Findings in Clinical Trials. JAMA Oncol. 2018;4(8):1041–1042. [doi:10.1001/jamaoncol.2018.1002](http://doi.org/10.1001/jamaoncol.2018.1002).
+
