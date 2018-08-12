@@ -15,6 +15,12 @@ Os autores estudaram um total de 674 pacientes. Destes, 17 desenvolveram câncer
 
 Eles concluíram que a terapia de reposição renal crônica aumenta o risco de câncer em crianças e adolescentes, especialmente DLPT e tumores renais. Os autores não observaram efeito do tipo de diálise ou da origem do rim para transplante (doador vivo ou não) na incidência de câncer, apenas a correlação com a idade. Uma das hipóteses possíveis para explicar os achados é a exposição a vírus. Também alterações genéticas associadas a doença renal em crianças e a imunossupressão são suspeitos de causarem o risco observado.
 
+![](https://upload.wikimedia.org/wikipedia/commons/9/93/Hemodialysis-en.svg)
+
+_Figura: circuito esquemático de hemodiálise. Créditos [YassineMrabet](https://commons.wikimedia.org/wiki/User:YassineMrabet), imagem vetorial criada com Inkscape. (trabalho próprio a partir de [Hemodialysis schematic.gif](https://commons.wikimedia.org/wiki/File:Hemodialysis_schematic.gif).) [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), [GFDL](http://www.gnu.org/copyleft/fdl.html) ou [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons_
+
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
-Leia o estudo completo [aqui](http://bit.ly/fhcflx1n).
+Leia a publicação:
+- Nuss N, Libruder C, Dichtiar R, Weinstein T, Keinan-Boker L, Shohat T, Golan E. Cancer Risk Among Children Undergoing Renal Replacement Therapy: Results From the Israel National Renal Replacement Therapy Registry, 1990-2012. J Pediatr Hematol Oncol. 2018 May 8. [doi:10.1097/MPH.0000000000001202](http://doi.org/10.1097/MPH.0000000000001202).
+

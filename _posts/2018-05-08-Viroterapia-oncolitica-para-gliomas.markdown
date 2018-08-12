@@ -18,6 +18,12 @@ No grupo A (25 pacientes), 20% dos pacientes sobreviveu 3 anos ou mais e 3 pacie
 
 Os pesquisadores concluíram que a viroterapia oncolítica com DNX-2401 pode levar a respostas dramáticas e longa sobrevida em pacientes com gliomas malignos recorrentes e isso pode dever-se à resposta imunológica do próprio hospedeiro contra as células tumorais.
 
+![](https://upload.wikimedia.org/wikipedia/commons/6/6a/Adenovirus_3D_schematic.png)
+
+_Figura: estrutura tridimensional de um adenovírus. Créditos Thomas Splettstoesser (www.scistyle.com) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), da Wikimedia Commons_
+
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
-O estudo completo pode ser acessado [aqui](http://bit.ly/fhcflxRV).
+Leia a publicação:
+- Frederick F. Lang, Charles Conrad, Candelaria Gomez-Manzano, W.K. Alfred Yung, Raymond Sawaya, Jeffrey S. Weinberg, Sujit S. Prabhu, Ganesh Rao, Gregory N. Fuller, Kenneth D. Aldape, Joy Gumin, Luis M. Vence, Ignacio Wistuba, Jaime Rodriguez-Canales, Pamela A. Villalobos, Clemens M.F. Dirven, Sonia Tejada, Ricardo D. Valle, Marta M. Alonso, Brett Ewald, Joanna J. Peterkin, Frank Tufaro, and Juan Fueyo. Phase I Study of DNX-2401 (Delta-24-RGD) Oncolytic Adenovirus: Replication and Immunotherapeutic Effects in Recurrent Malignant Glioma. Journal of Clinical Oncology 2018 36:14, 1419-1427 [doi:10.1200/JCO.2017.75.8219](http://doi.org/10.1200/JCO.2017.75.8219).
+

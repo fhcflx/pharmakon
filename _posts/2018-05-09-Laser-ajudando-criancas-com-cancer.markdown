@@ -18,9 +18,8 @@ Um total de 101 pacientes participou do estudo. Uma semana após o tratamento, q
 
 Os autores do estudo concluíram que a fotobiomodulação laser mostrou-se um tratamento eficaz e seguro para a mucosite oral pós-QT, acelerando a recuperação da mucosa e reduzindo a dor.
 
-_Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
-
-Leia o estudo completo [aqui](http://bit.ly/fhcflxB6).
+Leia a publicação:
+- Gobbo M, Verzegnassi F, Ronfani L, et al. Multicenter randomized, double‐blind controlled trial to evaluate the efficacy of laser therapy for the treatment of severe oral mucositis induced by chemotherapy in children: laMPO RCT. Pediatr Blood Cancer. 2018;65:e27098. [doi:10.1002/pbc.270098](https://doi.org/10.1002/pbc.27098)
 
 Outro estudo publicado na PBC foi realizado por pesquisadores do _Saint Jude Children's Research Hospital_. Eles criaram um sistema _online_ interativo para estimular jovens sobreviventes de câncer pediátrico a realizar atividade física regular. O exercício físico associa-se com melhor qualidade de vida e menos recorrência nesta população.
 
@@ -28,6 +27,12 @@ O protocolo de atividade física do _Center for Disease Control and Prevention_ 
 
 Setenta e oito participantes completaram o estudo. Os participantes que usaram o _website_ obtiveram melhores escores físicos e neurocognitivos do que os participantes do grupo controle. Os pesquisadores concluíram que a estratégia interativa foi bem sucedida e melhor para promover aderência à atividade física entre os sobreviventes de câncer pediátrico.
 
+![](https://upload.wikimedia.org/wikipedia/commons/c/c8/Laserbehandling.jpg)
+
+_Figura: equipamento de fotobiomodulação usado na Suécia para tratar inflamação. Créditos Jonn Leffmann [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), from Wikimedia Commons_
+
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
-Leia o estudo completo [aqui](http://bit.ly/fhcflxFT).
+Leia a publicação:
+- Howell CR, Krull KR, Partin RE, et al. Randomized web‐based physical activity intervention in adolescent survivors of childhood cancer. Pediatr Blood Cancer. 2018;65:e27216. [doi:10.1002/pbc.27216](https://doi.org/10.1002/pbc.27216).
+
