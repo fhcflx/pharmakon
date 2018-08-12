@@ -27,7 +27,7 @@ tiveram SLE de 88,5% (intervalo de confiança 95% de 81,8 a 95,3%). O número de
 Os autores concluíram que os objetivos do estudo foram atingidos com a estratégia utilizada. Embora tenha havido um aumento não significativo
 dos eventos no grupo de resposta completa, a sobrevida alcançada foi excelente. Os autores recomendam que esta estratégia seja adotada como padrão.
 
-<video id="0" width="800px" height="450px" controls>
+<video id="0" controls>
 <source src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Wilms_Tumor_CTScan.ogv" type="video/ogg" codecs="theora, vorbis">
 <p>Se você não consegue visualizar o vídeo, o seu navegador não dá suporte para vídeos HTML5.</p>
 </video>
