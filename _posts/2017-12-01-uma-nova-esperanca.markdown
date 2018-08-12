@@ -6,6 +6,7 @@ author: Francisco H C Felix
 tags:
 - Câncer
 - Neuro-oncologia
+- DIPG
 ---
 
 Tumores difusos do tronco cerebral (DIPG) são mais comuns em crianças e constituem o glioma{% include glioma.html %} maligno mais frequente na infância. Apesar de representarem menos de 15% dos tumores cerebrais pediátricos, respondem pela maioria dos óbitos por tumores cerebrais em crianças. Não existe tratamento eficaz para esta doença em nossos dias e mais de 90% dos pacientes falece antes de completarem 2 anos após o diagnóstico. No mundo inteiro, buscam-se novas terapias para esta doença.
@@ -24,8 +25,7 @@ Estes foram testes _in vitro_ preliminares e o desenvolvimento das novas medica�
 ![](https://upload.wikimedia.org/wikipedia/commons/5/5c/MTOR-pathway-v1.7.svg)
 _Figura: via de sinalização celular MTOR. Créditos Charles Betz [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons._
 
-_Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._ 
+_Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
 Leia a publicação:
 - Flannery, P. C., Desisto, J. A., Amani, V., Venkataraman, S., Lemma, R. T., Prince, E. W., … Green, A. L. (2018). Preclinical analysis of MTOR complex 1/2 inhibition in diffuse intrinsic pontine glioma. Oncology Reports, 39(2), 455–464. [doi:10.3892/or.2017.6122](http://doi.org/10.3892/or.2017.6122)
-
