@@ -31,6 +31,12 @@ O tratamento dos ependimomas em crianças e adolescentes, ao contrário do que o
 
 O papel da QT no tratamento destes pacientes é controverso e limitado. A proposta atual, em teste em um grande ensaio clínico, é de usar uma QT rápida após a cirurgia subtotal para permitir ressecção completa numa cirurgia _second look_. Ainda não existem dados conclusivos sobre isso.
 
-_Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._ 
+![](https://upload.wikimedia.org/wikipedia/commons/f/f7/Ependymom_sag_FLAIR.jpg)
 
-Leia o estudo na íntegra [aqui](http://bit.ly/fhcflxAX).
+_Figura: ependimoma do quarto ventrículo. A maioria das recidivas dos ependimomas é local. Créditos Hellerhoff [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), da Wikimedia Commons_
+
+_Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
+
+Leia a publicação:
+- De, B., Khakoo, Y., Souweidane, M.M. et al. Patterns of relapse for children with localized intracranial ependymoma. J Neurooncol (2018) 138: 435. [doi:10.1007/s11060-018-2815-7](https://doi.org/10.1007/s11060-018-2815-7).
+

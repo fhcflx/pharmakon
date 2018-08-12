@@ -21,6 +21,12 @@ Em relação ao risco do desenvolvimento de meningiomas, a pesquisa não mostrou
 
 O grupo responsável pela pesquisa ainda não tem nenhuma teoria sobre as causas dessa associação. É possível que um mecanismo imunológico específico ainda não conhecido esteja agindo e inibindo o crescimento de células de glioma. O recente aumento de interesse em imunoterapia do câncer mostra que essa é uma vertente ampla para o desenvolvimento de possíveis novos tratamentos.
 
+![]({{site.baseurl}}/assets/img/glioma.jpg)
+
+_Figura: glioma de linha média com extensão para os tálamos bilateralmente. Créditos [Griselda Ramírez](https://www.flickr.com/photos/56088233@N08/), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)_
+
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
-Veja o trabalho completo [aqui](http://bit.ly/fhcflxSg).
+Leia a publicação:
+- Pouchieu, C., Raherison, C., Piel, C. et al. Allergic conditions and risk of glioma and meningioma in the CERENAT case-control study. J Neurooncol (2018) 138: 271. [doi:10.1007/s11060-018-2816-6](https://doi.org/10.1007/s11060-018-2816-6).
+
