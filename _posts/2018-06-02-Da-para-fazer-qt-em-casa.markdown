@@ -21,6 +21,12 @@ Seis pacientes com mediana{% include mediana.html %} de idade de 13,5 anos foram
 
 Os pesquisadores concluíram que a administração ambulatorial de MTX é segura e prática, sendo facilmente implementada e economizando recursos hospitalares, além de melhorar a qualidade de vida dos pacientes. As visitas diárias ao hospital para exames incomodaram, mas de uma forma geral os participantes relataram ter sido bem melhor permanecer em sua casa durante o tratamento. Com essa publicação, essa prática pode se tornar mais difundida, permitindo aos pacientes ficarem menos tempo no hospital.
 
-_Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._ 
+![](https://upload.wikimedia.org/wikipedia/commons/d/d7/Pediatric_patients_receiving_chemotherapy.jpg)
 
-O artigo completo pode ser lido [aqui](http://bit.ly/fhcflxFJ)
+_Figura: crianças com câncer recebendo tratamento com quimioterapia. Créditos Bill Branson (fotógrafo) Domínio Público, via Wikimedia Commons_
+
+_Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
+
+Leia a publicação:
+-  Hendershot E, Volpe J, Taylor T, Nicksy D, Mills D, Ramachandran N, Shaikh F, Riss V, Grant R, Gupta AA. Outpatient High-dose Methotrexate for Osteosarcoma: It's Safe and Feasible, If You Want It. J Pediatr Hematol Oncol. 2018 Jun 29. [doi:10.1097/MPH.0000000000001238](http://doi.org/10.1097/MPH.0000000000001238).
+

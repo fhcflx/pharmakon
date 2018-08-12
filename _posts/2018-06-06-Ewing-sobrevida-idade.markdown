@@ -35,6 +35,12 @@ com o fato de que estes pacientes têm mais lesões de extremidade e menos lesõ
 de disseminação extrapulmonar entre os mais velhos. Tumores axiais, presença de metástases e metástases extrapulmonares são todos fatores
 que se associam com menor sobrevida, o que parece dar suporte a estas conclusões.
 
-_Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._ 
+![](https://upload.wikimedia.org/wikipedia/commons/a/a3/Ewing%27s_sarcoma_MRI_nci-vol-1832-300.jpg)
 
-O estudo pode ser lido [aqui](http://bit.ly/fhcflx9O).
+_Figura: sarcoma de Ewing crescendo na bacia (imagem de ressonância magnética). Créditos National Cancer Institute, Domínio Público, via Wikimedia Commons._
+
+_Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
+
+Leia a publicação:
+- Worch J, Ranft A, DuBois SG, et al. Age dependency of primary tumor sites and metastases in patients with Ewing sarcoma. Pediatr Blood Cancer. 2018;65:e27251. [doi:10.1002/pbc.27251](https://doi.org/10.1002/pbc.27251).
+

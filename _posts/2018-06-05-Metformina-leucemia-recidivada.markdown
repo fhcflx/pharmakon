@@ -34,6 +34,12 @@ metformina realmente pode ajudar no tratamento de LLA refratária através da in
 próximo passo é planejar e conduzir ensaios fase II para confirmar o efeito da metformina nestes pacientes que, em geral, não tem alternativa
 de tratamento para sua doença.
 
+![](https://upload.wikimedia.org/wikipedia/commons/9/9b/Unfolded_Protein_Response.gif)
+
+_Figura: as 3 vias da resposta a proteínas mal-enoveladas, deflagradas pelo estresse do retículo endoplasmático. Créditos Tifol (https://menu-it.ru/?p=6211) [CC BY-SA 4.0  (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons_
+
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
-O artigo completo pode ser lido [aqui](http://bit.ly/fhcflx09).
+Leia a publicação:
+- Trucco M, Barredo JC, Goldberg J, et al. A phase I window, dose escalating and safety trial of metformin in combination with induction chemotherapy in relapsed refractory acute lymphoblastic leukemia: Metformin with induction chemotherapy of vincristine, dexamethasone, PEG‐asparaginase and doxorubicin (VXLD). Pediatr Blood Cancer. 2018;65:e27224. [doi:10.1002/pbc.27224](https://doi.org/10.1002/pbc.27224).
+

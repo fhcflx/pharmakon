@@ -27,6 +27,15 @@ tiveram SLE de 88,5% (intervalo de confiança 95% de 81,8 a 95,3%). O número de
 Os autores concluíram que os objetivos do estudo foram atingidos com a estratégia utilizada. Embora tenha havido um aumento não significativo
 dos eventos no grupo de resposta completa, a sobrevida alcançada foi excelente. Os autores recomendam que esta estratégia seja adotada como padrão.
 
-_Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._ 
+<video id="0" width="800px" height="450px" controls>
+<source src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Wilms_Tumor_CTScan.ogv" type="video/ogg" codecs="theora, vorbis">
+<p>Se você não consegue visualizar o vídeo, o seu navegador não dá suporte para vídeos HTML5.</p>
+</video>
 
-O estudo pode ser lido [aqui](http://bit.ly/fhcflxkD).
+_Vídeo: TC de abdome de criança com 13 meses de idade, mostrando um tumor de Wilms de 13 cm de diâmetro. Créditos Domínio Público, via Wikimedia Commons_
+
+_Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
+
+Leia a publicação:
+- David B. Dix, Nita L. Seibel, Yueh-Yun Chi, Geetika Khanna, Eric Gratias, James R. Anderson, Elizabeth A. Mullen, James I. Geller, John A. Kalapurakal, Arnold C. Paulino, Elizabeth J. Perlman, Peter F. Ehrlich, Marcio Malogolowkin, Julie M. Gastier-Foster, Elizabeth Wagner, Paul E. Grundy, Conrad V. Fernandez, and Jeffrey S. Dome. Treatment of Stage IV Favorable Histology Wilms Tumor With Lung Metastases: A Report From the Children’s Oncology Group AREN0533 Study. Journal of Clinical Oncology 2018 36:16, 1564-1570  [doi:10.1200/JCO.2017.77.1931](http://doi.org/10.1200/JCO.2017.77.1931).
+

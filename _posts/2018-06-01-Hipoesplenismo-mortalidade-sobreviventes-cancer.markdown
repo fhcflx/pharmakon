@@ -22,6 +22,7 @@ No grupo estudado, 1354 pacientes (6,8%) sofreram esplenectomia e 9442 (46%) rec
 O estudo concluiu que a asplenia causada por esplenectomia ou irradiação do baço em sobreviventes de câncer pediátrico aumenta significativamente o risco de mortalidade por infecções, mesmo vários anos após o tratamento. Mesmo doses baixas de radiação aumentam o risco de mortalidade. Esse conhecimento deve alertar os especialistas para medidas preventivas adequadas durante o seguimento dos pacientes.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/4/41/Red_Pulp_and_White_Pulp_of_the_Spleen.jpg)
+
 _Figura: estrutura do baço. A polpa branca (A) é responsável pela função imunológica, a polpa vermelha (B) tem papel na retirada de hemácias velhas da corrente sanguínea. Créditos Senioritisisreal [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons._
 
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
