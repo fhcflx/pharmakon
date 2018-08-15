@@ -27,7 +27,7 @@ O protocolo de atividade física do _Center for Disease Control and Prevention_ 
 
 Setenta e oito participantes completaram o estudo. Os participantes que usaram o _website_ obtiveram melhores escores físicos e neurocognitivos do que os participantes do grupo controle. Os pesquisadores concluíram que a estratégia interativa foi bem sucedida e melhor para promover aderência à atividade física entre os sobreviventes de câncer pediátrico.
 
-![](https://upload.wikimedia.org/wikipedia/commons/c/c8/Laserbehandling.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/c/c8/Laserbehandling..jpg)
 
 _Figura: equipamento de fotobiomodulação usado na Suécia para tratar inflamação. Créditos Jonn Leffmann [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), from Wikimedia Commons_
 
@@ -35,4 +35,3 @@ _Esta postagem não representa sugestão de tratamento. Apenas um especialista p
 
 Leia a publicação:
 - Howell CR, Krull KR, Partin RE, et al. Randomized web‐based physical activity intervention in adolescent survivors of childhood cancer. Pediatr Blood Cancer. 2018;65:e27216. [doi:10.1002/pbc.27216](https://doi.org/10.1002/pbc.27216).
-

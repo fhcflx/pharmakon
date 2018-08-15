@@ -20,7 +20,8 @@ Outros estudos mostraram que ARA podem reduzir a necessidade de esteróides para
 
 Outros aspectos do SRA que podem fazer com que o uso de ARA/iECA tenham impacto no tratamento de gliomas incluem imunomodulação, radiossensibilização das células tumorais e radioproteção das células normais.
 
-Leia a revisão completa [aqui](http://bit.ly/fhcflxYO).
+Leia a publicação:
+- Perdomo-Pantoja, A., Mejía-Pérez, S.I., Gómez-Flores-Ramos, L. et al. Renin angiotensin system and its role in biomarkers and treatment in gliomas. J Neurooncol (2018) 138: 1. [doi:10.1007/s11060-018-2789-5](https://doi.org/10.1007/s11060-018-2789-5)
 
 No mesmo número do JNO, foi publicado um estudo retrospectivo que contrabalança e complementa esta revisão da literatura sobre este tema, dando mais uma perspectiva sobre o assunto. Pesquisadores do _European Organisation for Research and Treatment of Cancer_ (EORTC), incluindo centros de pesquisa da Europa e América do Norte, conduziram uma avaliação retrospectiva do efeito de várias classes de drogas cardiovasculares na sobrevida de pacientes com GBM.
 
@@ -28,10 +29,17 @@ O estudo incluiu 810 pacientes com GBM que haviam sido recrutados para dois gran
 
 Os resultados mostraram sem ambiguidade que nenhuma destas classes de medicamentos teve influência na sobrevida dos pacientes com GBM. Este estudo reuniu um número bem maior de pacientes em comparação com os outros citados. Além disso, tem a vantagem de ser uma análise secundária de um grupo homogêneo de pacientes recrutados prospectivamente.
 
-Este estudo pode ser lido na íntegra [aqui](http://bit.ly/fhcflxAb).
+![](https://upload.wikimedia.org/wikipedia/commons/a/a2/Renin-angiotensin-aldosterone_system.png)
+
+_Figura: esquema do sistema renina-angiotensina-aldosterona. Créditos A. Rad [GFDL (http://www.gnu.org/copyleft/fdl.html) or [CC-BY-SA-3.0](http://creativecommons.org/licenses/by-sa/3.0/), from Wikimedia Commons_
+
+Leia a publicação:
+- Happold, C., Gorlia, T., Nabors, L.B. et al. Do statins, ACE inhibitors or sartans improve outcome in primary glioblastoma? J Neurooncol (2018) 138: 163. [doi:10.1007/s11060-018-2786-8](https://doi.org/10.1007/s11060-018-2786-8)
 
 O caso do reposicionamento de drogas cardiovasculares no tratamento do GBM constitui um exemplo das virtudes e fraquezas dos estudos retrospectivos. Não é incomum que estudos assim desenhados sugiram efeitos aue nunca são confirmados em ensaios prospectivos. A principal razão é o conjunto de variáveis de confundimento.
 
 Em estudos observacionais retrospectivos estas não podem ser controladas e são frequentemente desconhecidas. Já em estudos prospectivos, todas as variáveis de confundimento reconhecidas podem ser levadas em conta num planejamento prévio. Estudos secundários de dados coletados prospectivamente são um exemplo de um tipo de estudo retrospectivo que suplanta parcialmente estas limitações.
 
 Mesmo com todo o cuidado metodológico, um estudo retrospectivo via de regra não pode ser usado para concluir pela real efetividade de um tratamento, mas sim construir hipóteses sólidas a fim de permitir o planejamento de estudos prospectivos bem desenhados. No caso dos ARA/iECA, a principal conclusão que se chega é que não parece valer a pena o esforço de continuar investindo em seu reposicionamento como medicamentos oncológicos.
+
+_Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._

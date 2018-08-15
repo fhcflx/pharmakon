@@ -18,7 +18,8 @@ Para tentar entender o que aconteceu, os pesquisadores analisaram a histologia d
 
 Existem alguns raros trabalhos na literatura científica dando conta de algum risco aumentado de mortalidade quando a dexametasona é usada em pacientes com tumores cerebrais, mas até hoje esta droga é usada sem limitações para pacientes com os mais diversos tipos de doenças neoplásicas cerebrais. Uma das questões levantadas pelo trabalho é qual seria a possível alternativa de tratamento do edema cerebral relacionado aos tumores cerebrais, porém esta é uma questão que permanece em aberto.
 
-Veja o artigo inteiro [aqui](https://link.springer.com/article/10.1007/s11060-018-2761-4?wt_mc=alerts.TOCjournals&utm_source=toc&utm_medium=email&utm_content=11060&utm_campaign=).
+Leia a publicação:
+- Dubinski, D., Won, SY., Gessler, F. et al. Dexamethasone-induced leukocytosis is associated with poor survival in newly diagnosed glioblastoma. J Neurooncol (2018) 137: 503. [doi:10.1007/s11060-018-2761-4](https://doi.org/10.1007/s11060-018-2761-4)
 
 Em outro trabalho no mesmo número do JNO, pesquisadores do _The Hospital for Sick Children_ em Toronto, no Canadá, avaliaram a função visual de 59 crianças tratadas para craniofaringioma. Este tumor benigno surge na região da glândula pituitária, logo posterior às vias ópticas, sendo muito comum que os pacientes apresentem baixa visual devido à doença.
 
@@ -26,6 +27,11 @@ Os pesquisadores relatam que a idade média dos pacientes avaliados era de 9,4 a
 
 Pacientes mais jovens, com papiledema ao diagnóstico e aqueles que tiveram recidiva do tumor tiveram maior risco de baixa visual. Ao final do seguimento do estudo, 58% dos pacientes tinha baixa visual e 10% estavam legalmente cegos de pelo menos 1 olho. Os autores do estudo concluem que o seguimento da função visual destes pacientes é muito importante, especialmente naqueles com maior risco de sequelas visuais.
 
+![](https://upload.wikimedia.org/wikipedia/commons/e/e0/CT_brain_tumor.jpg)
+
+*Figura: tomografia computadorizada mostrando edema cerebral (área escura) associada à um tumor cerebral. A dexametasona é largamente usada para tratar edema cerebral tumoral. Créditos Bobjgalindo [GFDL](http://www.gnu.org/copyleft/fdl.html) ou [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), da Wikimedia Commons.*
+
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
-Veja o artigo completo [aqui](https://link.springer.com/article/10.1007/s11060-018-2762-3?wt_mc=alerts.TOCjournals&utm_source=toc&utm_medium=email&utm_content=11060&utm_campaign=).
+Leia a publicação:
+- Wan, M.J., Zapotocky, M., Bouffet, E. et al. Long-term visual outcomes of craniopharyngioma in children. J Neurooncol (2018) 137: 645. [doi:10.1007/s11060-018-2762-3](https://doi.org/10.1007/s11060-018-2762-3)

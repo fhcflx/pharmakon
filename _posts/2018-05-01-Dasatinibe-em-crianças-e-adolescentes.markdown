@@ -16,7 +16,8 @@ Neste estudo fase II, 113 pacientes com LMC na fase crônica foram tratados com 
 
 O tratamento foi bem tolerado e nenhum evento de efusão pleural ou pericárdica{% include derrame.html %}, nem hipertensão pulmonar foi observado. Apenas 4% dos pacientes apresentou alterações do crescimento e desenvolvimento. Em conclusão, este estudo mostrou que o dasatinibe é muito eficaz e seguro em pacientes pediátricos com LMC em fase crônica.
 
-Veja a publicação [aqui](http://ascopubs.org/doi/abs/10.1200/JCO.2017.75.9597).
+Leia a publicação:
+- Lia Gore, Pamela R. Kearns, Maria Lucia de Martino, Lee, Carmino Antonio De Souza, Yves Bertrand, Nobuko Hijiya, Linda C. Stork, Nack-Gyun Chung, Rocio Cardenas Cardos, Tapan Saikia, Franca Fagioli, Jong Jin Seo, Judith Landman-Parker, Donna Lancaster, Andrew E. Place, Karen R. Rabin, Mariana Sacchi, Rene Swanink, and C. Michel Zwaan. Dasatinib in Pediatric Patients With Chronic Myeloid Leukemia in Chronic Phase: Results From a Phase II Trial. Journal of Clinical Oncology 2018 36:13, 1330-1338 [doi:10.1200/JCO.2017.75.9597](http://doi.org/10.1200/JCO.2017.75.9597)
 
 No mesmo número da revista, um grupo internacional de pesquisadores da Novartis publicou os resultados do primeiro ensaio clínico fase Ia em seres humanos da droga alpelisibe, um inibidor oral de fosfatidilinositol-3-quinase alfa (PI3k&alpha;).
 
@@ -24,14 +25,15 @@ A via de sinalização fosfatidilinositol-3-quinase (PI3K)/ proteína quinase B 
 
 As enzimas PI3K da classe IA são formadas por duas subunidades protéicas (heterodímeros), denominadas p85 e p110. A subunidade p110 tem 3 isoformas: PIK3CA, PIK3CB e PIK3CD, diferentes entre si na regulação, ativação e nas funções. Estudos têm demonstrado que um grande número de tumores depende de mutações de PIK3CA. O uso de inibidores não específicos de PI3K em ensaios clínicos mostrou resultados modestos e um grande número de efeitos adversos. Na tentativa de melhorar os efeitos terepêuticos e minimizar os efeitos colaterais, pesquisadores desenvolveram inibidores seletivos de isoformas da subunidade p110 de PI3K.
 
-
-![PI3K/AKT]({{ site.baseurl }}/assets/img/pi3kakt.png)
-*Vias de sinalização envolvidas na apoptose celular, incluindo a via PI3K/AKT. Fonte: [cybertory](https://en.wikipedia.org/wiki/Phosphoinositide_3-kinase#/media/File:Signal_transduction_pathways.svg), CC BY-SA 3.0.*
-
 Alpelisibe é um inibidor da isoforma PIK3CA (p110&alpha;) da PI3K. O ensaio fase Ib tratou 134 pacientes com formas avançadas de tumores com PIK3CA mutante. A dose máxima tolerada foi de 400mg 1 vez ao dia ou 150mg duas vezes ao dia. Cinquenta por cento dos pacientes obtiveram estabilização da doença, enquanto 6% tiveram resposta objetiva (remissão total ou parcial). Cerca de 13% dos pacientes apresentaram toxicidade limitantes da dose.
 
 Os autores concluíram que este estudo mostrou que o tratamento com alpelisibe é tolerável dentro das doses especificadas e mostrou eficácia inicial promissora, dando suporte ao racional de tratar pacientes com tumores portadores de mutações de PIK3CA (PI3K&alpha;).
 
+![PI3K/AKT]({{ site.baseurl }}/assets/img/pi3kakt.png)
+
+*Figura: vias de sinalização envolvidas na apoptose celular, incluindo a via PI3K/AKT. Créditos [cybertory](https://en.wikipedia.org/wiki/Phosphoinositide_3-kinase#/media/File:Signal_transduction_pathways.svg), CC BY-SA 3.0.*
+
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
-Veja a publicação completa [aqui](http://ascopubs.org/doi/abs/10.1200/JCO.2017.72.7107).
+Leia a publicação:
+- Dejan Juric, Jordi Rodon, Josep Tabernero, Filip Janku, Howard A. Burris, Jan H.M. Schellens, Mark R. Middleton, Jordan Berlin, Martin Schuler, Marta Gil-Martin, Hope S. Rugo, Ruth Seggewiss-Bernhardt, Alan Huang, Douglas Bootle, David Demanse, Lars Blumenstein, Christina Coughlin, Cornelia Quadt, and José Baselga. Phosphatidylinositol 3-Kinase α–Selective Inhibition With Alpelisib (BYL719) in PIK3CA-Altered Solid Tumors: Results From the First-in-Human Study. Journal of Clinical Oncology 2018 36:13, 1291-1299 [doi:10.1200/JCO.2017.72.7107](http://doi.org/10.1200/JCO.2017.72.7107)

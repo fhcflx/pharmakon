@@ -16,11 +16,13 @@ O primeiro ensaio clínico{% include ensaio_clinico.html %} usando TTF para trat
 
 O novo tratamento com TTF tem características e limitações únicas. Os pacientes devem raspar completamente os cabelos e colocar um conjunto de eletrodos que permanecem 24h por dia no couro cabelo e são trocados a cada 3-4 dias. Além disso, eles precisam carregar um conjunto de baterias portáteis que precisam ser trocadas a cada poucas horas, enquanto outro conjunto carrega. Apesar das dificuldades e limitações que os pacientes enfrentam para usar o aparato, a aderência ao tratamento tem sido maior que 75%. O principal efeito colateral é a irritação da pele no local em que os eletrodos são aplicados, que geralmente é leve, mas leva 1-2% dos pacientes a interromper o tratamento. O custo do tratamento, atualmente em torno de 21 mil dólares por mês, também é uma limitação a sua adoção generalizada.
 
-![Tumor Treating Fields]({{ site.baseurl }}/assets/img/Optune-Photo.jpg)
-*Aparato usado para aplicar os TTF (campos elétricos terapêuticos) no crânio dos pacientes.*
-
 Mais pesquisas estão sendo realizadas com TTF para tumores cerebrais, e várias possibilidades interessantes são vislumbradas. Entre elas, o uso de TTF em crianças e adolescentes e antes da radioterapia{% include radioterapia.html %} para amplificar seu efeito. Outras drogas, inclusive agentes biológicos e terapia alvo{% include alvo.html %}, estão sendo testados em combinação com TTF para tratar glioblastoma. Uma nova modalidade de terapia oncológica está nascendo, e sua utilização em combinação com as outras modalidades clássicas, cirurgia, radioterapia e quimioterapia, ou com outras modalidades novas, como imunoterapia, promete modificar para sempre o modo como os tumores cerebrais são tratados.
+
+![Tumor Treating Fields]({{ site.baseurl }}/assets/img/Optune-Photo.jpg)
+
+*Figura: aparato usado para aplicar os TTF (campos elétricos terapêuticos) no crânio dos pacientes.*
 
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
-Leia o artigo original [aqui](https://link.springer.com/article/10.1007/s11060-018-2768-x?wt_mc=alerts.TOCjournals&utm_source=toc&utm_medium=email&utm_content=11060&utm_campaign=).
+Leia a publicação:
+- Rick, J., Chandra, A. & Aghi, M.K. Tumor treating fields: a new approach to glioblastoma therapy. J Neurooncol (2018) 137: 447. [doi:10.1007/s11060-018-2768-x](https://doi.org/10.1007/s11060-018-2768-x)

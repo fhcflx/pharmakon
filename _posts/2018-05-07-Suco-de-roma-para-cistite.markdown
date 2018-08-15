@@ -22,6 +22,15 @@ Os resultados mostraram que a função da bexiga foi melhor preservada e a destr
 
 Os autores concluíram que os efeitos do suco de romã podem ser benéficos no tratamento da cistite hemorrágica induzida por CTX em animais experimentais, devido a seus efeitos anti-oxidante e anti-inflamatório.
 
+![](https://upload.wikimedia.org/wikipedia/commons/5/5d/Pomegranate.jpg)
+
+_Figura: a romã tem vários usos medicinais tradicionais. Créditos fir0002 (flagstaffotos.com.au) [GFDL 1.2](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html), from Wikimedia Commons_
+
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
-Leia o estudo completo [aqui](http://bit.ly/fhcflx7F).
+Leia a publicação:
+- Mahmoudi N, Eftekharzadeh S, Golmohammadi M, Khorramirouz R, Hashemi J,
+Kashani Z, Alijani M, Hamidieh AA, Kajbafzadeh AM. Alleviation of
+Cyclophosphamide-induced Hemorrhagic Cystitis by Dietary Pomegranate: A
+Comparative Experimental Study With Mesna. J Pediatr Hematol Oncol. 2018 May 4.
+[doi:10.1097/MPH.0000000000001203](http://doi.org/10.1097/MPH.0000000000001203).
