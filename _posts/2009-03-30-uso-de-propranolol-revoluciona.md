@@ -16,7 +16,7 @@ blogger_orig_url: http://pharmak.blogspot.com/2009/03/uso-de-propranolol-revoluc
 
 Em junho de 2008, um grupo de dermatologistas franceses publicou uma carta no
 [New England Journal of Medicine](http://content.nejm.org/), um dos mais prestigiados jornais científicos do mundo, relatando o resultado do tratamento
-de 11 crianças com [hemangiomas](http://www.hemangioma.com.br/) de grande tamanho com [propranolol](http://pt.wikipedia.org/wiki/Propranolol). Esta droga é um [beta-bloqueador](http://pt.wikipedia.org/wiki/Bloqueador_beta), substância
+de 11 crianças com [hemangiomas](http://www.hemangioma.com.br/){% include hamengioma.html %} de grande tamanho com [propranolol](http://pt.wikipedia.org/wiki/Propranolol){% include propranolol.html %}. Esta droga é um [beta-bloqueador](http://pt.wikipedia.org/wiki/Bloqueador_beta), substância
 usada com sucesso como [anti-hipertensivo](http://pt.wikipedia.org/wiki/Anti-hipertensivo) desde a década de 70.
 
 O propranolol foi oriundo de um bem sucedido programa de planejamento racional
@@ -29,4 +29,14 @@ em poucas semanas, foi descoberto casualmente pelos especialistas franceses, qua
 Após o primeiro e surpreendente resultado,
 a equipe testou o novo tratamento em mais 9 crianças, com resultado positivo.
 A publicação deu início a uma onda mundial de euforia, com especialistas ao redor do planeta usando a droga para tratar
-hemangiomas em crianças. O artigo pode ser lido [aqui](http://content.nejm.org/cgi/content/full/358/24/2649).
+hemangiomas em crianças.
+
+![](https://upload.wikimedia.org/wikipedia/commons/a/af/Propranolol-from-xtal-3D-balls.png)
+
+_Figura: estrutura tridimensional do propranolol. Créditos Ben Mills, Domínio Público, via Wikicommons._
+
+_Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
+
+Leia a publicação:
+- Léauté-Labrèze C, Dumas de la Roque E, Hubiche T, Boralevi F, Thambo JB, Taïeb A. Propranolol for severe hemangiomas of infancy. N Engl J Med. 2008 Jun
+12;358(24):2649-51. [doi:10.1056/NEJMc0708819](http://doi.org/10.1056/NEJMc0708819)
