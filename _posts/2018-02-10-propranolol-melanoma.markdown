@@ -21,12 +21,12 @@ Este foi o primeiro estudo prospectivo que avaliou o uso de um betabloqueador no
 
 Os pesquisadores especulam que esse efeito encontrado possa dever-se à influência do estresse, via liberação de adrenalina e noradrenalina no organismo, na progressão dos tumores. Essa relação ainda é controversa, mas alguns estudos apontam a possibilidade de que o estresse crônico e a depressão, condições onde existem níveis aumentados de adrenalina e noradrenalina, possam afetar negativamente os pacientes com câncer.
 
-Além disso, os beta-bloqueadores, em especial o propranolol, tem sido usados para tratar hemangiomas{% include hemangioma.html %}, tumores benignos formados por vasos sanguíneos. O propranolol poderia ter um efeito anti-angiogênico, inibindo a formação de vasos sanguíneos.
+Além disso, os beta-bloqueadores, em especial o propranolol, [tem sido usados](http://bit.ly/fhcflxEw) para tratar hemangiomas{% include hemangioma.html %}, tumores benignos formados por vasos sanguíneos. O propranolol poderia ter um efeito anti-angiogênico, inibindo a formação de vasos sanguíneos.
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/a/a3/Ewing%27s_sarcoma_MRI_nci-vol-1832-300.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/6/6c/Melanoma.jpg)
 
-_Figura: sarcoma de Ewing crescendo na bacia (imagem de ressonância magnética). Créditos National Cancer Institute, Domínio Público, via Wikimedia Commons._
+_Figura: melanoma, um dos tumores mais malignos da espécie humana. Créditos National Cancer Institute, Domínio Público, via Wikimedia Commons._
 
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
