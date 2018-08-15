@@ -16,7 +16,7 @@ blogger_orig_url: http://pharmak.blogspot.com/2009/03/uso-de-propranolol-revoluc
 
 Em junho de 2008, um grupo de dermatologistas franceses publicou uma carta no
 [New England Journal of Medicine](http://content.nejm.org/), um dos mais prestigiados jornais científicos do mundo, relatando o resultado do tratamento
-de 11 crianças com [hemangiomas](http://www.hemangioma.com.br/){% include hamengioma.html %} de grande tamanho com [propranolol](http://pt.wikipedia.org/wiki/Propranolol){% include propranolol.html %}. Esta droga é um [beta-bloqueador](http://pt.wikipedia.org/wiki/Bloqueador_beta), substância
+de 11 crianças com [hemangiomas](http://www.hemangioma.com.br/){% include hemangioma.html %} de grande tamanho com [propranolol](http://pt.wikipedia.org/wiki/Propranolol){% include propranolol.html %}. Esta droga é um [beta-bloqueador](http://pt.wikipedia.org/wiki/Bloqueador_beta), substância
 usada com sucesso como [anti-hipertensivo](http://pt.wikipedia.org/wiki/Anti-hipertensivo) desde a década de 70.
 
 O propranolol foi oriundo de um bem sucedido programa de planejamento racional
