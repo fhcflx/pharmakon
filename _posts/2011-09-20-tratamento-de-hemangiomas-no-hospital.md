@@ -22,4 +22,7 @@ No meu trabalho, descrevo resultados preliminares de nossa própria experiência
 
 Em outubro deste ano, devemos apresentar nossos primeiros resultados preliminares. De uma forma geral, temos obtido bons resultados com a utilização de propranolol para o tratamento de hemangiomas infantis, assim como vários outros grupos ao redor do mundo. 
 
-Leia o trabalho da RSCA: [http://bit.ly/pY1a9u](http://bit.ly/pY1a9u)
+Leia o trabalho da RSCA:
+
+<iframe src="https://widgets.figshare.com/articles/2059821/embed?show_title=1" width="568" height="351" frameborder="0"></iframe>
+

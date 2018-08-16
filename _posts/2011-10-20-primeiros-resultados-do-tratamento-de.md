@@ -28,4 +28,4 @@ O gráfico mostra número absoluto de pacientes. Como o tratamento de hemangioma
 
 A aluna Juliana, que faz parte do programa de Iniciação Científica da UFC como voluntária (sem bolsa) colheu os dados e as alunas Jamille Félix e Rosane Aline Magalhães (bolsistas da UFC e FUNCAP) informatizaram os dados. O planejamento, coordenação e análise ficaram a meu encargo. Todas as alunas são orientadas pela professora Juvenia. Todos os autores revisaram e aprovaram a redação final do trabalho.
 
-Link para o poster no google docs: [bit.ly/qrdegO](http://bit.ly/qrdegO)
+Link para o poster: [bit.ly/fhcflxZ1](http://bit.ly/fhcflxZ1)
