@@ -32,7 +32,7 @@ Existe uma grande dificuldade ao se analisar resultados como esses: é necessár
 
 Um tratamento farmacológico poderia afetar seu volume se modificasse o modo como a lesão se enche ou se esvazia de linfa, algo que alguns trabalhos preliminares mostram que o [propranolol](http://www.nejm.org/doi/full/10.1056/NEJMc1013217?viewType=Print) poderia fazer. Mesmo assim, daí a se afirmar que um tratamento é "eficaz" vai uma longa distância. Especialmente quando se espera que parte das lesões reduza sem tratamento. 
 
-Avaliações equivocadas semelhantes já levaram à proposição de tratamentos estapafúrdios para hemangioma{% include hemangioma.html %}, por exemplo, um tumor vascular que é autolimitado e que somente necessita de tratamento em casos complicados.
+Avaliações equivocadas semelhantes já levaram à proposição de tratamentos estapafúrdios para hemangioma, por exemplo, um tumor vascular que é autolimitado e que somente necessita de tratamento em casos complicados.
 
 Assim, a não ser com a realização de estudos científicos desenhados especialmente para descobrir exatamente o efeito de uma medicação sobre uma doença como essa, não é possível concluir sobre a eficácia de nenhum tratamento. Neste caso específico, apesar de um pequeno número de casos relatados com aparente efeito positivo (que poderiam ter se resolvido "espontaneamente"), este ensaio clínico recente joga água na fervura do interesse pela sildenafila para o tratamento de linfangiomas da infância.
 

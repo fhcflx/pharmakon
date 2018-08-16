@@ -25,7 +25,7 @@ O uso de sildenafila pode revolucionar o tratamento de linfangiomas da infância
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/96/Sildenafil-from-xtal-3D-balls.png)
 
-_Figura: estrutura 3D da sildenafila. Créditos By Ben Mills, Domínio Público, via Wikimedia Commons.
+_Figura: estrutura 3D da sildenafila. Créditos By Ben Mills, Domínio Público, via Wikimedia Commons._
 
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
