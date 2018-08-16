@@ -14,7 +14,7 @@ blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-12542686644379199
 blogger_orig_url: http://pharmak.blogspot.com/2009/10/mais-sobre-propranolol-no-tratamento-de.html
 ---
 
-Recentemente, o beta-bloqueador propranolol tem sido utilizado com sucesso para tratar crianças com hemangiomas complicados. Numa [postagem](http://bit.ly/fhcflxEw) anterior, havíamos relatado como o uso desta droga foi descoberto casualmente por dermatologistas franceses e o impacto que já estava ocorrendo no tratamento de hemangiomas em crianças no mundo inteiro. 
+Recentemente, o beta-bloqueador propranolol{% include propranolol.html %} tem sido utilizado com sucesso para tratar crianças com hemangiomas{% include hemangioma.html %} complicados. Numa [postagem](http://bit.ly/fhcflxEw) anterior, havíamos relatado como o uso desta droga foi descoberto casualmente por dermatologistas franceses e o impacto que já estava ocorrendo no tratamento de hemangiomas em crianças no mundo inteiro. 
 
 Agora, em agosto de 2009, o mesmo grupo francês de pesquisadores publicou o primeiro trabalho com a reavaliação do tratamento dos pacientes após seguimento de alguns meses. 
 
