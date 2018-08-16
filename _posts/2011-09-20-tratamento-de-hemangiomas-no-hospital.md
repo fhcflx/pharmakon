@@ -13,6 +13,7 @@ blogger_orig_url: http://pharmak.blogspot.com/2011/09/tratamento-de-hemangiomas-
 ---
 
 A Revista de Saúde da Criança e do Adolescente deste mês traz um artigo de minha autoria descrevendo as opções no tratamento de crianças com hemangioma{% include hemangioma.html %}. Este artigo é baseado em minha experiência pessoal, de ter tratado no Serviço de Onco-hematologia Pediátrica do Hospital Infantil Albert Sabin (agora Centro Pediátrico do Câncer) mais de 200 crianças com hemangiomas nos últimos 5 anos. 
+<!--more-->
 
 O tratamento de crianças com hemangioma em nossa unidade iniciou-se com o encaminhamento de pacientes com lesões complicadas para tratamento com interferon alfa 2a (hoje em desuso) e, mais tarde, com vincristina (um quimioterápico). Em fins de 2008, por intermédio do grupo da Dra. Heloísa Galvão do Amaral Campos (link para seu [site](http://bit.ly/noykB9)), através do colega Dr. Antonio Aldo Melo Filho, soubemos do advento do propranolol{% include propranolol.html %} para seu tratamento. 
 
@@ -22,7 +23,9 @@ No meu trabalho, descrevo resultados preliminares de nossa própria experiência
 
 Em outubro deste ano, devemos apresentar nossos primeiros resultados preliminares. De uma forma geral, temos obtido bons resultados com a utilização de propranolol para o tratamento de hemangiomas infantis, assim como vários outros grupos ao redor do mundo. 
 
-Leia o trabalho da RSCA:
+_Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
+
+Leia a publicação:
 
 <iframe src="https://widgets.figshare.com/articles/2059821/embed?show_title=1" width="568" height="351" frameborder="0"></iframe>
 

@@ -24,5 +24,7 @@ Um grupo de pesquisadores de Ho-fei, na China, acaba de publicar no British Jour
 
 Os autores recomendam fortemente que o propranolol seja usado como tratamento inicial para crianças com hemangiomas capilares complicados. Essa pesquisa vem confirmar e comprovar os resultados anteriores de estudos realizados no mundo inteiro, inclusive <a href="http://pharmak.blogspot.com.br/2011/10/primeiros-resultados-do-tratamento-de.html">aqui</a>.
 
+_Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
+
 Leia a publicação:
 - Lou, Y. , Peng, W. , Cao, Y. , Cao, D. , Xie, J. and Li, H. (2014), The effectiveness of propranolol in treating infantile haemangiomas: a meta‐analysis including 35 studies. Br J Clin Pharmacol, 78: 44-57. [doi:10.1111/bcp.12235](http://doi.org/10.1111/bcp.12235)

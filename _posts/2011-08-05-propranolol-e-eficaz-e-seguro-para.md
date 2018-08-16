@@ -13,12 +13,15 @@ blogger_orig_url: http://pharmak.blogspot.com/2011/08/propranolol-e-eficaz-e-seg
 ---
 
 O mais novo estudo sobre o uso de propranolol{% include propranolol.html %} para o tratamento de hemangiomas infantis{% include hemangioma.html %} foi publicado online no portal do jornal Pediatrics, da American Academy of Pediatrics. Marcia Hogelling, Susan Adams e Orli Wargon, do Sydney Children's Hospital na Australia, trataram 40 crianças entre 9 semanas e 5 anos de idade, com hemangiomas faciais ou em outros locais desfigurantes. 
+<!--more-->
 
 Os pacientes foram aleatoriamente divididos em 2 grupos, um recebeu propranolol 2 mg/kg/dia em 3 doses e o outro recebeu placebo. As avaliações foram feitas por profissionais que desconheciam o tratamento que o paciente fazia e os responsáveis dos pacientes também não sabiam a que grupo seus filhos pertenciam. 
 
 Os resultados mostraram inequivocamente que o propranolol é altamente eficaz para o tratamento de hemangiomas infantis, além de seguro (nenhum paciente teve que interromper o tratamento por efeitos colaterais). Além de ser o primeiro estudo duplo cego randomizado{% include ensaio_clinico.html %} sobre o uso de propranolol em crianças com hemangiomas, é também o primeiro estudo dessa natureza jamais feito em crianças com esta doença. 
 
 O fármaco antes usado como primeira escolha para o tratamento de hemangiomas infantis - a prednisona - nunca foi alvo de um estudo destes, o mais próximo foi um estudo randomizado comparando corticóides orais e endovenosos, sem controle não tratado. O cegamento, nestas circunstâncias, é muito prejudicado. Nenhum outro estudo com crianças com hemangioma foi duplo cego. Apesar do estudo ter limitações que os próprios autores apontam, torna-se automaticamente a melhor evidência científica sobre o assunto. O tratamento dos hemangiomas infantis com propranolol pode ser amplamente adotado como primeira escolha. 
+
+_Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
 Leia a publicação:
 - Marcia Hogeling, Susan Adams, Orli Wargon. A Randomized Controlled Trial of Propranolol for Infantile Hemangiomas. Pediatrics Aug 2011, 128 (2) e259-e266; [doi:10.1542/peds.2010-0029](http://doi.org/10.1542/peds.2010-0029)

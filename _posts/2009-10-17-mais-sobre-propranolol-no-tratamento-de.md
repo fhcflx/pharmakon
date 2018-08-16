@@ -5,7 +5,7 @@ date: '2009-10-17T11:41:00.002-03:00'
 author: Francisco H C Felix
 tags:
 - Propranolol
-- pediatrics
+- Pediatria
 - Farmacologia clínica
 - Hemangioma
 - Anomalias vasculares
@@ -15,6 +15,7 @@ blogger_orig_url: http://pharmak.blogspot.com/2009/10/mais-sobre-propranolol-no-
 ---
 
 Recentemente, o beta-bloqueador propranolol{% include propranolol.html %} tem sido utilizado com sucesso para tratar crianças com hemangiomas{% include hemangioma.html %} complicados. Numa [postagem](http://bit.ly/fhcflxEw) anterior, havíamos relatado como o uso desta droga foi descoberto casualmente por dermatologistas franceses e o impacto que já estava ocorrendo no tratamento de hemangiomas em crianças no mundo inteiro. 
+<!--more-->
 
 Agora, em agosto de 2009, o mesmo grupo francês de pesquisadores publicou o primeiro trabalho com a reavaliação do tratamento dos pacientes após seguimento de alguns meses. 
 
@@ -24,5 +25,7 @@ A dose usada foi de 2-3 mg/kg/dia e nenhum efeito colateral severo ocorreu. Apen
 
 Os autores recomendam que o propranolol seja a primeira escolha para o tratamento de hemangiomas complicados da infância. 
   
+_Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
+
 Leia a publicação:
 - Véronique Sans, Eric Dumas de la Roque, Jérôme Berge, Nicolas Grenier, Franck Boralevi, Juliette Mazereeuw-Hautier, Dan Lipsker, Elisabeth Dupuis, Khaled Ezzedine, Pierre Vergnes, Alain Taïeb, Christine Léauté-Labrèze. Propranolol for Severe Infantile Hemangiomas: Follow-Up Report. Pediatrics Sep 2009, 124 (3) e423-e431; [doi:10.1542/peds.2008-3458](http://doi.org/10.1542/peds.2008-3458)
