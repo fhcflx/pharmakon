@@ -13,6 +13,7 @@ A utilização de medicamentos aprovados para um fim em patologias diversas da a
 <!--more-->
 
 Pesquisadores do _Boston Children's Hospital and Harvard Medical School_, e integrantes do mais conhecido grupo de pesquisa e tratamento de anomalias vasculares do planeta, liderado pelo mais reconhecido especialista nestas patologias, o Dr. John B. Mulliken, publicaram os resultados de um ensaio clínico na revista _Pediatrics_, mostrando a utilidade da medicação _sirolimo_ no tratamento de anomalias vasculares complicadas. O ensaio, coordenado pela Dra Denise Adams, uma das co-diretoras do _Vascular Anomalies Center_ do _Boston Children's_, foi conduzido entre 2009 e 2015 e incluiu 61 pacientes.
+</br></br>
 
 | Classificação inicial | Classificação revisada |
 | --- | --- |
@@ -23,14 +24,14 @@ Pesquisadores do _Boston Children's Hospital and Harvard Medical School_, e inte
 | HEK ou AT com FKM | HEK com FKM |
 | HEK ou AT sem FKM | HEK sem FKM |
 | MLVC | MLVC |
-| Linfangiectasia | Anomalias dos canais linfáticos centrais |
-| PTEN com anomalia vascular | PTEN/MAV |
-| | PTEN/hipertrofia/anomalia vascular |
+| Linfangiectasia | ACLC |
+| PTEN com AV | PTEN/MAV |
+| | PTEN/hipertrofia/AV |
 | MLV | MLV |
-| Linfangioendoteliomatose multifocal com trombocitopenia | Linfangioendoteliomatose multifocal com trombocitopenia |
+| LEMT | LEMT |
 | MLAC | MLAC |
 
-_Tabela: tipos de anomalias vasculares incluídos no ensaio clínicos de Adams et al. ALG = anomalia linfática generalizada, ML = malformação linfática microcística, HEK = hemangioendotelioma kaposiforme, AT = angioma em tufos, FKM = fenômeno de Kasabach-Merritt, MLVC = malformação linfáticovenosa capilar, PTEN = Síndrome de mutação do gene PTEN, MAV = malformação arteriovenosa, MLV = malformação linfáticovenosa, MLAC = malformação linfático-arterial capilar._
+_Tabela: tipos de anomalias vasculares incluídos no ensaio clínicos de Adams et al. ALG = anomalia linfática generalizada, ML = malformação linfática microcística, HEK = hemangioendotelioma kaposiforme, AT = angioma em tufos, FKM = fenômeno de Kasabach-Merritt, MLVC = malformação linfáticovenosa capilar, ACLC = anomalias dos canais linfáticos centrais, PTEN = Síndrome de mutação do gene PTEN, AV = anomalia vascular, MAV = malformação arteriovenosa, MLV = malformação linfáticovenosa, LEMT = linfangioendoteliomatose multifocal com trombocitopenia, MLAC = malformação linfático-arterial capilar._
 
 Os pacientes foram incluídos no estudo quando apresentavam complicações das anomalias vasculares (coagulopatia, dor crônica, mais de 3 episódios de celulite por ano, ulceração, envolvimento ósseo e/ou visceral, disfunção cardíaca). A idade dos pacientes variou de 0 a 31 anos e o tratamento foi planejado por 12 meses, podendo ser prolongado em quem respondesse.
 
