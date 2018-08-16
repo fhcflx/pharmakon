@@ -13,7 +13,7 @@ A utilização de medicamentos aprovados para um fim em patologias diversas da a
 <!--more-->
 
 Pesquisadores do _Boston Children's Hospital and Harvard Medical School_, e integrantes do mais conhecido grupo de pesquisa e tratamento de anomalias vasculares do planeta, liderado pelo mais reconhecido especialista nestas patologias, o Dr. John B. Mulliken, publicaram os resultados de um ensaio clínico na revista _Pediatrics_, mostrando a utilidade da medicação _sirolimo_ no tratamento de anomalias vasculares complicadas. O ensaio, coordenado pela Dra Denise Adams, uma das co-diretoras do _Vascular Anomalies Center_ do _Boston Children's_, foi conduzido entre 2009 e 2015 e incluiu 61 pacientes.
-</br></br>
+<br/><br/>
 
 | Classificação inicial | Classificação revisada |
 | --- | --- |
@@ -45,5 +45,5 @@ O estudo tem várias limitações por uma série de razões, mas a mais importan
 
 Em conclusão, mais uma vez um medicamento desenvolvido e utilizado para outro fim, o sirolimo, mostra um novo e inesperado efeito em patologias de natureza vascular, novamente lembrando o fenômeno da descoberta do efeito do propranolol em hemangiomas. Será que esse efeito é mais uma ilusão, como a sildenfila? provavelmente não. O estudo com a sildenafila foi um estudo observacional com número muito pequeno de pacientes e nenhuma padronização de avaliação. Já o ensaio clínico do sirolimo incluiu um número maior de pacientes, padronizando critérios de inclusão e avaliação para o estudo. Isso o torna metodologicamente mais robusto. Nunca é demais lembrar que, como trata-se de um estudo não controlado e não randomizado, esta deve ser considerada uma evidência preliminar. O ideal é confirmar o efeito do sirolimo com um estudo maior e melhor planejado.
 
-Leia a publicação aqui:
+Leia a publicação:
 - Denise M. Adams, Cameron C. Trenor, Adrienne M. Hammill, Alexander A. Vinks, Manish N. Patel, Gulraiz Chaudry, Mary Sue Wentzel, Paula S. Mobberley-Schuman, Lisa M. Campbell, Christine Brookbank, Anita Gupta, Carol Chute, Jennifer Eile, Jesse McKenna, Arnold C. Merrow, Lin Fei, Lindsey Hornung, Michael Seid, A. Roshni Dasgupta, Belinda H. Dickie, Ravindhra G. Elluru, Anne W. Lucky, Brian Weiss, Richard G. Azizkhan. Efficacy and Safety of Sirolimus in the Treatment of Complicated Vascular Anomalies. Pediatrics Feb 2016, 137 (2) e20153257; [doi:10.1542/peds.2015-3257](http://doi.org/10.1542/peds.2015-3257)
