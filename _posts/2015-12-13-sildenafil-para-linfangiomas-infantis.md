@@ -12,7 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-29568626527303296
 blogger_orig_url: http://pharmak.blogspot.com/2015/12/sildenafil-para-linfangiomas-infantis.html
 ---
 
-Em uma [postagem](http://bit.ly/fhcflxeS) anterior, relatei uma publicação de 2012 no prestigiado jornal New England Journal of Medicine (NEJM) que dava conta de 3 casos de crianças com graves mal-formações linfáticas (ML){% include linfangioma.html %} tratados com sildenafila{% include sildenafila.html %}, uma droga inibidora de fosfodiesterase tipo 5 que aumenta a produção de óxido nítrico em alguns tecidos. Essa medicação é usada no tratamento de disfunção erétil em adultos e para tratar hipertensão pulmonar em bebês (aprovada desde 2005).
+Em uma [postagem](http://bit.ly/fhcflxeS) anterior, relatei uma publicação de 2012 no prestigiado jornal New England Journal of Medicine (NEJM) que dava conta de 3 casos de crianças com graves mal-formações linfáticas (ML){% include ml.html %} tratados com sildenafila{% include sildenafila.html %}, uma droga inibidora de fosfodiesterase tipo 5 que aumenta a produção de óxido nítrico em alguns tecidos. Essa medicação é usada no tratamento de disfunção erétil em adultos e para tratar hipertensão pulmonar em bebês (aprovada desde 2005).
 <!--more-->
 
 A dra. Glenda Swetman relatou o caso de um bebê que recebeu o diagnóstico de uma ML torácica com 10 semanas de vida. Aos nove meses, a criança recebeu o diagnóstico de hipertensão pulmonar, causando insuficiência cardíaca. A sildenafila foi iniciada na dose usual e, num prazo de 4 meses, tanto a ML quanto a hipertensão pulmonar haviam se resolvido completamente. 
