@@ -13,20 +13,16 @@ blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-25864735228974284
 blogger_orig_url: http://pharmak.blogspot.com/2014/03/o-tratamento-de-hemangiomas-ha-200-anos.html
 ---
 
-![]({{ site.baseurl }}/assets/img/mulliken1.png)  
-
-![](http://4.bp.blogspot.com/-OsJc9f__W2s/UynC-rNiobI/AAAAAAAAZ_Q/7AAE-94urB8/s320/Captura+de+Tela+2014-03-19+a%CC%80s+11.13.04.png)
-
-![](http://4.bp.blogspot.com/-psMv09JO_0c/UynC_otufTI/AAAAAAAAZ_Y/Uo7_XSXyx4Q/s320/Captura+de+Tela+2014-03-19+a%CC%80s+11.24.00.png)
-
-![](http://1.bp.blogspot.com/-GPDrIbpSG7g/UynC_NBDKxI/AAAAAAAAZ_U/2p36_vgf8XU/s1600/Captura+de+Tela+2014-03-19+a%CC%80s+12.27.19.png)
-
-_Figuras retiradas do livro Mulliken &amp; Young's Vascular Anomalies, Hemangiomas and Malformations, 2 ed., Oxford University Press, 2013 (protegidas por direitos autorais)._
+O professor John B. Mulliken, considerado uma das maiores autoridades em anomalias vasculares do mundo e discípulo de Judah Folkman (1933-2008), o descobridor da angiogênese, nos mostra, na introdução do capítulo sobre tratamento de hemangiomas, um interessante histórico.  Logo no começo, ele avisa: "o hemangioma vermelho brilhante de rápido crescimento nos leva a tomar uma providência, a fazer algo, qualquer coisa". Assim, a ansiedade relacionada com esta lesão ordinariamente benigna e que não requer tratamento na maioria dos casos (sabemos bem hoje) sempre levou mães e médicos ansiosos a tentar as mais estapafúrdias terapias possíveis. 
 <!--more-->
 
-O professor John B. Mulliken, considerado uma das maiores autoridades em anomalias vasculares do mundo e discípulo de Judah Folkman (1933-2008), o descobridor da angiogênese, nos mostra, na introdução do capítulo sobre tratamento de hemangiomas, um interessante histórico.  Logo no começo, ele avisa: "o hemangioma vermelho brilhante de rápido crescimento nos leva a tomar uma providência, a fazer algo, qualquer coisa". Assim, a ansiedade relacionada com esta lesão ordinariamente benigna e que não requer tratamento na maioria dos casos (sabemos bem hoje) sempre levou mães e médicos ansiosos a tentar as mais estapafúrdias terapias possíveis. 
-
 No século XVIII, era comum a "queimação" com "ferro quente" (cautério), ou ainda a extirpação cirúrgica de lesões que, muitas vezes, regrediriam espontaneamente. Vários casos de hemorragias graves com óbito de crianças com hemangiomas, mesmo pequenos, foram descritas na literatura antiga, como resultado de técnicas abstrusas de tratamento.
+
+![]({{ site.baseurl }}/assets/img/mulliken1.png)  
+
+![]({{ site.baseurl }}/assets/img/mulliken2.png)  
+
+_Figuras retiradas do livro Mulliken &amp; Young's Vascular Anomalies, Hemangiomas and Malformations, 2 ed., Oxford University Press, 2013 (protegidas por direitos autorais)._
 
 Relatos mostram que desde os anos 1500 se realizavam extirpações cirúrgicas de hemangiomas em pequenos pacientes. Numa das passagens, o Dr. Mulliken descreve: "Daniel Turner (...), precursor da dermatologia (...), em 1714 recomendou o "ferro quente" para um (...) caso, uma jovem empregada com uma "marca em forma de lagosta" na bochecha. Amedrontada, a garota tomou a sábia decisão de procurar outra opinião".  Citando W. A. Lister (1938): "toda a nossa atitude em relação ao tratamento dos nevos em morango (strawberry hemangiomas) deve se basear no conhecimento de sua invariável tendência à regressão espontânea". 
 
@@ -34,6 +30,6 @@ Mesmo hoje em dia, mães ansiosas devido à marca vermelho-vivo, usualmente na f
 
 A quem procurar quando uma criança tem um hemangioma? Os maiores especialistas nestas lesões são os cirurgiões plásticos (como o dr. Mulliken), os onco-hematologistas pediátricos (como a dra. Adams, outra das maiores autoridades mundiais) e os dermatologistas (como a dra. Leauté-Labréze, a qual descobriu recentemente o uso de propranolol para hemangiomas). Todos os médicos, porém, podem e devem ter noções gerais sobre anomalias vasculares, incluindo quando referir para um especialista.
 
-![](http://1.bp.blogspot.com/-oSJ6nNh9FAQ/Uyo_xbeZT_I/AAAAAAAAZ_w/7v4oePhAcrg/s1600/Captura+de+Tela+2014-03-19+a%CC%80s+12.26.43.png)
+![]({{ site.baseurl }}/assets/img/mulliken3.png)  
 
 Essa imagem parcial, retirada do capítulo do dr. Mulliken, mostra uma jovem que desenvolveu um grande hemangioma infantil na face. O seguimento, ABSOLUTAMENTE SEM NENHUM TRATAMENTO, é testemunho de que a regressão espontânea dos hemangiomas, que pode demorar vários anos, muitas vezes não deixa nenhuma marca posterior.
