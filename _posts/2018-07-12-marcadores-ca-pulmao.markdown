@@ -14,7 +14,7 @@ O câncer{% include cancer.html %} de pulmão é um dos mais importantes pela su
 
 Um estudo clínico foi montado para avaliar se um conjunto de vários marcadores poderia ter um papel semelhante no diagnóstico de câncer de pulmão. Para isso, amostras de sangue que foram obtidas antes do diagnóstico em pacientes que participaram de outro estudo clínico foram usadas.
 
-Os autores mediram 4 marcadores: antígeno de câncer 125 (CA125), antígeno carcinoembriônico (CEA), fragmento 19 de citoqueratina (CYFRA 21-1) e precursor da proteína surfactante B (Pro-SFTPB). Os pesquisadores calcularam a área sob a curva ROC (AUC), a sensibilidade e a especificidade{% include sensibilidade.html %}.
+Os autores mediram 4 marcadores: antígeno de câncer 125 (CA125), antígeno carcinoembriônico (CEA), fragmento 19 de citoqueratina (CYFRA 21-1) e precursor da proteína surfactante B (Pro-SFTPB). Os pesquisadores calcularam a área sob a curva ROC (AUC){% include roc.html %}, a sensibilidade e a especificidade{% include sensibilidade.html %}.
 
 O modelo integrado de predição de risco usando os marcadores e a história de tabagismo apresentou uma AUC de 0,83 (comparando com uma AUC de 0,73 apenas com história de tabagismo).A senbilidade do modelo integrado foi 0,63, comparando com o modelo usando o tabagismo apenas, cuja sensibilidade, foi de 0,43.
 
