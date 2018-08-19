@@ -24,7 +24,7 @@ O tratamento de melanomas em jovens segue os mesmos paradigmas de adultos mais v
 
 Melanoma metastático{% include meta.html %} em adolescentes e adultos jovens é muito raro e não existem estudos clínicos sobre seu tratamento, devido ao pequeno número de casos. Ensaios clínicos usando as principais drogas usadas em adultos mais velhos, vemurafenibe e ipilimumab, foram cancelados pela falta de pacientes para participar dos ensaios.
 
-Existem iniciativas para estudar tipos raros de câncer em crianças e adolescentes, inclusive o melanoma, mas elas progridem com grande lentidão. Será preciso a montagem de uma rede global de informações clínicas para conseguir acumular informações científicas de qualidade sobre o melanoma em jovens. Nesse ponto,a [ciência aberta](http://bit.ly/valkyg2) pode ajudar bastante.
+Existem iniciativas para estudar tipos raros de câncer em crianças e adolescentes, inclusive o melanoma, mas elas progridem com grande lentidão. Será preciso a montagem de uma rede global de informações clínicas para conseguir acumular informações científicas de qualidade sobre o melanoma em jovens. Nesse ponto, a [ciência aberta](http://bit.ly/valkyg2) pode ajudar bastante.
 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/81/Playing_with_hands.JPG)
@@ -34,4 +34,4 @@ _Figura: Variação natural da cor da pele humana. Tipos de pele mais claros tra
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
 Leia a publicação:
-- Integrative Analysis of Lung Cancer Etiology and Risk (INTEGRAL) Consortium for Early Detection of Lung Cancer. Assessment of Lung Cancer Risk on the Basis of a Biomarker Panel of Circulating Proteins. JAMA Oncol. Published online July 12, 2018. [doi:10.1001/jamaoncol.2018.2078](http://doi.org/10.1001/jamaoncol.2018.2078).
+- Indini A, Brecht I, Del Vecchio M, Sultan I, Signoroni S, Ferrari A. Cutaneous melanoma in adolescents and young adults. Pediatr Blood Cancer. 2018;e27292. [doi:10.1002/pbc.27292](https://doi.org/10.1002/pbc.27292).

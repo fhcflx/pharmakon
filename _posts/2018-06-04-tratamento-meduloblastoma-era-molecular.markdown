@@ -33,4 +33,6 @@ _Figura: subgrupos moleculares do meduloblastoma. Quatro grupos são distinguido
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
 Leia a publicação:
-- Integrative Analysis of Lung Cancer Etiology and Risk (INTEGRAL) Consortium for Early Detection of Lung Cancer. Assessment of Lung Cancer Risk on the Basis of a Biomarker Panel of Circulating Proteins. JAMA Oncol. Published online July 12, 2018. [doi:10.1001/jamaoncol.2018.2078](http://doi.org/10.1001/jamaoncol.2018.2078).
+- Risk-adapted therapy for young children with medulloblastoma (SJYC07): therapeutic and molecular outcomes from a multicentre, phase 2 trial
+Robinson, Giles W et al.
+The Lancet Oncology , Volume 19 , Issue 6 , 768 - 784, [doi:10.1016/S1470-2045(18)30204-3](https://doi.org/10.1016/S1470-2045(18)30204-3).
