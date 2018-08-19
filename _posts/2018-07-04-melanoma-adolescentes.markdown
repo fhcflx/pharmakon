@@ -22,7 +22,7 @@ A incidência de outros tumores com aspecto patológico semelhante (tumor atípi
 
 O tratamento de melanomas em jovens segue os mesmos paradigmas de adultos mais velhos. Existe muito pouca informação sobre o tratamento de melanomas em crianças, devido à sua raridade, e apesar do aumento de incidência na adolescência, também se sabe pouco sobre o tratamento destes jovens. Pacientes com doença localizada e ressecção completa tem prognóstico excelente, melhor do que os adultos mais velhos, com sobrevida em 5 anos maior que 90%.
 
-Melanoma mettastático em adolescentes e adultos jovens é muito raro e não existem estudos clínicos sobre seu tratamento, devido ao pequeno número de casos. Ensaios clínicos usando as principais drogas usadas em adultos mais velhos, vemurafenib e ipilimumab, foram cancelados pela falta de pacientes para participar dos ensaios.
+Melanoma metastático em adolescentes e adultos jovens é muito raro e não existem estudos clínicos sobre seu tratamento, devido ao pequeno número de casos. Ensaios clínicos usando as principais drogas usadas em adultos mais velhos, vemurafenib e ipilimumab, foram cancelados pela falta de pacientes para participar dos ensaios.
 
 Existem iniciativas para estudar tipos raros de câncer em crianças e adolescentes, inclusive o melanoma, mas elas progridem com grande lentidão. Será preciso a montagem de uma rede global de informações clínicas para conseguir acumular informações científicas de qualidade sobre o melanoma em jovens. Nesse ponto,a [ciência aberta](http://bit.ly/valkyg2) pode ajudar bastante.
 
