@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sobrevida dos adoelscentes e adultos jovens com câncer.
+title: Sobrevida dos adolescentes e adultos jovens com câncer.
 date: '2018-08-20T22:03:00.000-03:00'
 author: Francisco H C Felix
 tags:
