@@ -9,7 +9,7 @@ tags:
 ---
 
 Os tumores difusos de tronco cerebral são conhecidos pela sigla em inglês DIPG
-(_diffuse intrinsic pontine glioma_) e, desde 2016, podem ser clasificados como _gliomas difusos de linha média H3K27M+_ (através de patologia{% include histologia.html %} de biópsia cirúrgica). Independente da nomenclatura, trata-se do glioma{% include glioma.html %} maligno mais frequente da pediatria e também o câncer{% include cancer.html %} de crianças e adolescentes que mais mata.
+(_diffuse intrinsic pontine glioma_) e, desde 2016, podem ser clasificados como _gliomas difusos de linha média H3K27M+_ (através de patologia{% include histologia.html %} de biópsia cirúrgica). Independente da nomenclatura, trata-se do glioma{% include glioma.html %} maligno mais frequente da pediatria e também o câncer{% include cancer.html %} cerebral de crianças e adolescentes que mais mata.
 <!--more-->
 
 Um estudo da _Société Internationale d’Oncologie Pédiatrique_(SIOP), publicado
@@ -37,7 +37,7 @@ Em um trabalho posterior (Veldhuijzen van Zanten _et al_, 2017), o mesmo grupo p
 | Captação anelada | 1,41 (1,07 - 1,84) | 2,07 (1,28 - 3,36) |
 | Quimioterapia | 0,65 (0,49 - 0,99) | 0,40 (0,22 - 0,75) |
 
-_Tabela: fatores preditivos do modelo de Jansen (2015), com a razão de risco (**hazard ratio - HR**) e seu intercalo de confiança 95%. Razão de possibilidades (**odds ratio - OR**) calculada a partir dos dados publicados no trabalho da SIOP._
+_Tabela: fatores preditivos do modelo de Jansen (2015), com a razão de riscos (**hazard ratio**_{% include hr.html %} _**- HR**) e seu intercalo de confiança_{% include ic.html %} _95%. Razão de possibilidades (**odds ratio**_{% include or.html %} _**- OR**) calculada a partir dos dados publicados no trabalho da SIOP._
 
 Afinal, estes fatores são importantes ou não para classificar os pacientes com DIPG e prever seu risco? Essa resposta é complicada pelo fato de que a metodologia do trabalho do SIOP foi diferente da metodologia usada para definir o modelo preditivo de Jansen. Mesmo assim, chama a atenção a semelhança entre os fatores. Analisar a importância disto requer um pouco de senso crítico.
 
@@ -56,6 +56,12 @@ O estudo do modelo de Jansen foi feito com poder estatístico suficiente? Os aut
 Outra explicação possível para um IC95 exagerado e falta de confiança no tamanho do efeito observado é a existência de outros fatores ainda desconhecidos, que não foram lembrados e que poderiam afetar o modelo preditivo. A existência de fatores ocultos pode fazer com que um modelo fique incompleto e reduzir a confiabilidade dele. Como fazer para descobrir isso? Realizar mais estudos e tentar descobrir fatores que ainda não levamos em conta.
 
 No caso das OR que calculamos a partir dos dados do trabalho do SIOP, o poder estatístico está OK, e mesmo assim os IC95 são bastante amplos. Isso indicaria a existência de possíveis fatores de prognóstico ocultos, talvez mais importantes do que os fatores já encontrados, que poderiam completar o quadro que se tem no momento. Isso mostra a necessidade de mais estudos, mais pesquisas, incluindo pesquisa básica para descobrir novos fatos que ainda são desconhecidos hoje em dia. É para isso que a pesquisa médica serve: para salvar vidas através da investigação científica.
+
+![](https://upload.wikimedia.org/wikipedia/commons/0/09/Typical_MRI_appearance_of_diffuse_intrinsic_pontine_glioma_%28DIPG%29_-_Fonc-02-00205-g002.jpg)
+
+_Figura: glioma pontino intrínseco difuso (imagem de ressonância magnética). Créditos Katherine E. Warren (2012) [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via Wikimedia Commons_
+
+_Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
 Leia a publicação do modelo da SIOP:
 - Lindsey M. Hoffman, _et al_. Clinical, Radiologic, Pathologic, and Molecular Characteristics of Long-Term Survivors of Diffuse Intrinsic Pontine Glioma (DIPG): A Collaborative Report From the International and European Society for Pediatric Oncology DIPG Registries. Journal of Clinical Oncology 2018 36:19, 1963-1972, [doi:10.1200/JCO.2017.75.9308](https://doi.org/10.1200/JCO.2017.75.9308)
