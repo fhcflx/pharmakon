@@ -1,5 +1,6 @@
 <!--- Header and nav template site-wide -->
 <header>
+    <a class="site-title" href="{{ site.github.url }}/{{ site.index[page.lang] }}">{{ site.title[page.lang] }}</a>
     <nav class="group">
 	<a href="{{site.baseurl}}/"><img class="badge" src="{{site.baseurl}}/assets/img/mybadge.png" alt="CH"></a>
 	{% for node in site.pages %}
@@ -11,5 +12,20 @@
 		    {% endif %}
 	    {% endunless %}
   	{% endfor %}
+	<div class="trigger">
+            {% assign pages=site.pages | where:"lang", page.lang %}
+            {% for my_page in pages %}
+               {% if my_page.title %}
+               <a class="page-link" href="{{ my_page.url | prepend: site.github.url }}">{{ my_page.title }}</a>
+               {% endif %}
+            {% endfor %}
+       </div>
   </nav>
+  <div class="wrapper" style="text-align: right; line-height: 2em">
+  {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+  {% for post in posts %} <a href="{{ post.url | prepend: site.github.url }}" class="{{ post.lang }}">{{ post.lang }}}</a> {% endfor %}
+
+  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+  {% for page in pages %} <a href="{{ page.url | prepend: site.github.url }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
+  </div>
 </header>
