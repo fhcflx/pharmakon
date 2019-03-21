@@ -8,9 +8,9 @@ ref: all
 <div class="home">
 
 
-  <h1 class="content-listing-header sans">Artigos</h1>
+  <h1 class="content-listing-header sans">Articles</h1>
   <ul class="content-listing ">
-  {% assign posts=site.posts | sort: 'lang' %}
+  {% assign posts=site.posts | where:"lang", page.lang %}
     {% for post in posts %}
         <li class="listing">
           <hr class="slender">
