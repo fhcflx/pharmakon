@@ -7,7 +7,10 @@ tags:
 - Propranolol
 - Hemangioma
 - Anomalias vasculares
+lang: pt-br
+ref: hemangioma
 ---
+
 Essa é uma revisão de uma postagem de 4 anos atrás, quando faziam 5 anos que o tratamento dos hemangiomas{% include hemangioma.html %} tinha sido revolucionado pela descoberta do efeito do propranolol{% include propranolol.html %} e dos betabloqueadores. De lá para cá, essa revolução tornou-se o novo padrão de tratamento destes tumores vasculares. Mas, afinal, como se tratavam os hemangiomas antes?
 <!--more-->
 

@@ -6,6 +6,8 @@ author: Francisco H C Felix
 tags:
 - Câncer
 - Adolescentes e adultos jovens
+lang: pt-br
+ref: survival
 ---
 
 Pesquisadores do RARECAREnet Working Group, uma rede de pesquisa sobre tumores raros da Europa, analisaram dados sobre adolescentes e adultos jovens diagnosticados com câncer{% include cancer.html %} nos últimos 40 anos. Eles tentaram responder à questão: será que os adolescentes com câncer tem pior prognóstico do que as outras crianças?

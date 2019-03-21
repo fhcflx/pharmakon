@@ -6,6 +6,8 @@ author: Francisco H C Felix
 tags:
 - Neuro-oncologia
 - Câncer
+lang: pt-br
+ref: novidade
 ---
 
 Em 2013, uma postagem neste blog apresentou o tratamento moderno dos tumores do Sistema Nervoso Central (SNC) em crianças e adolescentes. Nesta nova postagem, revisito o tema para acrescentar as principais novidades que surgiram nos últimos anos em relação ao tratamento destas doenças.
