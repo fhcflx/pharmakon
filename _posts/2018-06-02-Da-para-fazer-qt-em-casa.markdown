@@ -2,6 +2,8 @@
 layout: post
 title:  "Dá para fazer quimioterapia em casa?"
 date:   2018-06-02 18:00:00 -0300
+lang: pt-br
+ref: qt
 tags:
   - Câncer
   - Quimioterapia

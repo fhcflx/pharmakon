@@ -3,6 +3,8 @@ layout: post
 title: Como o propranolol age em hemangiomas e outros tumores
 date: '2018-06-03T20:22:00.000-03:00'
 author: Francisco H C Felix
+lang: pt-br
+ref: propranolol
 tags:
 - Anomalias vasculares
 - Hemangioma

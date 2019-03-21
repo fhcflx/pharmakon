@@ -2,6 +2,8 @@
 layout: post
 title:  "Melanoma em adolescentes e adultos jovens"
 date:   2018-07-04 18:00:00 -0300
+lang: pt-br
+ref: melanoma
 tags:
   - Câncer
   - Melanoma
