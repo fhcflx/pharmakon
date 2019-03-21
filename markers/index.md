@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Marcadores
-lang: pt-br
+title: Markers
+lang: en
 ref: marker
 ---
 

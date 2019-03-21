@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Todas
-lang: pt-br
+title: All
+lang: en
 ref: all
 ---
 
