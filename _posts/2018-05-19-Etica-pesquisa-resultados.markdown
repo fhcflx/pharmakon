@@ -2,6 +2,8 @@
 layout: post
 title: "Ética em pesquisa: o direito de saber os resultados"
 date: 2018-05-19 08:00:00 -0700
+lang: pt-br
+ref: etica
 tags:
   - Câncer
   - Pesquisa científica

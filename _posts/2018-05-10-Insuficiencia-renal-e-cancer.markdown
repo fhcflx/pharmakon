@@ -2,6 +2,8 @@
 layout: post
 title:  "Tratamento para insuficiência renal crônica em crianças e o risco de câncer"
 date:   2018-05-10 12:00:00 -0300
+lang: pt-br
+ref: irc
 tags:
   - Câncer
 author: ffelix

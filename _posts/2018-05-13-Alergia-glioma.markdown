@@ -2,6 +2,8 @@
 layout: post
 title: "Alergia e o risco de desenvolver tumores cerebrais"
 date: 2018-05-13 08:00:00 -0700
+lang: pt-br
+ref: alergia
 tags:
   - Câncer
   - Imunoterapia
