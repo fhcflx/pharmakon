@@ -2,10 +2,10 @@
 layout: page
 title: Marcadores
 lang: pt-br
-ref: marker
+ref: tags
 ---
 
-{% capture site_tags %}{% for tag in site.tags[page.lang] %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tag_words = site_tags | split:',' | sort %}
 
 {% include taglist.html %}
