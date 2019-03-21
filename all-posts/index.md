@@ -10,7 +10,8 @@ ref: all
 
   <h1 class="content-listing-header sans">Artigos</h1>
   <ul class="content-listing ">
-    {% for post in site.posts %}
+  {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+    {% for post in posts %}
         <li class="listing">
           <hr class="slender">
           <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="contrast">{{ post.title }}</h3></a>
