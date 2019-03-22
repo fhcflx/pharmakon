@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ciência médica</title>
+    <description>Blog sobre ciência médica, pesquisa científica, oncologia pediátrica, farmacologia e outras ciências da saúde afins. Continuação do blog publicado em http://pharmakon.blogspot.com
+</description>
+    <link>http://fhcflx.github.io/ciencia-medica/</link>
+    <atom:link href="http://fhcflx.github.io/ciencia-medica/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 22 Mar 2019 20:53:34 -0300</pubDate>
+    <lastBuildDate>Fri, 22 Mar 2019 20:53:34 -0300</lastBuildDate>
+    <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;Bem &lt;a href=&quot;http://pharmak.blogspot.com/2013/09/gliomas-em-criancas-aula-de-atualizacao.html&quot; target=&quot;\_blank&quot;&gt;antes&lt;/a&gt; de me interessar por repositórios institucionais para pôsteres e slides, eu já havia começado a depositá-los no &lt;a href=&quot;http://pt.slideshare.net/?ss&quot;&gt;Slideshare&lt;/a&gt;, serviço de armazenamento na nuvem que permite a visualização de slides em sites, blogs, redes sociais, etc. Esta funcionalidade do Slideshare sempre me agradou muito. Ele tinha tudo o que eu achava interessante para difusão de idéias: integração automática com o LinkedIn e outras redes sociais, snippets para incorporação fácil em blogs, páginas pessoais, institucionais e outras, além de uma página pessoal que centralizava todos os meus carregamentos. Além de todas estas facilidades, funcionalidades de edição online e análise de tráfego. Mas o Slideshare não é uma via de publicação. Seu conteúdo não tem facilidades para citação científica.
+&lt;!--more--&gt;
+&lt;br /&gt;
+Quando conheci o &lt;a href=&quot;http://f1000research.com/&quot;&gt;F1000Research&lt;/a&gt;, achei sua proposta interessante e que preenchia uma lacuna nesta forma não tradicional de publicação. Logo notei várias diferenças em relação ao Slideshare: à parte o armazenamento público de uma apresentação, todo o resto das funcionalidades encontradas no Slideshare faltam no F1000Research. A maior diferença é que nesta última plataforma, o pôster recebe um DOI citável. Bem, buscando alternativas, encontrei uma plataforma que reúne o melhor do F1000Research com o melhor (quase tudo) do Slideshare: o &lt;a href=&quot;https://figshare.com/&quot;&gt;Figshare&lt;/a&gt;.
+&lt;br /&gt;
+Ao postar apresentações de slides naquela plataforma, fiquei impressionado com sua interface simples e direta, permitindo uma submissão em poucos minutos. É possível escolher marcadores (ao contrário do F1000Research, o que me rendeu um &lt;a href=&quot;http://pharmak.blogspot.com/2015/12/minha-experiencia-com-f1000research.html&quot;&gt;problema&lt;/a&gt;), escolher o nível de compartilhamento e a licença de publicação, como no Slideshare (no F1000Research as publicações são sempre públicas e com licença CC-BY). Além disso, tem espaço para metadados, controle completo de versões (pode ser editado), aplicativo uploader para desktop, permite escolher se vai usar um DOI ou não, entre outras funcionalidades. Parece-me que a única coisa que o Slideshare tem que o Figshare não tem são as ferramentas de análise de tráfego.&lt;br /&gt;
+Não há limites quanto à linguagem e tipo de material a ser submetido, EXCETO que precisa necessariamente ser material acadêmico. Preprints, artigos publicados (desde que não firam direitos autorais), teses, dissertações, monografias, aulas, notas, dados de pesquisa, qualquer coisa relacionada ao mundo da academia. Não é permitido uso comercial ou corporativo, nem propaganda, ou material considerado inapropriado. O conteúdo é publicado imediatamente. Posteriormente, qualquer coisa que infrinja os termos de uso é deletado sem aviso.
+&lt;br /&gt;
+O Figshare tem uma página pessoal com suas publicações e snippets para incorporação em sites e blogs e tem facilidades para redes sociais. Veja aqui embaixo uma das aulas que publiquei no Figshare:
+&lt;br /&gt;&lt;/p&gt;
+&lt;iframe frameborder=&quot;0&quot; height=&quot;426&quot; src=&quot;https://widgets.figshare.com/articles/2007588/embed?show_title=1&quot; width=&quot;568&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;O número de DOI atribuído pelo Figshare é do DataCite, e não do CrossRef, se isso fizer realmente alguma diferença. Concluindo, em minha opinião, a plataforma acadêmica ideal para depositar material alternativo, incluindo pôsteres, slides, textos variados, etc é o Figshare. Apesar das características positivas do F1000Research, sua plataforma tem muito que crescer para fazer frente ao Figshare.&lt;br /&gt;
+&lt;br /&gt;
+Atualização: infelizmente, conheci posteriormente uma característica negativa do Figshare. Veja &lt;a href=&quot;http://pharmak.blogspot.com/2016/01/figshare-receives-postprints-of.html&quot;&gt;aqui&lt;/a&gt; na minha postagem.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 22 Mar 2019 20:53:34 -0300</pubDate>
+        <link>http://fhcflx.github.io/ciencia-medica/2019/03/22/2015-12-15-Usando-figshare.html</link>
+        <guid isPermaLink="true">http://fhcflx.github.io/ciencia-medica/2019/03/22/2015-12-15-Usando-figshare.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;Há poucos dias, &lt;a href=&quot;http://pharmak.blogspot.com/2015/12/minha-experiencia-com-o-peerj-preprints.html&quot;&gt;falei&lt;/a&gt; da minha experiência de publicação de preprints com o PeerJ e porque acredito nessa modalidade de divulgação científica. Agora, vou apresentar outra nova forma de apresentar os resultados científicos: a publicação de pôsteres e slides no F1000Research. Este serviço é uma plataforma de acesso aberto para a publicação de resultados de cientistas da área de ciências biológicas e da saúde. Seu principal diferencial é a suposta não interferência de um corpo editorial nas publicações. O staff do &lt;a href=&quot;http://f1000research.com/&quot;&gt;F1000Research&lt;/a&gt; afirma que ele não é um periódico, ou um jornal. Eles usam o termo “plataforma de publicação” para dar a entender essa diferença, mas ainda sim deixar vago o suficiente para permitir variadas interpretações. As publicações passam por uma avaliação editorial sucinta e são publicadas rapidamente (às vezes, em poucas horas!) após a submissão. A avaliação inicial é obrigatória e serve para filtrar casos de desvio flagrante das regras editoriais. Não existe revisão por pares pré-publicação. Apesar disso, o F1000Research insiste que suas publicações “não são preprints”. Com efeito, uma vez que você publica seu material lá, não pode mais editá-lo, diferentemente do &lt;a href=&quot;https://peerj.com/preprints/&quot;&gt;PeerJ Preprints&lt;/a&gt;, onde essa funcionalidade ainda persiste.&lt;br /&gt;
+&lt;!--more--&gt;
+No caso de artigos científicos, ocorre uma revisão por pares “pós-publicação” e identificada. Os relatos das experiências com o F1000Research são variados, indo desde aqueles que adoraram, até aqueles que jamais submeterão novamente. O bibliotecário Jeffrey Beall já &lt;a href=&quot;http://scholarlyoa.com/2015/01/06/im-following-a-fringe-science-paper-on-f1000research/&quot;&gt;citou&lt;/a&gt; o F1000Research em seu blog Scholarly Open Access, pela aceitação de um possível relato fronteiriço entre a ciência e a fraude (“fringe paper”). Tal ocorrência não deve, na verdade, denegrir aquela plataforma de publicação, uma vez que sua política é publicar primeiro e revisar depois. Checando a &lt;a href=&quot;http://f1000research.com/articles/3-309/&quot;&gt;publicação&lt;/a&gt;, nós podemos ver que ela recebeu 1 aprovação e 2 rejeições, levando a entender que a avaliação de Beall é correta: pode ser um “fringe paper”. Devido á natureza do processo editorial do F1000Research, todavia, isso não significa que esta plataforma tem menor qualidade. Artigos de qualidade questionável &lt;i&gt;a posteriori&lt;/i&gt; também têm sido publicados em muitos jornais tradicionais e a refutação de suas afirmações faz parte do desenvolvimento da ciência como um todo.&lt;br /&gt;
+Eu particularmente gosto da proposta de publicar todos os pôsteres apresentados em congressos num repositório. No momento, este serviço do F1000Research é gratuito e sem limites. Podem ser publicados pôsteres em qualquer língua, porém os metadados devem ser descritos em inglês. Após a submissão, uma avaliação é realizada para homogeneidade editorial, marcadores são atribuídos e o pôster é publicado (fica disponível publicamente, com DOI e pode ser citado). Este tipo de proposta tem a vantagem de promover a disseminação de dados ainda preliminares, mas que podem ser úteis. Além disso, pode ajudar a diminuir o viés de publicação ao estimular a publicação de dados negativos que, após a apresentação em eventos, raramente são publicados em periódicos convencionais. Os pôsteres publicados no F1000Research não são indexados nas plataformas mais populares, como o Google Acadêmico.&lt;br /&gt;
+O processo de submissão foi bem simples e rápido. Existe a opção de acrescentar um resumo do pôster, além do título e palavras chaves. Também informa-se onde e quando o trabalho foi apresentado. O tempo entre a submissão e sua aprovação variou, no meu caso, de 6 a 60 horas, ou próximo disso. Nenhuma de minhas submissões foi rejeitada, mas alguns resumos (metadados) em inglês foram truncados, geralmente deixando a introdução e a conclusão e deletando o resto. Talvez tenha sido por problemas na redação em inglês, mas acredito que o pessoal do F1000Research não tem homogeneidade de julgamento neste ponto, pois todos os resumos foram escritos mais ou menos no mesmo estilo e inclusive com alguns textos semelhantes, devido à proximidade entre os temas abordados. Mesmo assim, enquanto alguns foram publicados sem nenhuma alteração, outros foram truncados na maior parte do texto. Outra coisa que notei foi uma variação na atribuição de marcadores, prerrogativa do pessoal do F1000Research (no PeerJ, por exemplo, o autor escolhe). A escolha de marcadores pareceu, às vezes, aleatória. Em alguns de meus pôsters, o marcador neuro-oncologia foi corretamente atribuído. Em cinco deles, um número excessivo para quem se propôe a um processo com poucos erros, o marcador escolhido foi “tumores de cabeça e pescoço”. Isso me obrigou a entrar em contato com o suporte por duas vezes, e na segunda ocorreu uma demora na resposta. Embora tenha sido um contratempo, não diminuiu muito a minha impressão sobre a qualidade do F1000Research.&lt;br /&gt;
+Em conjunto, classifico minha experiência com a publicação de pôsteres (e slides) no F1000Research positiva. Esta proposta é interessante e existem vários serviços alternativos surgindo, como o Figshare. Pretendo avaliar outros repositórios para pôsteres, slides e outros materiais de pesquisa geralmente não publicados de forma tradicional.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &amp;lt;img alt=&quot;f1000&quot; src=&quot;http://2.bp.blogspot.com/-X3fVz7UFgMk/Vm3MY8S9OGI/AAAAAAAAgK0/GC7tvgVlPLQ/s1600/f1000.png&quot; width=&quot;550 border=&quot;0&quot; /&amp;gt;
+  &lt;figcaption&gt;&lt;br /&gt;Minhas submissões já publicadas no F1000Research.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;
+Link para o último pôster que publiquei naquela plataforma:
+&lt;a href=&quot;http://f1000research.com/posters/4-1370#.Vmiva0r4OTY.blogger&quot;&gt;Descriptive longitudinal study of pediatric patients with primary brain tumors: establishment… - F1000Research&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 22 Mar 2019 20:53:34 -0300</pubDate>
+        <link>http://fhcflx.github.io/ciencia-medica/2019/03/22/2015-12-13-Minha-experiencia-com-F1000research.html</link>
+        <guid isPermaLink="true">http://fhcflx.github.io/ciencia-medica/2019/03/22/2015-12-13-Minha-experiencia-com-F1000research.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;div style=&quot;text-indent: 30px;&quot;&gt;
+Sempre tive curiosidade sobre o repositório de &lt;i&gt;preprints&lt;/i&gt; das ciências exatas, o &lt;a href=&quot;http://arxiv.org/&quot;&gt;arXiv&lt;/a&gt; (lê-se 'arquaive'). Criado por &lt;a href=&quot;https://en.wikipedia.org/wiki/Paul_Ginsparg&quot;&gt;Paul Ginsparg&lt;/a&gt;, um físico da Universidade de Cornell que é mundialmente conhecido por sua gênese do repositório &lt;i&gt;open access&lt;/i&gt; de arquivos de física, originalmente sediado no &lt;a href=&quot;http://www.nature.com/nature/debates/e-access/Articles/ginsparg.html&quot;&gt;Los Alamos National Laboratory (LANL)&lt;/a&gt;. Ele lançou a primeira versão do que viria a ser o arXiv em 14 de agosto de 1991 (coincidentemente, no dia de meu aniversário de 20 anos - sabe o que isso significa? Acertou, NADA!).
+&lt;!--more--&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;i&gt;Preprints&lt;/i&gt; são documentos ainda não publicados, que não passaram pela revisão por pares e processo editorial de periódicos científicos. São, comumente, considerados rascunhos, versões preliminares de trabalhos que, posteriormente, serão avaliados apropriadamente para publicação em revistas convencionais. A origem dos preprints é antiga. Habitualmente, os físicos sempre trocaram correspondências entre si para discutir detalhes de trabalhos em andamento, ou para pedir auxílio para corrigir um manuscrito (eu quero dizer &lt;i&gt;manuscrito&lt;/i&gt; mesmo!). Entre mas cartas famosas de físicos, as mais conhecidas talvez sejam as de &lt;a href=&quot;https://pt.wikipedia.org/wiki/Isaac_Newton&quot;&gt;Newton&lt;/a&gt; (por causa das quais nós hoje sabemos que ele era um fanático anglicano criacionista, anti-católico e alquimista que, nas horas vagas, descobriu a Gravitação Universal) e as de Einstein. Na era do email. tornou-se comum distribuir &lt;i&gt;preprints&lt;/i&gt; em formato eletrônico, às vezes para muita gente. Com o intuito de padronizar o formato e diminuir o tamanho dos arquivos, os físicos passaram a usar, rotineiramente, arquivos no formato &lt;a href=&quot;https://en.wikipedia.org/wiki/TeX&quot;&gt;TeX&lt;/a&gt; ('tek'), criado por Donald Knuth. Mesmo assim, logo as caixas de entrada de emails estavam lotadas de &lt;i&gt;preprints&lt;/i&gt;.
+&lt;br /&gt;
+&lt;br /&gt;
+Esse problema levou Paul Ginsparg a criar uma caixa de entrada de email centralizada no LANL, acessível a qualquer computador. Rapidamente, o serviço cresceu, adicionando funcionalidades (ftp, gopher, www) e passou a receber preprints de outras áreas além de física: astronomia, matemática, ciência da computação, biologia quantitativa, ciência não linear e, mais recentemente, estatística. Em algumas áreas da física, praticamente todos os artigos publicados passam, antes, pelo arXiv. As motivações para os cientistas publicarem &lt;i&gt;preprints&lt;/i&gt; no arXiv continuam basicamente as mesmas de séculos atrás: solicitar opiniões e revisões de colegas e assegurar a originalidade e prioridade de seus trabalhos.
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img alt=&quot;LANL&quot; height=&quot;400&quot; src=&quot;https://upload.wikimedia.org/wikipedia/en/8/8f/ArXiv_1994.gif&quot; style=&quot;margin-left: 1em; margin-right: 1em;&quot; width=&quot;392&quot; border=&quot;0&quot; /&gt;
+  &lt;figcaption&gt;Fig1. - Tela do arXiv em 1994, navegador Mosaic. Naquela época, formulários em html eram novidade (fonte: Wikipedia).&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-indent: 30px;&quot;&gt;
+A distribuição dos manuscritos arquivados no arXiv é de &lt;a href=&quot;https://pt.wikipedia.org/wiki/Acesso_aberto&quot;&gt;acesso aberto&lt;/a&gt; (&quot;open access&quot;). Na verdade, o arXiv foi criado bem antes do surgimento deste termo, e sua existência motivou o movimento de acesso livre de publicações acadêmicas da chamada &quot;Via Verde&quot;. Neste modelo, o autor auto-arquiva em formato eletrônico seu trabalho num repositório institucional ou público e o disponibiliza sem custo para download. Isto pode ser feito antes da revisão por pares (caso dos preprints e do arXiv), ou após a revisão por pares e publicação (caso do &lt;a href=&quot;https://en.wikipedia.org/wiki/PubMed_Central&quot;&gt;Pubmed Central&lt;/a&gt;). Esta modalidade de acesso aberto foi a proposta original de Steve Harnard no seu blog &lt;a href=&quot;https://en.wikipedia.org/wiki/Subversive_Proposal&quot;&gt;&lt;i&gt;Subversive Proposal&lt;/i&gt;&lt;/a&gt;, em 1994, o qual levou à criação dos primeiros repositórios para &lt;a href=&quot;https://en.wikipedia.org/wiki/Self-archiving&quot;&gt;auto-arquivamento&lt;/a&gt;. No Brasil, existem alguns repositórios institucionais, como o &lt;a href=&quot;http://base.repositorio.unesp.br/&quot;&gt;&lt;b&gt;Repositório Institucional UNESP&lt;/b&gt;&lt;/a&gt;, o &lt;a href=&quot;https://pt.wikipedia.org/wiki/Reposit%C3%B3rio_institucional&quot;&gt;&lt;b&gt;LUME - repositório digital da UFRGS&lt;/b&gt;&lt;/a&gt; e o &lt;b&gt;&lt;a href=&quot;http://www.teses.ufc.br/tde_busca/index.php&quot;&gt;TEDE - Biblioteca Digital de Teses e Dissertações da UFC&lt;/a&gt;&lt;/b&gt;. Um exemplo: &lt;a href=&quot;http://www.teses.ufc.br/tde_busca/arquivo.php?codArquivo=34&quot;&gt;este&lt;/a&gt; é o link para download da minha dissertação de mestrado, armazenada no TEDE.
+&lt;br /&gt;
+&lt;br /&gt;
+A publicação em acesso aberto, todavia, tomou proporções imprevisíveis, ao ser abraçada por diversas editoras de publicações acadêmicas. Essa modalidade é conhecida como a &quot;Via Dourada&quot; do acesso aberto. Normalmente, empresas como a &lt;a href=&quot;https://www.plos.org/&quot;&gt;Public Library of Science (PLOS)&lt;/a&gt; e &lt;a href=&quot;http://www.biomedcentral.com/&quot;&gt;Biomed Central&lt;/a&gt; disponibilizam eletronicamente o conteúdo completo de suas publicações sem custos para o leitor. Para cobrir os 'custos editoriais', estas empresas costumam cobrar &quot;taxas de processamento de arquivo&quot;, da ordem de centenas a milhares de dólares por manuscrito. Usualmente, estas taxas são cobertas pelas instituições ou órgãos de fomento dos projetos de pesquisa. Críticas têm sido feitas ao peso que estas taxas podem representar ao orçamento de C&amp;amp;T, em contraste com o modelo tradicional, onde o leitor paga pelo trabalho científico. Na verdade, transferiu-se o custo institucional de setor: das bibliotecas para as agências de fomento, mas são as instituições (universidades, centros de pesquisa, etc) que continuam a pagar a maior parte da conta. Alguns dados parecem indicar que, ao contrário do que alguns acham, as publicações de acesso aberto são menos onerosas para o sistema como um todo. Veja &lt;a href=&quot;http://blog.scielo.org/blog/2013/09/18/quanto-custa-publicar-em-acesso-aberto/&quot;&gt;esta&lt;/a&gt; postagem sobre o assunto. No Brasil, bem como na maior parte da América Latina, o modelo de acesso aberto é o mais utilizado, graças à plataforma &lt;a href=&quot;https://www.scielo.org/&quot;&gt;Scientific Eletronic Library Online (SciELO)&lt;/a&gt;, criada em 1998 em uma parceria entre FAPESP e Centro Latino-Americano e do Caribe de Informação em Ciências da Saúde (BIREME/OPAS/OMS) e que tornou-se a maior provedora de acesso aberto do planeta. Hoje em dia, graças ao SciELO, quase toda a produção científica do Brasil é disponível em acesso aberto.
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img alt=&quot;arXiv&quot; src=&quot;https://3.bp.blogspot.com/-ePTVa6wafTI/VmRbyVYfMnI/AAAAAAAAgJY/UCOTKsx1i5k/s1600/Captura%2Bde%2BTela%2B2015-12-06%2Ba%25CC%2580s%2B11.47.32.png&quot; width=&quot;550&quot; border=&quot;0&quot; /&gt;
+  &lt;figcaption&gt;Fig2. - Tela atual do arXiv, navegador Safari.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-indent: 30px;&quot;&gt;
+Uma experiência recente e algo diferente foi lançada recentemente: o &lt;a href=&quot;https://en.wikipedia.org/wiki/PeerJ&quot;&gt;PeerJ&lt;/a&gt;. Esta empresa, criada por nomes egressos de outras empresas do mundo do acesso aberto, como Peter Binfield (PLOS ONE), Jason Hoyt (Mendeley) e Tim O'Reilly, mega-empresário especialista em financiar iniciativas de public ação eletrônica. PeerJ lançou duas novidades: planos vitalícios de publicação (pague uma vez, publique para toda a vida) com preços bem abaixo da média de acesso aberto e um repositório de &lt;i&gt;preprints&lt;/i&gt; para a área da saúde e biologia, o &lt;a href=&quot;https://peerj.com/preprints/&quot;&gt;PeerJ Preprints&lt;/a&gt;. Não foi o primeiro repositório desta natureza, mas os arquivos de &lt;i&gt;preprint&lt;/i&gt; em biologia e saúde costumam ter vida curta. Existem  muitas razões para isso, mas a principal, a meu ver, é a ausência de uma tradição de troca de informações não publicadas entre colegas, como existe na física e matemática. Na verdade, a maioria dos cientistas das áreas biológicas e saúde evitam divulgar seus resultados antes da publicação formal. Talvez isso se deva à ênfase muito maior no empirismo do que na modelagem matemática ou lógica, eu não tenho certeza. Talvez, tenha a ver com um perfil básico sociodemográfico de profissionais que acaba senso &quot;selecionado&quot; para trabalhar nesta área. Isto, sem dúvida, é extremamente especulativo, mas a experiência comum indica que existem diferenças sociais entre os cientistas da área de física e matemática e aqueles de biológicas e saúde. De toda forma, os hábitos destas duas &quot;sociedades&quot; informais diferem.
+&lt;br /&gt;
+&lt;br /&gt;
+Repositórios de preprints para a área de saúde e ciências biológicas incluem o bioRxiv, operado pelo Cold Spring Harbor Laboratory desde novembro de 2013 e com a participação de ninguém menos do que Paul Ginsparg em seu Advisory Board. Outros repositórios: &lt;a href=&quot;http://precedings.nature.com/&quot;&gt;Nature Precedings&lt;/a&gt;, que já deixou de receber novos preprints mas ainda está no ar e pode ser consultado, e o PeerJ Preprints. Uma outra iniciativa foi o &lt;a href=&quot;http://sciencecommons.org/about/&quot;&gt;Science Commons&lt;/a&gt;, projeto-filho do Creative Commons que pretendia estimular e integrar o uso de licença de acesso aberto para a maior parte do mundo acadêmico. Criado em 2005, o projeto foi reintegrado ao Creative Commons em 2009, na forma de seu portal &lt;a href=&quot;http://creativecommons.org/science&quot;&gt;Science&lt;/a&gt;, que tenta centralizar e estimular o uso de licenças CC pelos provedores de conteúdo de acesso aberto. Uma outra iniciativa com nome parecido, mas que nada tinha a ver com o CC foi a &lt;a href=&quot;https://en.wikipedia.org/wiki/ScientificCommons&quot;&gt;Scientific Commons&lt;/a&gt;, um agregador de repositórios de acesso aberto. Desde 2013, sua página na internet não está mais ativa. Como se vê, repositórios e iniciativas de &lt;i&gt;preprint&lt;/i&gt; voltadas para áreas que não as servidas pelo arXiv, como saúde e biologia, não costumam ter boa vitalidade por muito tempo. No entanto, a proliferação de provedores de publicações de acesso aberto nesta áreas mostra que os pesquisadores aceitaram muito bem a Via Dourada, apesar de não o terem feito da mesma maneira quanto à Via Verde e auto-arquivamento.
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img alt=&quot;bioRxiv&quot; src=&quot;http://www.biorxiv.org/sites/default/files/bioRxiv_logo.png&quot; height=&quot;138&quot; width=&quot;400&quot; border=&quot;0&quot; /&gt;
+  &lt;figcaption&gt;Fig3. - Logo do bioRxiv.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-indent: 30px;&quot;&gt;
+Isso vinha me deixando frustrado nos últimos anos. A falta de interesse de meus colegas na Via Verde e num sistema de &lt;i&gt;preprints&lt;/i&gt; e a ênfase em publicações da Via Dourada com tendências comerciais e sem qualidade (chamadas pelo bibliotecário &lt;a href=&quot;https://en.wikipedia.org/wiki/Jeffrey_Beall&quot;&gt;Jeffrey Beall&lt;/a&gt; de &lt;a href=&quot;https://en.wikipedia.org/wiki/Predatory_open_access_publishing&quot;&gt;predatórias&lt;/a&gt;) deixava a impressão de que ninguém mais se importava com a pesquisa em si, com a ciência e com o avanço de resultados, mas sim meramente com carreiras acadêmicas vazias. É por isso que defendo os servidores de &lt;i&gt;preprint&lt;/i&gt; na área das ciências biológicas e saúde. Eles estimulam a discussão e a criatividade e aumentam a qualidade geral dos trabalhos. Além disso, desestimulam a proliferação das &quot;editoras&quot; e publicações predatórias.
+&lt;br /&gt;
+&lt;br /&gt;
+Resolvi, assim, me aventurar a postar um trabalho no qual havia me debruçado alguns anos atrás e que estava &quot;na gaveta&quot;, esperando tempo para ser novamente desenvolvido. Peguei um manuscrito que estava sendo corrigido e resolvi enviá-lo para o PeerJ Preprints. Logo ao entrar em sua página, notei que sua interface preza pela funcionalidade, com visual limpo e poucos elementos de fácil interação. Parece, na verdade, um simples blog. O processo de cadastramento é rápido e fácil. Todos os autores precisam se cadastrar. Ninguém paga nada nesta fase: a publicação de preprints é gratuita. Na página principal, um &lt;i&gt;preprint&lt;/i&gt; é definido como &quot;um rascunho de um artigo, resumo ou pôster, ainda não submetido ao processo de revisão por pares&quot;. Já nas instruções para autores, a redação é sutilmente diferente: &quot;um &lt;i&gt;preprint&lt;/i&gt; é um rascunho ainda não submetido ao processo de revisão por pares, não é uma publicação no prelo, nem um formato eletrônico de um artigo aceito para publicação&quot;. Nas instruções mais detalhadas, somos informados que o PeerJ Preprints aceita trabalhos em ciências biológicas, médicas, da saúde e da computação. Não aceita, no entanto, quaisquer trabalhos com implicações terapêuticas ou ensaios clínicos, de qualquer fase. Entre os formatos aceitos, estão artigos de pesquisa, &quot;pôsteres&quot; (as aspas são do original), revisões, opiniões, relatos de caso, etc. Logicamente, trabalhos já publicados ou aceitos para publicação não são permitidos. A publicação final é disponível sob licença CC-BY. À parte a ausência de revisão por pares, os demais processos editoriais são seguidos com rigor, então todas as submissões são avaliadas para ver se estão de acordo com a ética e com as normas de publicação.
+&lt;br /&gt;
+&lt;br /&gt;
+Bom, depois de ler as &lt;a href=&quot;https://peerj.com/about/preprints/scope-and-instructions/&quot;&gt;instruções&lt;/a&gt;, que são bastante completas e merecem uma lida cuidadosa, procedemos ao processo de submissão. É importante relembrar que todos os autores devem ser avisados da submissão e todos eles irão receber um email confirmatório, solicitando que os mesmos se inscrevam no PeerJ Preprints. Na primeira tela, escolhemos a área de estudo e o tipo de publicação.
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img alt=&quot;PeerJ&quot; src=&quot;https://2.bp.blogspot.com/-m9WB-5cqYtQ/VmTyi0b-kYI/AAAAAAAAgJs/cOBOLOo0Rs8/s1600/Captura%2Bde%2BTela%2B2015-12-06%2Ba%25CC%2580s%2B23.43.39.png&quot; width=&quot;550&quot; border=&quot;0&quot; /&gt;
+  &lt;figcaption&gt;Fig4. - Primeira tela para submissão no PeerJ.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-indent: 30px;&quot;&gt;
+Ao iniciar o processo, vamos para uma tela onde existem diversos campos a serem preenchidos com as informações do manuscrito, divididos em várias abas. Vai-se passando de uma a outra ao completar as informações, até chegar ao final e enviar. O processo pode ser interrompido e reiniciado a qualquer momento. Ao terminá-lo, somos informados que o artigo aguarda avaliação editorial e somente após será publicado. Depois de um tempo que pode ser tão curto quanto 24h, mas que pode durar alguns dias, o resultado da checagem é informado via email: aceito ou não. A taxa de aceitação é alta, e basicamente apenas os manuscritos que não aderem às normas de publicação serão rejeitados.
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img alt=&quot;PeerJ&quot; src=&quot;https://1.bp.blogspot.com/-q1XJ2XYSrVU/VmT16rXxLMI/AAAAAAAAgJ4/isVsFCv377o/s1600/Captura%2Bde%2BTela%2B2015-12-06%2Ba%25CC%2580s%2B23.49.41.png&quot; width=&quot;550&quot; border=&quot;0&quot; /&gt;
+  &lt;figcaption&gt;Fig5. - Tela para submissão no PeerJ Preprints.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-indent: 30px;&quot;&gt;
+O resultado final: podem ver &lt;a href=&quot;https://peerj.com/preprints/1544/?td=bl&quot;&gt;aqui&lt;/a&gt; no meu &lt;i&gt;preprint&lt;/i&gt;, publicado em 30/11. Minha avaliação final como cliente é de um processo editorial muito satisfatório, rápido, com ajuda em todos os passos até o final. Eu recomendo a utilização do PeerJ Preprints como repositório para auto-arquivamento de trabalhos ainda não publicados. O único cuidado a se ter é checar se os jornais onde se pretende publicar depois aceitam trabalhos já tornados públicos na forma de preprints. Consciente disso, vale a pena colocar seu trabalho num repositório de preprints e estimular a discussão e a troca de idéias. Meu manuscrito já está no ar! Aguardo suas análises críticas!
+&lt;br /&gt;
+&lt;br /&gt;
+Atualização (30/12/15): publiquei uma &lt;a href=&quot;https://peerj.com/preprints/1544/?td=bl&quot; target=&quot;_blank&quot;&gt;nova versão&lt;/a&gt; do meu primeiro preprint no PeerJ Preprints, uma funcionalidade muito interessante desta plataforma. Também publiquei meu &lt;a href=&quot;https://peerj.com/preprints/1613/?td=bl&quot; target=&quot;_blank&quot;&gt;segundo preprint&lt;/a&gt;.&lt;/div&gt;
+</description>
+        <pubDate>Fri, 22 Mar 2019 20:53:34 -0300</pubDate>
+        <link>http://fhcflx.github.io/ciencia-medica/2019/03/22/2015-12-07-Minha-experiencia-com-PeerJPreprints.html</link>
+        <guid isPermaLink="true">http://fhcflx.github.io/ciencia-medica/2019/03/22/2015-12-07-Minha-experiencia-com-PeerJPreprints.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Imunoterapia combinada é bem sucedida em carcinoma causado por papilomavírus 16</title>
+        <description>&lt;p&gt;Pesquisadores do MD Anderson Cancer Center publicaram o resultado de um ensaio fase II no Journal of the American Medical Association (JAMA) Oncology, mostrando que o tratamento combinado com nivolumabe e ISA101 (uma vacina contra papilomavírus 16) tem efeito em pacientes com doença avançada. 
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;O carcinoma dependente de papilomavírus em estágio avançado não tem tratamento estabelecido. Ensaios com o inibidor de PD-1 nivolumabe não mostraram eficácia importante nestes pacientes. Já a vacina contra papilomavírus 16, ISA101 mostrou induzir uma forte resposta imune nos pacientes, mas não tem efeito sobre a doença avançada.&lt;/p&gt;
+
+&lt;p&gt;Pesquisadores trataram 24 pacientes, 22 com carcinoma orofaríngeo avançado, com nivolumabe EV 3 mg/kg a cada 2 semanas por 1 ano e ISA101 100 microgramas SC nos dias 1, 22 e 50.&lt;/p&gt;
+
+&lt;p&gt;A avaliação mostrou resposta em 33% dos pacientes, mediana de duração da resposta de 10.3 meses e mediana de sobrevida de 17.5 meses. Apenas 2 pacientes apresentaram toxicidade grau 3-4.&lt;/p&gt;
+
+&lt;p&gt;Os autores concluíram que o tratamento de carcinoma avançado com imunoterapia combinada (inibidor PD-1 e  vacina contra papilomavírus 16) pode ser bem sucedido e ensaios maiores devem ser planejados para testar essa associação.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;O estudo pode ser lido &lt;a href=&quot;http://bit.ly/fhcflxXt&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 27 Sep 2018 18:00:00 -0300</pubDate>
+        <link>http://fhcflx.github.io/ciencia-medica/2018/09/27/imunoterapia-combinada.html</link>
+        <guid isPermaLink="true">http://fhcflx.github.io/ciencia-medica/2018/09/27/imunoterapia-combinada.html</guid>
+        
+        <category>Câncer</category>
+        
+        <category>Imunoterapia</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Combined immunotherapy is successful in carcinoma caused by papillomavirus 16</title>
+        <description>&lt;p&gt;Researchers at the MD Anderson Cancer Center have published the results of a Phase II trial in the Journal of the American Medical Association (JAMA) Oncology, showing that combined treatment with nivolumabe and ISA101 (a papillomavirus 16 vaccine) has effect in patients with advanced disease.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Papillomavirus-dependent carcinoma in advanced stage has no established treatment. Trials with the PD-1 inhibitor nivolumabe did not show significant efficacy in these patients. The papillomavirus 16 vaccine, ISA101, has been shown to induce a strong immune response in patients, but has no effect on advanced disease.&lt;/p&gt;
+
+&lt;p&gt;Researchers treated 24 patients, 22 with advanced oropharyngeal carcinoma, with nivolumabe EV 3 mg/kg every 2 weeks for 1 year and ISA101 100 micrograms SC on days 1, 22 and 50.&lt;/p&gt;
+
+&lt;p&gt;The evaluation showed a response in 33% of patients, median duration of response of 10.3 months and median survival of 17.5 months. Only 2 patients had grade 3-4 toxicity.&lt;/p&gt;
+
+&lt;p&gt;The authors concluded that treatment of advanced carcinoma with combined immunotherapy (PD-1 inhibitor and papillomavirus vaccine 16) may be successful and larger trials should be planned to test this association.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This post does not represent a suggestion for treatment. Only a specialist can judiciously decide what information disclosed can modify a treatment scheme in any way, and in what form.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The study can be read &lt;a href=&quot;http://bit.ly/fhcflxXt&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 27 Sep 2018 18:00:00 -0300</pubDate>
+        <link>http://fhcflx.github.io/ciencia-medica/2018/09/27/combined-immunotherapy.html</link>
+        <guid isPermaLink="true">http://fhcflx.github.io/ciencia-medica/2018/09/27/combined-immunotherapy.html</guid>
+        
+        <category>Cancer</category>
+        
+        <category>Immunotherapy</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Sobrevida dos adolescentes e adultos jovens com câncer.</title>
+        <description>&lt;p&gt;Pesquisadores do RARECAREnet Working Group, uma rede de pesquisa sobre tumores raros da Europa, analisaram dados sobre adolescentes e adultos jovens diagnosticados com câncer&lt;label for=&quot;cancer&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;cancer&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Câncer (&lt;em&gt;lat cancer&lt;/em&gt; = caranguejo): grande grupo de doenças
+  muito diferentes entre si, tendo em comum a proliferação celular incessante e
+  desordenada, a capacidade de invadir localmente tecidos saudáveis do organismo
+  e a capacidade de se espalhar para locais distantes (metástases). Os diversos
+  tipos de câncer são teoricamente oriundos de &lt;em&gt;uma única célula&lt;/em&gt; (origem clonal)
+  a qual sofreu mutações em seu código genético. Saiba mais &lt;a href=&quot;http://bit.ly/fhcflx3o&quot;&gt;aqui&lt;/a&gt;.
+&lt;/span&gt;
+ nos últimos 40 anos. Eles tentaram responder à questão: será que os adolescentes com câncer tem pior prognóstico do que as outras crianças?
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Num trabalho publicado na &lt;em&gt;Pediatric Blood and Cancer&lt;/em&gt;, pesquisadores da rede de neoplasias raras da Europa, RARECAREnet, investigaram os dados sobre pacientes diagnosticados com câncer entre os 15 e os 39 anos de idade, um grupo que se costuma chamar de &lt;em&gt;&lt;strong&gt;adolescentes e adultos jovens&lt;/strong&gt;&lt;/em&gt; (AAJ, ou &lt;em&gt;adolescents and young adults - AYA&lt;/em&gt; em inglês). Essa faixa de idade tem as menores incidências de câncer entre os jovens e tem características próprias.&lt;/p&gt;
+
+&lt;p&gt;O câncer, como um grupo de doenças, tem uma incidência que apresenta uma tendência bem definida de aumento com a idade, com máximo acima de 70 anos (mais de 95% dos casos de câncer ocorrem em adultos, a maioria na terceira idade). Na infância, existe um pico de incidência menor, em crianças em torno de 1-3 anos. No grupo de AAJ, a incidência é muito baixa, justificando a classificação do câncer desses jovens como um grupo de doenças raras.&lt;/p&gt;
+
+&lt;p&gt;Os pesquisadores reuniram dados encontrados na RARECAREnet européia e também no SEER, a base de dados de câncer dos EUA. Ao todo, eles reuniram informações sobre 425448 crianças e jovens. Eles excluíram as doenças que praticamente somente ocorrem em crianças com menos de 15 anos (neuroblastoma, retinoblastoma, hepatoblastoma, tumor de Wilms, tumores de células germinativas e alguns outros tumores raros). Também excluíram tumores benignos e de comportamento incerto.&lt;/p&gt;
+
+&lt;p&gt;No final, incluíram 70080 pacientes AAJ, comparando com um grupo de 56807 crianças com menos de 15 anos com os mesmos tipos de tumores. Os dados mostram que, na década de 70, as crianças tinham uma sobrevida em 5 anos&lt;label for=&quot;sobrevida&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;sobrevida&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Análise de sobrevivência ou de sobrevida é um ramo da
+  estatística que analisa a duração de tempo até que um ou mais eventos aconteçam,
+  como morte ou falha de um tratamento. A análise de sobrevivência tenta responder a perguntas como: qual é a proporção
+  de uma população que sobreviverá após um certo tempo? Como circunstâncias
+  particulares aumentam ou diminuem a probabilidade de sobrevivência? Assim, a
+  definição de &lt;em&gt;sobrevida&lt;/em&gt; é importante. Na oncologia, em geral fala-se na sobrevida
+  a partir do diagnóstico de uma doença (ou a partir do início de um tratamento).
+&lt;/span&gt;
+ menor que os AAJ, mas esta diferença diminuiu e acabou por se inverter nos anos 80. De lá para cá, as crianças com câncer mostraram um aumento de sobrevida superior aos AAJ. Hoje em dia, AAJ tem ainda uma sobrevida em 5 anos 4% menor que crianças menores de 15 anos. Apesar de algumas diferenças entre Europa e EUA, de uma forma geral, tanto crianças quanto AAJ passaram de uma sobrevida em 5 anos em torno de 50% nos anos 70-80 para &amp;gt;70% a partir dos anos 90.&lt;/p&gt;
+
+&lt;p&gt;Quando se olha apenas para os dados relativos à leucemia linfóide aguda (LLA), o mais frequente câncer da infância, as diferenças são maiores ainda. Desde o início, as crianças tinham mais que o dobro da sobrevida de adolescentes (15-20 anos) e isso era mais acentuado ainda em relação a adultos jovens (21-34 anos). A sobrevida de AAJ vem melhorando mais rápido que a de crianças menores de 15 anos ao longo das décadas, mas mesmo hoje ocorre uma diferença de 20-30% de sobrevida, dependendo da idade. Crianças com LLA sobrevivem bem mais que AAJ mesmo hoje.&lt;/p&gt;
+
+&lt;p&gt;Já quando se examinam os dados relativos aos outros tipos de tumores, excluindo a LLA, tudo se inverte. A sobrevida nos AAJ é um pouco melhor do que em crianças, cerca de 4%. No início, nos anos 70, a sobrevida de AAJ era menor nos EUA do que na Europa, mas essa diferença diminuiu e acabou com o tempo. Desde meados da década de 90, a sobrevida de AAJ com é semelhante tanto na Europa quanto nos EUA.&lt;/p&gt;
+
+&lt;p&gt;Resumindo, ocorreu um avanço muito grande na sobrevida de todos os tipos de doenças neoplásicas em AAJ, mais ainda nos EUA do que na Europa, ao ponto de que os dois locais agora tem números semelhantes. Mesmo assim, a sobrevida em crianças com menos de 15 anos e doenças neoplásicas do mesmo tipo aumentou mais ainda, e os AAJ permanecem com uma sobrevida, em média, um pouco menor que crianças. Essa diferença se acentua em adultos jovens, entre 20-34 anos, que tem sobrevidas menores ainda para as mesmas doenças, especialmente nos EUA.&lt;/p&gt;
+
+&lt;p&gt;Segundo os autores, as diferenças entre a sobrevida de crianças e AAJ, mais acentuadas nos EUA, mostram claramente dois fatos. O primeiro, que adultos jovens com doenças oncológicas do mesmo tipo daquelas encontradas em crianças devem ser tratados como crianças. Esta tem sido a abordagem cada vez mais frequente na Europa, porém ainda não é amplamente adotada nos EUA. Segundo, serviços especializados em AAJ, que tratam pacientes entre 15 e 34 anos, devem existir e funcionar com protocolos próprios. Novamente, a Europa parece estar seguindo mais aceleradamente neste rumo, enquanto os EUA tem poucos serviços especializados em AAJ.&lt;/p&gt;
+
+&lt;p&gt;O estudo tem limitações, segundo os autores. A maior delas é que ele apenas avaliou doenças neoplásicas que ocorrem tanto em crianças quanto em AAJ. Porém, a maioria dos tumores de AAJ é muito rara em crianças com menos de 15 anos e foi excluída deste estudo (por exemplo, tumores testiculares e carcinomas). Além disso, as bases de dados tem vieses geográficos. A base de dados europeu é composta por 60% de pacientes da Alemanha e o SEER inclui apenas 10% dos casos de crianças e adolescentes tratados com câncer nos EUA.&lt;/p&gt;
+
+&lt;p&gt;No Brasil, o tratamento de adolescentes e adultos jovens com câncer ainda é um grande desafio, por se tratar de um grupo de transição onde se misturam patologias próprias de crianças e adultos. Não existem serviços especializados apenas em AAJ no Brasil, e os pacientes são separados pelo limite de 18 anos de idade, imposto pelo Ministério da Saúde. O Instituto nacional do Câncer, INCA, publicou em 2017, um livro sobre a incidência de câncer em crianças, adolescentes e adultos jovens, um primeiro passo para dar visibilidade a este grupo negligenciado de pacientes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ciencia-medica/assets/img/livro_inca.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Figura: livro do INCA sobre câncer de crianças, adolescentes e adultos jovens.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Leia a publicação:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Trama A, Bernasconi A, McCabe MG, et al. Is the cancer survival improvement in European and American adolescent and young adults still lagging behind that in children? Pediatr Blood Cancer. 2018;e27407. &lt;a href=&quot;https://doi.org/10.1002/pbc.27407&quot;&gt;doi:10.1002/pbc.27407&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 20 Aug 2018 22:03:00 -0300</pubDate>
+        <link>http://fhcflx.github.io/ciencia-medica/2018/08/20/sobrevida-adolescentes.html</link>
+        <guid isPermaLink="true">http://fhcflx.github.io/ciencia-medica/2018/08/20/sobrevida-adolescentes.html</guid>
+        
+        <category>Câncer</category>
+        
+        <category>Adolescentes e adultos jovens</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Novidades no tratamento de tumores cerebrais em crianças e adolescentes</title>
+        <description>&lt;p&gt;Em 2013, uma postagem neste blog apresentou o tratamento moderno dos tumores do Sistema Nervoso Central (SNC) em crianças e adolescentes. Nesta nova postagem, revisito o tema para acrescentar as principais novidades que surgiram nos últimos anos em relação ao tratamento destas doenças.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Os tumores cerebrais&lt;label for=&quot;cancer&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;cancer&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Câncer (&lt;em&gt;lat cancer&lt;/em&gt; = caranguejo): grande grupo de doenças
+  muito diferentes entre si, tendo em comum a proliferação celular incessante e
+  desordenada, a capacidade de invadir localmente tecidos saudáveis do organismo
+  e a capacidade de se espalhar para locais distantes (metástases). Os diversos
+  tipos de câncer são teoricamente oriundos de &lt;em&gt;uma única célula&lt;/em&gt; (origem clonal)
+  a qual sofreu mutações em seu código genético. Saiba mais &lt;a href=&quot;http://bit.ly/fhcflx3o&quot;&gt;aqui&lt;/a&gt;.
+&lt;/span&gt;
+ em crianças são raros: de acordo com os dados do Registro de Câncer, em Fortaleza (CE) pouco mais de 1 criança
+em cada 100 mil vai ter um tumor cerebral, algo em torno de 30 casos por ano. Isso representa um terço da incidência de tumores cerebrais em São Paulo e no mundo desenvolvido,
+talvez pela existência de casos que não são diagnosticados a tempo. No Hospital Infantil
+Albert Sabin, único hospital do Ceará a contar com o tratamento multidisciplinar
+completo para crianças com tumores cerebrais, a sobrevida global das crianças com
+tumores cerebrais, cinco anos após o diagnóstico, é em torno de 50%&lt;label for=&quot;araujo&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;araujo&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Orlandira L de Araujo, Karine M da Trindade, Nadia M Trompieri, Juvenia B Fontenele, Francisco HC Felix. Analysis of survival and prognostic factors of pediatric patients with brain tumor. Jornal de pediatria 87 (5), 425-432, 2011
+&lt;/span&gt;
+.&lt;/p&gt;
+
+&lt;p&gt;Isso significa que cerca de metade das crianças diagnosticadas com tumor cerebral vai viver mais de 5 anos, o que geralmente corresponde à cura clínica para pacientes com tumores.&lt;/p&gt;
+
+&lt;p&gt;A chance de sobrevida varia radicalmente com o tipo de tumor. Enquanto mais de 85-90% dos pacientes com gliomas&lt;label for=&quot;glioma&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;glioma&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Glioma é um tumor de células gliais, células que protegem,
+  nutrem e dão suporte aos neurônios, podendo ocorrer no encéfalo, na medula
+  espinhal ou mesmo junto a nervos periféricos. São responsáveis por
+  aproximadamente 30% de todos os tumores do sistema nervoso central e por 80%
+  dos tumores malignos primários no cérebro. Podem ser classificados em &lt;em&gt;gliomas
+  de baixo grau&lt;/em&gt; (de comportamento geralmente benigno) ou &lt;em&gt;gliomas de alto grau&lt;/em&gt;
+  (malignos). Em crianças e adolescentes, ao contrário de adultos, gliomas malignos são menos comuns.
+&lt;/span&gt;
+ de baixo grau alcançam sobrevida prolongada, pacientes com gliomas de alto grau ou gliomas difusos da ponte têm um prognóstico ruim - menos de 10% vivem mais de 2 anos nas séries internacionais&lt;label for=&quot;meta&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;meta&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;FHC Felix, OL De Araujo, KM da Trindade, NM Trompieri, JB Fontenele. Survival of children with malignant brain tumors receiving valproate: a retrospective study. Child’s Nervous System 29 (2), 195-197, 2013
+&lt;/span&gt;. A chance de sobrevida depende, fundamentalmente, do diagnóstico e tratamento adequados os quais somente podem ser oferecidos em centros especializados e multidisciplinares. É importante que os pacientes recebam a atenção de profissionais com experiência e conhecimento e tenham ao seu alcance os recursos necessários ao tratamento. O maior determinante do resultado é o tipo de tumor a ser tratado. A tabela que acompanha este texto mostra o tratamento mais adequado de acordo com a literatura mais recente, para os principais tipos de tumores cerebrais.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Diagnóstico&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Detalhes&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Recomendação&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Glioma de baixo grau&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Recorrente ou progressivo&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Vimblastina semanal&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Glioma de alto grau&lt;sup&gt;*&lt;/sup&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Maiores que 3 anos&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;RT e QT oral&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Glioma difuso de tronco cerebral&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Maiores que 3 anos&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;RT&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Meduloblastoma&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Maiores que 3 anos&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;RTQT&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Tumores embrionários&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Maiores que 3 anos&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;RTQT&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ependimoma&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Maiores que 1 ano&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;RT&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;sup&gt;*&lt;/sup&gt;&lt;em&gt;Gliomas difusos de tronco, o tipo mais comum de glioma maligno em crianças, são tratados à parte.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Na tabela, as colunas mostram a classificacação clínica do paciente (Diagnóstico), informações sobre a doença (Detalhes) e o tratamento mais indicado pela literatura científica mais recente (Recomendação). Abreviaturas: RT (radioterapia&lt;label for=&quot;radioterapia&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;radioterapia&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;A radioterapia é uma modalidade de tratamento que utiliza
+  uma radiação ionizante (raios X, raios gama, partículas beta, etc) para a terapia
+  de tumores, principalmente os malignos. Baseia-se na destruição das células
+  tumorais pela absorção da energia da radiação, causando morte celular.
+  O princípio básico maximiza o dano no tumor e minimiza o dano em
+  tecidos vizinhos normais, irradiando uma região de várias
+  direções diferentes, o que “focaliza” a radiação na área
+  alvo.
+&lt;/span&gt;
+), QT (quimioterapia&lt;label for=&quot;quimio&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;quimio&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Quimioterapia refere-se ao tratamento de doenças
+  por substâncias químicas que afetam o funcionamento celular. Pode ser
+  &lt;em&gt;quimioterapia antimicrobiana&lt;/em&gt;, &lt;em&gt;quimioterapia antiviral&lt;/em&gt;,
+  &lt;em&gt;quimioterapia anticâncer&lt;/em&gt;, etc. Popularmente, o termo refere-se à quimioterapia
+  anticâncer ou antineoplásica, um dos tratamentos do câncer onde são utilizadas
+  drogas capazes de induzir morte celular. As células de câncer são mais sensíveis
+  à quimioterapia, por se multiplicarem rapidamente. Células normais também podem
+  ser afetadas, ocasionando diversos efeitos colaterais, como a queda de cabelo.
+&lt;/span&gt;
+), RTQT (radioquimioterapia).&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Nota: todas as informações nestas tabelas foram retiradas da literatura científica citada, porém não necessariamente refletem a prática e a opinião de todos os profissionais e todos os centros envolvidos no tratamento de crianças com tumores cerebrais. Cada centro especializado ou profissional individual pode utilizar informações ou referências diferentes e pode informar chances de sobrevida diferentes, dependendo de suas experiências individuais.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gliomas de baixo grau:&lt;/strong&gt; a grande novidade em relação ao tratamento foi a introdução da vimblastina semanal como primeira escolha para crianças, um tratamento menos intensivo e tão eficaz quanto esquemas com mais drogas e doses maiores. Além disso, novas informações mostraram que o tratamento pode aguardar até que seja comprovada recorrência ou progressão dessas doenças que são, via de regra, de crescimenton lento. A boa notícia é que a sobrevida é muito longa, décadas na maioria das vezes. A má notícia é que uma parte considerável dos pacientes vai ter doença crônica neste período, pois a chance de recorrências múltiplas é razoável.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gliomas de alto grau:&lt;/strong&gt; a maior novidade foi a demonstração que o glioblastoma e outros gliomas malignos são bem diferentes em crianças e em adultos. Enquanto os adultos com gliomas malignos tem mutações dos genes EGFR e IDH, as crianças apresentam mutações dos genes H3F3A ou H3F3B. Isso explica porque os tratamentos funcionam diferentemente para adultos e crianças. Enquanto adultos respondem ao medicamento temozolomida, as crianças somente vão ter resposta se for acrescentado o medicamento lomustina (terapia alquilante dual).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gliomas difusos de tronco cerebral:&lt;/strong&gt; neste grupo de pacientes, o padrão de tratamento continua sendo a RT, embora um grande esforço esteja sendo desenvolvido no mundo inteiro para tentar desenvolver uma terapia alvo&lt;label for=&quot;alvo&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;alvo&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Terapia alvo é uma
+  das modalidades de tratamento médico (farmacoterapia) para o câncer,
+  sendo que outras são terapia hormonal e quimioterapia citotóxica. A terapia alvo
+  bloqueia o crescimento de células
+  cancerígenas interferindo com moléculas específicas necessárias para a
+  carcinogênese e o crescimento do tumor, ao invés de simplesmente interferir
+  com todas as células que se dividem rapidamente (por exemplo, com quimioterapia
+  tradicional). Como a maioria dos agentes para terapia direcionada é
+  biofarmacêutica, o termo terapia biológica é às vezes sinônimo de terapia
+  alvo quando usada no contexto da terapia do câncer (e, portanto, distinta da
+  quimioterapia, isto é, terapia citotóxica).
+&lt;/span&gt;
+ para essa doença refratária à QT. Inibidores da enzima HDAC, o ácido valpróico e o SAHA estão sendo testados. Dados preliminares apontam a possível eficacia destas drogas nessa doença, a qual quase sempre tem a mutação H3K27M.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Meduloblastomas:&lt;/strong&gt; tumores malignos mais comuns em crianças e com uma das melhores taxas de cura. A grande novidade recente é o uso de biologia molecular para classificar os pacientes em 4 grupos, um deles com resultados piores ao tratamento e o restante  com melhores resultados. Estas novas informações ainda serão integradas aos tratamemtos. Os maiores ensaios clínicos realizados comprovaram a utilidade da QT em reduzir a intensidade da RT nestes pacientes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tumores embrionários:&lt;/strong&gt; o conhecimento sobre estes tumores raros está mudando rapidamente com uma nova classificação e informações moleculares. Um dos problemas a ser equacionado é a confiabilidade do diagnóstico histopatológico e molecular.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ependimomas:&lt;/strong&gt; uma nova classificação molecular está trazendo à tona &lt;em&gt;nove&lt;/em&gt; (9) subtipos diferentes dessa doença! Seu tratamento baseia-se em RT, pois é basicamente refratária à QT e esta tem sido usada apenas de forma esperimental recentemente. Recentemente, começou-se a fazer RT para crianças com ependimoma a partir de 1 ano de idade.&lt;/p&gt;
+
+&lt;p&gt;Crianças com tumores cerebrais malignos e menos de 3 anos de idade ainda constituem um sério problema para tratamento no mundo inteiro, pois não podem receber RTQT com segurança. Uma das alrernativas seria uma terapi alvo, mas estas ainda estão em estágio experimental.&lt;/p&gt;
+
+&lt;p&gt;Espera-se que os novos conhecimentos de biologia molecular tragam novidades num futuro próximo para os pacientes que ainda não tem uma boa alternativa de tratmento.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 25 Jul 2018 20:13:00 -0300</pubDate>
+        <link>http://fhcflx.github.io/ciencia-medica/2018/07/25/novidades-tratamento-gliomas.html</link>
+        <guid isPermaLink="true">http://fhcflx.github.io/ciencia-medica/2018/07/25/novidades-tratamento-gliomas.html</guid>
+        
+        <category>Neuro-oncologia</category>
+        
+        <category>Câncer</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>O Tratamento de Hemangiomas no Passado e no Presente</title>
+        <description>&lt;p&gt;Essa é uma revisão de uma postagem de 4 anos atrás, quando faziam 5 anos que o tratamento dos hemangiomas&lt;label for=&quot;hemangioma&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;hemangioma&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Hemangioma (&lt;em&gt;gr haema&lt;/em&gt; = sangue; &lt;em&gt;angeio&lt;/em&gt; = vaso; &lt;em&gt;oma&lt;/em&gt; = tumor)
+  são tumores vasculares benignos formados por um crescimento anormal de capilares
+  sanguíneos que geralmente não causam danos, apenas são desagradáveis
+  esteticamente. São mais comuns na pele, especialmente na cabeça e pescoço, mas
+  podem aparecer em vários órgãos, como mucosas, fígado, intestino, árvore respiratória,
+  cérebro, etc. Também chamados &lt;em&gt;hemangiomas infantis&lt;/em&gt; ou &lt;em&gt;hemangiomas capilares&lt;/em&gt;.
+  Surgem logo após o nascimento, crescem rapidamente no primeiro ano de vida (fase
+  proliferativa) e regridem espontaneamente a um ritmo de cerca de 10% ao ano (desaparecendo em
+  até 9 anos mais ou menos).
+&lt;/span&gt;
+ tinha sido revolucionado pela descoberta do efeito do propranolol&lt;label for=&quot;propranolol&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;propranolol&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Propranolol: fármaco anti-hipertensivo indicado para o tratamento
+   e prevenção do infarto do miocárdio, da angina, de arritmias cardíacas, bem
+   como da enxaqueca. Pode ser utilizado associado ou não a outros medicamentos
+   para o tratamento da hipertensão arterial. É um bloqueador de receptores beta
+   adrenérgicos (betabloqueador). Em 2008, uma publicação no &lt;em&gt;New England Journal
+   of Medicine&lt;/em&gt; mostrou que o propranolol pode induzir a regressão rápida de hemangiomas
+   infantis.
+&lt;/span&gt;
+ e dos betabloqueadores. De lá para cá, essa revolução tornou-se o novo padrão de tratamento destes tumores vasculares. Mas, afinal, como se tratavam os hemangiomas antes?
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Antes de tudo, vamos definir o que são hemangiomas: eles são tumores vasculares&lt;label for=&quot;tumorvasc&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;tumorvasc&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Tumor vascular: é uma anomalia vascular formada pela
+  proliferação de células de vasos sanguíneos. Diferentemente das malformações
+  vasculares, demonstram proliferação de células endoteliais de diversas
+  linhagens, e podem apresentar fase de crescimento rápido, constituindo,
+  portanto, verdadeiras neoplasias. A maioria dos tumores vasculares é própria
+  da faixa etária pediátrica, porém vários tipos podem ocorrer ao longo de toda
+  a vida.
+&lt;/span&gt;
+, benignos (nunca evoluem para tumores malignos), típicos de bebês (nunca surgem em crianças grandes e adolescentes). Crescem rapidamente no primeiro ano de vida e involuem espontaneamente ao longo de vários anos, causando complicações numa minoria de casos (10-15%) e deixando cicatrizes esteticamente problemáticas em 1/3 dos casos. Quando pais procuram o médico com crianças com hemangiomas, muitas vezes já se tratam de casos complicados, pois na maioria dos casos simples a lesão é pequena e reduz sem despertar maiores preocupações na família. Os hemangiomas são também chamados de &lt;em&gt;hemangiomas infantis&lt;/em&gt; (termo preferido) ou hemangiomas capilares.&lt;/p&gt;
+
+&lt;p&gt;Lesões que crescem lentamente ou não crescem, que surgem em crianças maiores ou adultos, &lt;em&gt;não são hemangiomas infantis&lt;/em&gt;! Devem ser outras formas de anomalias vasculares&lt;label for=&quot;anomaliavasc&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;anomaliavasc&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Anomalia vascular: é toda desordem de estrutura ou
+  crescimento de vasos sanguíneos, podendo ser congênita, hereditária ou adquirida.
+  Podem ser classificadas em tumores vasculares, anomalias onde ocorre proliferação
+  celular em alguma fase de seu desenvolvimento (ex.: hemangioma), ou malformações
+  vasculares, anomalias onde existem alterações morfoestruturais causadas por
+  problemas durante a embriogênese ou adquiridas (ex.: malformação capilar).
+&lt;/span&gt;
+, as quais existem às centenas. É muito comum que pacientes e familiares sejam informados erroneamente que essas lesões constituem hemangiomas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://4.bp.blogspot.com/-OsJc9f__W2s/UynC-rNiobI/AAAAAAAAZ_Q/7AAE-94urB8/s1600/Captura+de+Tela+2014-03-19+a%CC%80s+11.13.04.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;http://4.bp.blogspot.com/-psMv09JO_0c/UynC_otufTI/AAAAAAAAZ_Y/Uo7_XSXyx4Q/s1600/Captura+de+Tela+2014-03-19+a%CC%80s+11.24.00.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Figuras retiradas do livro Mulliken &amp;amp; Young’s Vascular Anomalies, Hemangiomas and Malformations, 2 ed., Oxford University Press, 2013 (protegidas por direitos autorais).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;O professor John B. Mulliken, considerado uma
+das maiores autoridades em anomalias vasculares do mundo e discípulo de Judah
+Folkman (1933-2008), o descobridor da angiogênese&lt;label for=&quot;angiogenese&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;angiogenese&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Angiogênese: é o processo fisiológico através do qual
+  novos vasos sanguíneos se formam a partir de vasos pré-existentes. Num uso preciso,
+  isso é diferente da vasculogênese, que é a formação de células endoteliais &lt;em&gt;de
+  novo&lt;/em&gt; a partir de precursores de células mesodérmicas, e da neovascularização,
+  embora as discussões nem sempre sejam precisas (especialmente em textos mais
+  antigos). Os primeiros vasos no embrião em desenvolvimento se formam através
+  da vasculogênese, após o que a angiogênese é responsável pela maioria, senão
+  por todo, o crescimento dos vasos sangüíneos durante o desenvolvimento e na
+  doença. O papel da angiogênese no crescimento de tumores foi proposto pelo médico
+  e cientista americano Judah Folkman em 1971.
+&lt;/span&gt;
+, nos mostrava, na introdução do capítulo de sua clássica obra sobre o tratamento de hemangiomas, um interessante histórico.  Logo no começo, ele avisa: “o hemangioma vermelho brilhante de rápido crescimento nos leva a tomar uma providência, a fazer algo, qualquer coisa”. Assim, a ansiedade relacionada com esta lesão ordinariamente benigna e que não requer tratamento na maioria dos casos (sabemos bem hoje) sempre levou mães e médicos ansiosos a tentar as mais estapafúrdias terapias possíveis. No século XVIII, era comum a “queimação” com “ferro quente” (cautério), ou ainda a extirpação cirúrgica de lesões que, muitas vezes, regrediriam espontaneamente. Vários casos de hemorragias graves com óbito de crianças com hemangiomas, mesmo pequenos, foram descritas na literatura antiga, como resultado de técnicas abstrusas de tratamento.&lt;/p&gt;
+
+&lt;p&gt;Relatos mostram que desde os anos 1500 se realizavam extirpações cirúrgicas de hemangiomas em pequenos pacientes. Numa das passagens, o Dr. Mulliken descreve: “Daniel Turner (…), precursor da dermatologia (…), [em 1714] recomendou o “ferro quente” para um (…) caso, uma jovem empregada com uma “marca em forma de lagosta” na bochecha. Amedrontada, a garota tomou a sábia decisão de procurar outra opinião”.  Citando W. A. Lister (1938): “toda a nossa atitude em relação ao tratamento dos nevos em morango (&lt;em&gt;strawberry hemangiomas&lt;/em&gt;) deve se basear no conhecimento de sua invariável tendência à regressão espontânea”. Mesmo hoje em dia, mães ansiosas devido à marca vermelho-vivo, usualmente na face de seus bebês, procuram “cirurgia”, alheias ao grande risco que estão oferecendo a seus filhos. Cabe aos profissionais de hoje esclarecer adequadamente as mães e, nos casos que necessitem, encaminhar a um especialista em anomalias vasculares.&lt;/p&gt;
+
+&lt;p&gt;Ainda é preocupante a tendência de alguns médicos de voltar aos velhos tratamentos de 200 anos atrás, como a cauterização (até recentemente realizada esporadicamente com bisturi elétrico). A cauterização, deve-se frisar, seja com que instrumento for, é totalmente contra-indicada, pois, além de vários riscos associados à anatomia do local de surgimento do hemangioma, deixa uma cicatriz indelével para o resto da vida.&lt;/p&gt;
+
+&lt;p&gt;A quem procurar quando uma criança tem um hemangioma? &lt;em&gt;Não existe uma especialidade devotada às chamadas anomalias vasculares, então não se pode falar de um grupo de médicos ou uma especialidade que seja a “melhor” para conduzir hemangiomas.&lt;/em&gt; Os maiores especialistas nestas lesões são de varias especialidades diferentes como o Dr. Mulliken (cirurgião plástico), como a Dra. Adams (onco-hematologista pediátrica), que constituem as maiores autoridades mundiais e como a Dra. Leauté-Labréze (dermatologista), a qual descobriu recentemente o uso de propranolol para hemangiomas. No entanto, a maioria dos cirurgiões, oncologistas ou dermatologistas não tem experiência com o tratamento de hemangiomas, ou a tem de forma limitada. Todos os médicos, porém, podem e devem ter noções gerais sobre anomalias vasculares, incluindo quando referir para um colega com reconhecida experiência.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://1.bp.blogspot.com/-oSJ6nNh9FAQ/Uyo_xbeZT_I/AAAAAAAAZ_w/7v4oePhAcrg/s1600/Captura+de+Tela+2014-03-19+a%CC%80s+12.26.43.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Essa imagem parcial, retirada de capítulo do livro do dr. Mulliken, mostra uma jovem que desenvolveu um grande hemangioma infantil na face. O seguimento, &lt;strong&gt;ABSOLUTAMENTE SEM NENHUM TRATAMENTO&lt;/strong&gt;, é testemunho de que a regressão espontânea dos hemangiomas, que pode demorar vários anos, muitas vezes não deixa nenhuma marca posterior.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Assim, na dúvida, informe-se com médicos ou outros pacientes quem é o médico que tem mais experiência com o tratamento de hemangiomas, independente da especialidade. Qual o papel da cirurgia no tratamento dos hemangiomas? Mesmo antigamente, como se viu, esse papel era limitado. É comum que pais ansiosos fantasiem que “basta retirar o hemangioma e meu filho(a) ficará normal”! Mas é uma ilusão: na maioria dos casos de hemangiomas complicados, a cirurgia é excessivamente mutiladora e deixará grandes cicatrizes para o resto da vida. Nos casos simples, basta aguardar que a lesão desaparece sozinha. É importante, no entanto, que um diagnóstico bem feito seja realizado, pois outras anomalias vasculares não vão involuir espontaneamente. Em alguns casos selecionados e bem indicados, a cirurgia pode sim ser positiva e ajudar.&lt;/p&gt;
+
+&lt;p&gt;Na maioria dos casos complicados já temos, desde a publicação do trabalho seminal da Dra. Leauté-Labréze&lt;label for=&quot;labreze&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;labreze&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Em 2007, uma criança de 3 meses de idade foi levada para a
+  Dra. Christine Leauté-Labréze, dermatologista do Bordeaux University Hospital
+  Center. O bebê tinha um grande hemangioma da face, bloqueando as vias respiratórias
+  e o nariz. O tratamento padrão, com dose alta do corticosteróide prednisolona,
+  foi prescrito. Poucos dias depois, a criança desenvolveu uma complicação rara
+  do uso de corticóides: miocardiopatia hipertrófica, a qual desencadeou insuficiência
+  cardíaca. Após consultar a cardiologia, propranolol, o tratamento padrão dessa
+  complicação cardíaca, foi prescrito. Para surpresa da dermatologista, a lesão
+  regrediu rapidamente (ao longo de algumas semanas), enquanto a criança usava
+  propranolol. A medicação foi, então, usada em outros pacientes que não tinham
+  respondido à prednisolona. Em 2008, a Dra. Leauté-Labréze e colegas publicaram
+  o achado mnuma &lt;a href=&quot;http://bit.ly/fhcflxoL&quot;&gt;carta&lt;/a&gt; para o New England Journal of
+  Medicine, a qual já foi citada mais de 2 mil vezes. Posteriormente, a mesma
+  pesquisadora publicou um ensaio clínico controlado validando a utilidade e
+  segurança do propranolol para o tratamento de hemangiomas infantis.
+&lt;/span&gt;
+, um tratamento eficaz. O propranolol foi o primeiro betabloqueador usado com sucesso para o tratamento de hemangiomas. Ele age “apressando” a involução natural dos hemangiomas. Ao invés de levarem vários anos, precisam de 6-12 meses para desaparecer. Ao final do tratamento, assim como na evolução natural da doença, pode sobrar uma cicatriz, pois as células dos hemangiomas não simplesmente desaparecem, elas se “transformam” em células gordurosas, como demonstrado pelo trabalho premiado da Dra. Itinteang. Essa mesma pesquisadora mostrou evidências de que as células de origem dos hemangiomas infantis são oriundas da placenta, o que explicaria porque basicamente os hemangiomas somente acontecem em
+bebês e porque problemas na gravidez aumentam a chance deles surgirem (como trabalho de parto prematuro).&lt;/p&gt;
+
+&lt;p&gt;Hoje em dia, novos tratamentos derivados do propranolol continuam sendo desenvolvidos, inclusive um tratamento tópico, para passar na pele sobre a lesão, e o propranolol não é mais a droga mais usada do grupo dos beta-bloqueadores. O atenolol mostrou igual eficácia ensegurança superior. Mas isso e muito mais fica para a próxima postagem!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Jul 2018 22:03:00 -0300</pubDate>
+        <link>http://fhcflx.github.io/ciencia-medica/2018/07/19/o-tratamento-de-hemangiomas-no-passado-e-no-presente.html</link>
+        <guid isPermaLink="true">http://fhcflx.github.io/ciencia-medica/2018/07/19/o-tratamento-de-hemangiomas-no-passado-e-no-presente.html</guid>
+        
+        <category>Propranolol</category>
+        
+        <category>Hemangioma</category>
+        
+        <category>Anomalias vasculares</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>O tumor cerebral voltou, e agora?</title>
+        <description>&lt;p&gt;Este texto baseia-se em um informativo da Sociedade Nacional de Tumores Cerebrais americana, com o fim de apoiar os pacientes e familiares durante a difícil fase da recorrência da doença.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;A notícia sempre é um choque tanto para pacientes, quanto para familiares e profissionais da saúde que cuidam deles. Depois de uma árdua batalha que inclui cirurgia(s), radioterapia&lt;label for=&quot;radioterapia&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;radioterapia&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;A radioterapia é uma modalidade de tratamento que utiliza
+  uma radiação ionizante (raios X, raios gama, partículas beta, etc) para a terapia
+  de tumores, principalmente os malignos. Baseia-se na destruição das células
+  tumorais pela absorção da energia da radiação, causando morte celular.
+  O princípio básico maximiza o dano no tumor e minimiza o dano em
+  tecidos vizinhos normais, irradiando uma região de várias
+  direções diferentes, o que “focaliza” a radiação na área
+  alvo.
+&lt;/span&gt;
+, quimioterapia&lt;label for=&quot;quimio&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;quimio&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Quimioterapia refere-se ao tratamento de doenças
+  por substâncias químicas que afetam o funcionamento celular. Pode ser
+  &lt;em&gt;quimioterapia antimicrobiana&lt;/em&gt;, &lt;em&gt;quimioterapia antiviral&lt;/em&gt;,
+  &lt;em&gt;quimioterapia anticâncer&lt;/em&gt;, etc. Popularmente, o termo refere-se à quimioterapia
+  anticâncer ou antineoplásica, um dos tratamentos do câncer onde são utilizadas
+  drogas capazes de induzir morte celular. As células de câncer são mais sensíveis
+  à quimioterapia, por se multiplicarem rapidamente. Células normais também podem
+  ser afetadas, ocasionando diversos efeitos colaterais, como a queda de cabelo.
+&lt;/span&gt;
+, e depois de um período no qual se achava que estava tudo terminado, que a doença tinha sido vencida, ela volta.&lt;/p&gt;
+
+&lt;p&gt;Então, após o choque inicial, impõe-se levantar, sacudir a poeira e marchar na nova etapa. Quais os novos desafios que a recorrência de um tumor cerebral&lt;label for=&quot;tumorsnc&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;tumorsnc&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Tumor cerebral: neoplasia (crescimento celular anormal e
+  não controlado) ocorrendo em tecidos do cérebro. Pode ser benigno ou maligno
+  (câncer). Pode ser primário (surge de células do próprio cérebro) ou secundário
+  (metástases).
+&lt;/span&gt;
+ trazem?&lt;/p&gt;
+
+&lt;p&gt;A Sociedade Nacional de Tumores Cerebrais (&lt;em&gt;NBTS - National Brain Tumor Society&lt;/em&gt;) é uma organização não governamental americana de suporte aos pacientes e financiamento de pesquisas de novos tratamentos com o objetivo de curar os tumores cerebrais. Em um texto voltado aos pacientes e familiares, a NBTS listou algumas questões que devem ser lembradas pelos pacientes e direcionadas aos profissionais.&lt;/p&gt;
+
+&lt;p&gt;Neste texto, vou tentar dar respostas às principais questões:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;O tratamento vai ser diferente do primeiro tratamento? &lt;em&gt;Na maioria das vezes, sim. No entanto, algumas estratégias, como a cirurgia, podem ser tentadas novamente. A equipe de cuidado vai decidir, pergunte a eles(as).&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;A equipe de cuidado vai mudar? &lt;em&gt;Isso depende do serviço hospitalar onde o tratamento é realizado. Na maioria das vezes, nenhum profissional deixará a equipe, apenas mais alguns se somarão ao processo, como especialistas em cuidados paliativos ou dor. Alguns tratamentos muito especializados, como transplante de células tronco&lt;/em&gt;&lt;label for=&quot;tmo&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;tmo&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Transplante de células tronco: mais conhecido como
+&lt;em&gt;transplante de medula óssea&lt;/em&gt;. É um tratamento anticâncer onde o paciente
+recebe uma dose muito alta de quimioterapia antineoplásica, a qual é capaz
+de destruir completamente a medula óssea do paciente (junto com as células
+cancerosas, espera-se). A medula óssea é, então, reconstituída com células
+retiradas do próprio paciente (transplante autólogo) ou de um doador compatível
+(transplante heterólogo ou alogênico). O procedimento é de risco e utilizado
+no tratamento de câncer refratário a tratamentos convencionais. Nem todo tipo
+de câncer pode ser curado com transplante de células tronco.
+&lt;/span&gt;
+, &lt;em&gt;terapia alvo, terapia biológica ou imunoterapia, podem necessitar de uma equipe especial com experiência na área.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Quais efeitos colaterais ou sequelas são esperados? Posso minimizá-los? &lt;em&gt;Infelizmente, é muito difícil que um segundo tratamento (além da própria doença) não deixem alguma sequela a mais. Sempre existem estratégias para minimizar seu impacto. Isso deve ser discutido com a equipe de cuidado.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Devo parar ou continuar com a reabilitação? Posso iniciar se não o fiz ainda? &lt;em&gt;O processo de reabilitação pode iniciar ainda durante o tratamento. Fisioterapia, fonoterapia, terapia ocupacional, etc, podem precisar ser suspensas em alguns momentos, mas podem e devem progredir durante a terapia. No entanto, alguns tipos de reabilitação podem precisar esperar o fim de algumas modalidades de tratamento.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O mais importante: mesmo que os objetivos do segundo tratamento não sejam exatamente iguais aos do primeiro, é importante ter esperança e engajar-se. O papel da família e dos amigos nessa hora é fundamental. O amor das pessoas próximas fará muito pelo tratamento, e pode ser a grande diferença para estes pacientes neste momento difícil. A luta continua!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 13 Jul 2018 18:00:00 -0300</pubDate>
+        <link>http://fhcflx.github.io/ciencia-medica/2018/07/13/O-tumor-voltou.html</link>
+        <guid isPermaLink="true">http://fhcflx.github.io/ciencia-medica/2018/07/13/O-tumor-voltou.html</guid>
+        
+        <category>Câncer</category>
+        
+        <category>Tumor cerebral</category>
+        
+        <category>Recorrência</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>O mínimo que todo médico generalista (isso inclui clínicos, pediatras, cirurgiões gerais e gineco-obstetras) precisa saber sobre câncer</title>
+        <description>&lt;p&gt;Neste texto tento mostrar que muitas vezes, mesmo tendo conhecimento adequado sobre o assunto, um(a) medico(a) generalista pode fazer mais ainda e ser a diferença para os pacientes com câncer se atentar para alguns detalhes e organizar uma abordagem objetiva e humana.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;A grande maioria dos pacientes que descobre ser portador de um câncer&lt;label for=&quot;cancer&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;cancer&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Câncer (&lt;em&gt;lat cancer&lt;/em&gt; = caranguejo): grande grupo de doenças
+  muito diferentes entre si, tendo em comum a proliferação celular incessante e
+  desordenada, a capacidade de invadir localmente tecidos saudáveis do organismo
+  e a capacidade de se espalhar para locais distantes (metástases). Os diversos
+  tipos de câncer são teoricamente oriundos de &lt;em&gt;uma única célula&lt;/em&gt; (origem clonal)
+  a qual sofreu mutações em seu código genético. Saiba mais &lt;a href=&quot;http://bit.ly/fhcflx3o&quot;&gt;aqui&lt;/a&gt;.
+&lt;/span&gt;
+ vai ser atendido inicialmente por um médico generalista. Nessa definição se enquadram os clínicos gerais, os pediatras, os cirurgiões gerais e os gineco-obstetras. Nós médicos passamos um tempo prolongado do curso aprendendo como o câncer surge, seus mecanismos, sua biologia, seus sintomas, entre outros detalhes acadêmicos. Essa grande quantidade de informação nem sempre ajuda realmente no momento de comunicar aos pacientes sobre uma suspeita de doença neoplásica.&lt;/p&gt;
+
+&lt;p&gt;Uma das lacunas na maioria dos currículos de escolas médicas é o ensino da relação medico-paciente, especialmente a comunicação diagnóstica de má notícia. Muitos profissionais ficam à mercê de sua própria experiência e estrutura de relação interpessoal, e nem sempre isso é suficiente. O correto é que, ao lado do conhecimento técnico sobre a doença, também fosse treinada a abordagem humana. No entanto, isso não é a norma hoje em dia.&lt;/p&gt;
+
+&lt;p&gt;Isso faz com que todo aquele conhecimento que se recebe no banco da escola nem sempre ajude no momento de comunicar-se com os pacientes. Por isso, um breve guia do mínimo necessário para saber sobre o câncer e como falar com os pacientes é algo bem útil. Neste texto curto, vou expor aquilo que acredito que deve ser prioridade na mente dos médicos generalistas que podem se deparar com casos de suspeita de neoplasias.&lt;/p&gt;
+
+&lt;h2 id=&quot;mitos-sobre-o-câncer-para-os-médicos-generalistas&quot;&gt;Mitos sobre o câncer (para os médicos generalistas):&lt;/h2&gt;
+
+&lt;h3 id=&quot;nunca-vou-ver-um-caso-de-câncer-no-meu-trabalho-é-muito-raro&quot;&gt;Nunca vou ver um caso de câncer no meu trabalho, é muito raro!&lt;/h3&gt;
+&lt;p&gt;Nada disso, a grande maioria dos generalistas vai se deparar com casos suspeitos, e não será apenas uma vez. O câncer é uma doença cuja incidência está aumentando devido ao envelhecimento da população e outros fatores. &lt;em&gt;Cada vez é mais frequente que encontremos casos suspeitos no dia-a-dia.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ninguém-sobrevive-ao-câncer&quot;&gt;Ninguém sobrevive ao câncer.&lt;/h3&gt;
+&lt;p&gt;Isso ficou para trás. Até os anos 70-80, realmente, a sobrevida não era muito promissora na maioria dos tipos de câncer. Hoje em dia, com todos os desenvolvimentos da epidemiologia&lt;label for=&quot;epidemio&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;epidemio&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Epidemiologia (&lt;em&gt;gr epi = sobre; demos = povo; logos = estudo&lt;/em&gt;):
+   propõe-se a estudar quantitativamente a distribuição dos fenômenos de
+   saúde/doença, e seus fatores condicionantes e determinantes, nas populações
+   humanas. É um campo da ciência que trata dos vários fatores genéticos, sociais
+   ou ambientais e condições derivados de exposição microbiológica, tóxica,
+   traumática, etc, que determinam a ocorrência e a distribuição de saúde,
+   doença, incapacidade e morte entre os grupos de indivíduos.
+&lt;/span&gt;
+, diagnóstico precoce, tratamento e seguimento, &lt;em&gt;a norma é sobreviver ao câncer, a maioria dos pacientes têm doenças que podem ser adequadamente tratadas se descobertas a tempo.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;o-tratamento-do-câncer-é-muito-caro-somente-ricos-conseguem&quot;&gt;O tratamento do câncer é muito caro, somente ricos conseguem.&lt;/h3&gt;
+&lt;p&gt;Embora seja verdade que os tratamentos mais recentes são muito dispendiosos, o tratamento para a maioria dos pacientes com câncer pode ser realizado a um custo aceitável em nosso país. Onde o tratamento não estiver disponível, o cidadão tem o direito de ser conduzido a um local onde seja tratado. Como estipulado em nossa constituição, &lt;em&gt;é direito de todos a ser garantido pelo poder público.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;eu-sou-generalista-nada-posso-fazer&quot;&gt;Eu sou generalista, nada posso fazer.&lt;/h3&gt;
+&lt;p&gt;Este é o maior mito de todos. Uma das maiores armas da medicina contra o câncer é o diagnóstico precoce e, neste processo, o maior papel é dos generalistas. Então, sim, você que trabalha num posto de saúde, como cirurgião geral num pequeno hospital, numa maternidade do interior, você é quem tem o maior poder de todos no combate do câncer: &lt;em&gt;reconhecer o mais cedo possível salva o maior número possível de vidas&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;verdades-sobre-o-câncer&quot;&gt;Verdades sobre o câncer:&lt;/h2&gt;
+
+&lt;h3 id=&quot;é-uma-doença-grave&quot;&gt;É uma doença grave.&lt;/h3&gt;
+&lt;p&gt;Sim, e por isso não se deve adiar ou atrasar seu diagnóstico e tratamento. Se, para o tratamento do infarto do miocárdio&lt;label for=&quot;infarto&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;infarto&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Um infarto agudo do miocárdio, popularmente denominado
+  “ataque cardíaco”, ocorre quando a circulação de sangue para uma parte do
+  coração é interrompida, causando lesões no músculo cardíaco. O sintoma mais
+  comum é dor no peito.
+&lt;/span&gt;
+ ou do acidente vascular cerebral&lt;label for=&quot;avc&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;avc&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Um acidente vascular cerebral (AVC), popularmente denominado
+  “derrame cerebral”, ocorre quando problemas na irrigação sanguínea do cérebro
+  causam a morte das células, o que faz com que partes do cérebro deixem de
+  funcionar devidamente.
+&lt;/span&gt;
+ tempo é vida, isso também é verdade para o câncer, somente a escala é diferente. A legislação atual requer que um paciente com suspeita de câncer inicie seu tratamento em até 60 dias, no máximo. Isso requer que todos os passos diagnósticos sejam feitos neste prazo. &lt;em&gt;Quando o assunto é câncer, ninguém deve dormir no ponto.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;seu-tratamento-é-complicado&quot;&gt;Seu tratamento é complicado.&lt;/h3&gt;
+&lt;p&gt;Verdade, o tratamento do câncer, por mais que a medicina tenha evoluído, ainda inclui, muitas vezes, grandes cirurgias, por vezes mutiladoras, e tratamentos que trazem efeitos colaterais frequentes, como a radioterapia&lt;label for=&quot;radioterapia&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;radioterapia&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;A radioterapia é uma modalidade de tratamento que utiliza
+  uma radiação ionizante (raios X, raios gama, partículas beta, etc) para a terapia
+  de tumores, principalmente os malignos. Baseia-se na destruição das células
+  tumorais pela absorção da energia da radiação, causando morte celular.
+  O princípio básico maximiza o dano no tumor e minimiza o dano em
+  tecidos vizinhos normais, irradiando uma região de várias
+  direções diferentes, o que “focaliza” a radiação na área
+  alvo.
+&lt;/span&gt;
+ e quimioterapia&lt;label for=&quot;quimio&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;quimio&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Quimioterapia refere-se ao tratamento de doenças
+  por substâncias químicas que afetam o funcionamento celular. Pode ser
+  &lt;em&gt;quimioterapia antimicrobiana&lt;/em&gt;, &lt;em&gt;quimioterapia antiviral&lt;/em&gt;,
+  &lt;em&gt;quimioterapia anticâncer&lt;/em&gt;, etc. Popularmente, o termo refere-se à quimioterapia
+  anticâncer ou antineoplásica, um dos tratamentos do câncer onde são utilizadas
+  drogas capazes de induzir morte celular. As células de câncer são mais sensíveis
+  à quimioterapia, por se multiplicarem rapidamente. Células normais também podem
+  ser afetadas, ocasionando diversos efeitos colaterais, como a queda de cabelo.
+&lt;/span&gt;
+. Alguns tratamentos introduzidos recentemente, como as terapias alvo&lt;label for=&quot;alvo&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;alvo&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Terapia alvo é uma
+  das modalidades de tratamento médico (farmacoterapia) para o câncer,
+  sendo que outras são terapia hormonal e quimioterapia citotóxica. A terapia alvo
+  bloqueia o crescimento de células
+  cancerígenas interferindo com moléculas específicas necessárias para a
+  carcinogênese e o crescimento do tumor, ao invés de simplesmente interferir
+  com todas as células que se dividem rapidamente (por exemplo, com quimioterapia
+  tradicional). Como a maioria dos agentes para terapia direcionada é
+  biofarmacêutica, o termo terapia biológica é às vezes sinônimo de terapia
+  alvo quando usada no contexto da terapia do câncer (e, portanto, distinta da
+  quimioterapia, isto é, terapia citotóxica).
+&lt;/span&gt;
+ ou a imunoterapia&lt;label for=&quot;imuno&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;imuno&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;A imunoterapia é o tratamento da doença através da indução,
+  intensificação ou supressão da resposta imune do hospedeiro. As imunoterapias
+  projetadas para desencadear ou amplificar uma resposta imune são classificadas
+  como imunoterapias de ativação, enquanto imunoterapias que reduzem ou suprimem
+  são classificadas como imunoterapias de supressão. Nos últimos anos, a
+  imunoterapia tornou-se de grande interesse para pesquisadores, médicos e
+  empresas farmacêuticas, particularmente em sua promessa de tratar várias
+  formas de câncer.
+&lt;/span&gt;
+ prometem uma era de tratamentos com menos complicações para os pacientes, mas são tratamentos em sua infância, ainda muito dispendiosos e cuja eficácia ainda deixa a desejar na maioria das vezes. &lt;em&gt;Por isso, é importante informar aos pacientes que a chance de cura é grande para a maioria dos casos.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;o-combate-ao-câncer-exige-compromisso-de-toda-a-sociedade&quot;&gt;O combate ao câncer exige compromisso de toda a sociedade.&lt;/h3&gt;
+&lt;p&gt;A responsabilidade não é apenas do poder público ou da medicina. O câncer é uma doença evitável em muitos casos. Não fumar (nem tabaco, nem outras ervas), consumir bebidas alcoólicas com muita moderação e cuidar da saúde (evitar excesso de peso, alimentar-se de maneira equilibrada, praticar exercícios, evitar excesso de sol) são as principais atitudes individuais que têm o poder de reduzir a incidência de câncer. &lt;em&gt;Estas medidas são baratas, ao alcance de todos e evitam a maioria dos casos de câncer.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;lembranças-ao-generalista-quando-aborda-o-paciente&quot;&gt;Lembranças ao generalista quando aborda o paciente:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Você tem um ser humano como você diante de si, alguém que ama e é amado por outras pessoas. Não se esqueça disso.&lt;/li&gt;
+  &lt;li&gt;Uma suspeita não é uma certeza. Deixe o diagnóstico de certeza para o especialista, mesmo que você ache que “não pode ser outra coisa.”&lt;/li&gt;
+  &lt;li&gt;Sempre respeite as crenças e características da pessoa que está diante de você, &lt;em&gt;especialmente se forem diferentes das suas.&lt;/em&gt; Se você acredita em um deus diferente, tem uma raça diferente, diversa opinião política ou orientação sexual, ou qualquer que seja a diferença, respeite a pessoa humana com quem você dialoga e esqueça as diferenças. Desde os primórdios da medicina, os médicos são instruídos a agir assim. A tolerância faz parte da medicina desde seu berço, não rompa essa tradição milenar.&lt;/li&gt;
+  &lt;li&gt;Seja sucinto, porém educado. A melhor estratégia sempre é a sinceridade polida.&lt;/li&gt;
+  &lt;li&gt;Aceite uma recepção negativa. Seu paciente e os familiares não são monges ascetas, e mesmo que sejam, são humanos antes de tudo. Têm o direito a se emocionar. É parte da profissão médica lidar com isso.&lt;/li&gt;
+  &lt;li&gt;Divida o fardo com os companheiros profissionais de saúde. Quando você estiver em uma equipe, envolva a equipe toda na abordagem e apoio aos pacientes e familiares.&lt;/li&gt;
+  &lt;li&gt;Seja otimista, acredite!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Para além do conhecimento técnico, nesses momentos vale mais a nossa humanidade. Lembre-se, você é um(a) medico(a), representa toda uma tradição muito longa de equilíbrio, tolerância e perseverança. Seja a diferença no mundo!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Jul 2018 18:00:00 -0300</pubDate>
+        <link>http://fhcflx.github.io/ciencia-medica/2018/07/12/o-que-todo-medico-deve-saber.html</link>
+        <guid isPermaLink="true">http://fhcflx.github.io/ciencia-medica/2018/07/12/o-que-todo-medico-deve-saber.html</guid>
+        
+        <category>Câncer</category>
+        
+        <category>Medicina generalista</category>
+        
+        <category>Comunicação do diagnóstico</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html>
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-79742963-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+  <!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Migrando meu blog para Github Pages usando Jekyll | Ciência médica</title>
+<meta name="generator" content="Jekyll v3.7.4" />
+<meta property="og:title" content="Migrando meu blog para Github Pages usando Jekyll" />
+<meta name="author" content="ffelix" />
+<meta property="og:locale" content="pt_br" />
+<meta name="description" content="Decidi migrar meu blog para uma plataforma mais moderna e limpa. Para tanto, usei Jekyll para criar a nova interface e GitHub Pages para implementá-la e publicá-la na net. Inspirei-me em Carl Boettiger e seu open lab notebook. Como eu já tinha interesse em criar um projeto de “caderno de anotações de pesquisa aberto” (open notebook science), mas voltado para pesquisa clínica, um open science clinical trial que vai abrigar um ensaio clínico com os princípios da ciência aberta (open science), entendi que a experiência com esta nova plataforma poderia ser aproveitada para este e outros projetos." />
+<meta property="og:description" content="Decidi migrar meu blog para uma plataforma mais moderna e limpa. Para tanto, usei Jekyll para criar a nova interface e GitHub Pages para implementá-la e publicá-la na net. Inspirei-me em Carl Boettiger e seu open lab notebook. Como eu já tinha interesse em criar um projeto de “caderno de anotações de pesquisa aberto” (open notebook science), mas voltado para pesquisa clínica, um open science clinical trial que vai abrigar um ensaio clínico com os princípios da ciência aberta (open science), entendi que a experiência com esta nova plataforma poderia ser aproveitada para este e outros projetos." />
+<link rel="canonical" href="http://fhcflx.github.io/ciencia-medica/2016/05/01/Migrando-meu-blog-para-Github-Pages-usando-Jekyll.html" />
+<meta property="og:url" content="http://fhcflx.github.io/ciencia-medica/2016/05/01/Migrando-meu-blog-para-Github-Pages-usando-Jekyll.html" />
+<meta property="og:site_name" content="Ciência médica" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2016-05-01T12:00:00-03:00" />
+<script type="application/ld+json">
+{"description":"Decidi migrar meu blog para uma plataforma mais moderna e limpa. Para tanto, usei Jekyll para criar a nova interface e GitHub Pages para implementá-la e publicá-la na net. Inspirei-me em Carl Boettiger e seu open lab notebook. Como eu já tinha interesse em criar um projeto de “caderno de anotações de pesquisa aberto” (open notebook science), mas voltado para pesquisa clínica, um open science clinical trial que vai abrigar um ensaio clínico com os princípios da ciência aberta (open science), entendi que a experiência com esta nova plataforma poderia ser aproveitada para este e outros projetos.","author":{"@type":"Person","name":"ffelix"},"@type":"BlogPosting","url":"http://fhcflx.github.io/ciencia-medica/2016/05/01/Migrando-meu-blog-para-Github-Pages-usando-Jekyll.html","headline":"Migrando meu blog para Github Pages usando Jekyll","dateModified":"2016-05-01T12:00:00-03:00","datePublished":"2016-05-01T12:00:00-03:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://fhcflx.github.io/ciencia-medica/2016/05/01/Migrando-meu-blog-para-Github-Pages-usando-Jekyll.html"},"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Migrando meu blog para Github Pages usando Jekyll | Ciência médica</title>
+<meta name="generator" content="Jekyll v3.7.4" />
+<meta property="og:title" content="Migrando meu blog para Github Pages usando Jekyll" />
+<meta name="author" content="ffelix" />
+<meta property="og:locale" content="pt_br" />
+<meta name="description" content="Decidi migrar meu blog para uma plataforma mais moderna e limpa. Para tanto, usei Jekyll para criar a nova interface e GitHub Pages para implementá-la e publicá-la na net. Inspirei-me em Carl Boettiger e seu open lab notebook. Como eu já tinha interesse em criar um projeto de “caderno de anotações de pesquisa aberto” (open notebook science), mas voltado para pesquisa clínica, um open science clinical trial que vai abrigar um ensaio clínico com os princípios da ciência aberta (open science), entendi que a experiência com esta nova plataforma poderia ser aproveitada para este e outros projetos." />
+<meta property="og:description" content="Decidi migrar meu blog para uma plataforma mais moderna e limpa. Para tanto, usei Jekyll para criar a nova interface e GitHub Pages para implementá-la e publicá-la na net. Inspirei-me em Carl Boettiger e seu open lab notebook. Como eu já tinha interesse em criar um projeto de “caderno de anotações de pesquisa aberto” (open notebook science), mas voltado para pesquisa clínica, um open science clinical trial que vai abrigar um ensaio clínico com os princípios da ciência aberta (open science), entendi que a experiência com esta nova plataforma poderia ser aproveitada para este e outros projetos." />
+<link rel="canonical" href="http://fhcflx.github.io/ciencia-medica/2016/05/01/Migrando-meu-blog-para-Github-Pages-usando-Jekyll.html" />
+<meta property="og:url" content="http://fhcflx.github.io/ciencia-medica/2016/05/01/Migrando-meu-blog-para-Github-Pages-usando-Jekyll.html" />
+<meta property="og:site_name" content="Ciência médica" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2016-05-01T12:00:00-03:00" />
+<script type="application/ld+json">
+{"description":"Decidi migrar meu blog para uma plataforma mais moderna e limpa. Para tanto, usei Jekyll para criar a nova interface e GitHub Pages para implementá-la e publicá-la na net. Inspirei-me em Carl Boettiger e seu open lab notebook. Como eu já tinha interesse em criar um projeto de “caderno de anotações de pesquisa aberto” (open notebook science), mas voltado para pesquisa clínica, um open science clinical trial que vai abrigar um ensaio clínico com os princípios da ciência aberta (open science), entendi que a experiência com esta nova plataforma poderia ser aproveitada para este e outros projetos.","author":{"@type":"Person","name":"ffelix"},"@type":"BlogPosting","url":"http://fhcflx.github.io/ciencia-medica/2016/05/01/Migrando-meu-blog-para-Github-Pages-usando-Jekyll.html","headline":"Migrando meu blog para Github Pages usando Jekyll","dateModified":"2016-05-01T12:00:00-03:00","datePublished":"2016-05-01T12:00:00-03:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://fhcflx.github.io/ciencia-medica/2016/05/01/Migrando-meu-blog-para-Github-Pages-usando-Jekyll.html"},"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+  <!--
+  -->
+ <link rel="alternate" type="application/rss+xml" title="" href="/ciencia-medica">
+
+  <title>Migrando meu blog para Github Pages usando Jekyll</title>
+  <meta name="description" content="Decidi migrar meu blog para uma plataforma mais moderna e limpa. Para tanto, usei Jekyll para criar a nova interface e GitHub Pages  para implementá-la e pub...">
+
+  <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
+  
+    <link href='//fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+  
+
+  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
+  
+    <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+
+  <link rel="stylesheet" type="text/css" href="/ciencia-medica/css/tufte.css">
+  <!-- <link rel="stylesheet" type="text/css" href="/ciencia-medica/css/print.css" media="print"> -->
+
+  <link rel="canonical" href="http://fhcflx.github.io/ciencia-medica/2016/05/01/Migrando-meu-blog-para-Github-Pages-usando-Jekyll.html">
+  <link rel="icon"
+        type="image/png"
+        href="/assets/img/badge.png">
+
+  <link rel="alternate" type="application/rss+xml" title="Ciência médica" href="http://fhcflx.github.io/ciencia-medica/feed.xml" />
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/ciencia-medica/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/ciencia-medica/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/ciencia-medica/favicon-16x16.png">
+  <link rel="manifest" href="/ciencia-medica/site.webmanifest">
+  <link rel="mask-icon" href="/ciencia-medica/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="shortcut icon" href="/ciencia-medica/favicon.ico">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-config" content="/ciencia-medica/browserconfig.xml">
+  <meta name="theme-color" content="#ffffff">
+
+</head>
+
+  <body>
+    <!--- Hader and nav template site-wide -->
+<header>
+    <a class="site-title" href="/ciencia-medica/"></a>
+    <nav class="group">
+	<a href="/ciencia-medica/"><img class="badge" src="/ciencia-medica/assets/img/mybadge.png" alt="CH"></a>
+        
+	
+		
+		    
+		      <a href="/ciencia-medica/index-ptbr.html">Ciência médica</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/ciencia-medica/cancer/index.html">Câncer</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/ciencia-medica/marcadores/index.html">Marcadores</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/ciencia-medica/propranolol/index.html">Anomalias vasculares</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/ciencia-medica/todas-as-postagens/index.html">Todas</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/ciencia-medica/sobre/index.html">Sobre</a>
+		    
+	    
+  	
+        <!--<div class="trigger">
+            
+            
+               
+               <a class="page-link" href="/ciencia-medica/index-ptbr.html">Ciência médica</a>
+               
+            
+               
+               <a class="page-link" href="/ciencia-medica/cancer/index.html">Câncer</a>
+               
+            
+               
+               <a class="page-link" href="/ciencia-medica/marcadores/index.html">Marcadores</a>
+               
+            
+               
+               <a class="page-link" href="/ciencia-medica/propranolol/index.html">Anomalias vasculares</a>
+               
+            
+               
+               <a class="page-link" href="/ciencia-medica/todas-as-postagens/index.html">Todas</a>
+               
+            
+               
+               <a class="page-link" href="/ciencia-medica/sobre/index.html">Sobre</a>
+               
+            
+            </div>-->
+  </nav>
+<div class="wrapper" style="text-align: right; line-height: 2em">
+  
+  
+
+  
+  
+</div>
+</header>
+
+    <article class="group">
+      <h1>Migrando meu blog para Github Pages usando Jekyll</h1>
+<p class="subtitle">
+
+1
+Maio
+  
+2016</p>
+
+
+
+  <span>
+    Escrito por Francisco H. C. Felix
+  </span>
+
+
+
+<ul class="tags">
+  
+    <li><a href="/ciencia-medica/marcadores#Jekyll update" class="tag">Jekyll update</a></li>
+  
+    <li><a href="/ciencia-medica/marcadores#GitHub" class="tag">GitHub</a></li>
+  
+    <li><a href="/ciencia-medica/marcadores#Bundler" class="tag">Bundler</a></li>
+  
+</ul>
+
+<p>Decidi migrar meu <a href="http://pharmak.blogspot.com">blog</a> para uma plataforma mais moderna e limpa. Para tanto, usei <a href="https://jekyllrb.com">Jekyll</a> para criar a nova interface e <a href="https://pages.github.com/">GitHub Pages </a> para implementá-la e publicá-la na net. Inspirei-me em <a href="http://www.carlboettiger.info/index.html">Carl Boettiger</a> e seu <a href="http://www.carlboettiger.info/2012/09/28/Welcome-to-my-lab-notebook.html"><strong>open lab notebook</strong></a>. Como eu já tinha interesse em criar um projeto de “caderno de anotações de pesquisa aberto” (<a href="https://en.wikipedia.org/wiki/Open_notebook_science">open notebook science</a>), mas voltado para pesquisa clínica, um <a href="https://github.com/fhcflx/valkyrie">open science clinical trial</a> que vai abrigar um ensaio clínico com os princípios da <a href="https://pt.m.wikipedia.org/wiki/Ci%C3%AAncia_aberta">ciência aberta</a> (<a href="https://en.wikipedia.org/wiki/Open_science">open science</a>), entendi que a experiência com esta nova plataforma poderia ser aproveitada para este e outros projetos.
+<!--more--></p>
+
+<p>Resumidamente, criei um repositório público no <a href="https://github.com">GitHub</a> para abrigar os arquivos gerados pelo Jekyll, uma poderosa ferramenta para criar páginas estáticas da net. Usei, inicialmente, uma versão <a href="https://github.com/madhur/PortableJekyll">portátil</a> de <a href="http://jekyll-windows.juthilo.com">Jekyll para Windows</a>, o que facilitou as coisas. Localmente, criei um diretório e iniciei um repositório de <a href="https://git-scm.com/">Git</a> nele, onde rodei Jekyll para gravar os arquivos necessários para o blog. Também uso tanto a <a href="https://git-scm.com/download/win">versão para Windows de Git quanto sua versão portátil</a>. Na verdade, meus arquivos locais estão num pendrive e são usados em vários computadores, pessoais e do trabalho. Considerações com segurança não são uma preocupação, uma vez que a maioria de meus trabalhos são públicos. A fim de proteger a confidencialidade de meus pacientes, todos os dados referentes a eles que vão a público são <a href="https://en.wikipedia.org/wiki/De-identification">desidentificados</a>.</p>
+
+<p>Em seguida, experimentei instalar <a href="http://rubyinstaller.org">Ruby para Windows</a> e Jekyll via <a href="http://bundler.io">Bundler</a> usando a <a href="https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/">gem do GitHub Pages</a>. Assim, recriei os arquivos do blog para que tivessem integração com os recursos e dependências do Github Pages. Localmente, criei um branch do repositório que havia iniciado, com o nome <em>gh-pages</em>. Fiz o push para o repositório do Github e <em>voilá</em>, o blog estava no ar. Alguns ajustes mais e estava bem razoável.</p>
+
+<p>Uma das vantagens da plataforma Jekyll/Github Pages é poder escrever os posts em sintaxe <a href="https://daringfireball.net/projects/markdown/">Markdown</a>, uma forma simplificada de html que permite escrever quase como se estivesse usando apenas texto simples sem formatação, e mesmo assim renderiza páginas esteticamente agradáveis. Os posts podem ser comitados localmente ou no próprio Github na net. Por exemplo, este post foi escrito em markdown (<a href="https://guides.github.com/features/mastering-markdown/">GitHub flavored</a>) no Escritor Pro, um aplicativo para iOS e comitado no Github em meu iPad.</p>
+
+<p>Farei novas postagens neste novo formato do Pharmakon, não importarei todas as postagens antigas, uma <a href="https://jekyllrb.com/docs/migrations/">funcionalidade</a> oferecida pelo Jekyll, porém vou importar manualmente e acrescentar mais comentários, atualizando e aprofundando o conteúdo, as principais postagens do antigo Pharmakon, para dar um kick-off no novo blog. Uma das postagens a ser “rebooted” vai ser aquela do <a href="http://pharmak.blogspot.com.br/2009/03/uso-de-propranolol-revoluciona.html">tratamento de hemangiomas com propranolol</a>, uma das mais visualizadas do velho Pharmakon.</p>
+
+
+
+<article style="max-width: 90%;">
+  <div id="disqus_thread"></div>
+  <script>
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+      (function() {  // DON'T EDIT BELOW THIS LINE
+          var d = document, s = d.createElement('script');
+              s.src = '//pharmak-on.disqus.com/embed.js';
+
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+        })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+</article>
+
+
+    </article>
+    <span class="print-footer">Migrando meu blog para Github Pages usando Jekyll - May 1, 2016 - fhcflx</span>
+    <footer>
+  <hr class="slender">
+  <ul class="footer-links">
+    <li><a href="mailto:fhcflx@outlook.com"><span class="icon-mail"></span></a></li>
+    
+      <li>
+        <a href="//www.twitter.com/fhcflx"><span class="icon-twitter"></span></a>
+      </li>
+    
+      <li>
+        <a href="//plus.google.com/+FranciscoHCFelix"><span class="icon-googleplus"></span></a>
+      </li>
+    
+      <li>
+        <a href="//github.com/fhcflx/ciencia-medica"><span class="icon-github"></span></a>
+      </li>
+    
+      <li>
+        <a href="//www.flickr.com/photos/fhcflx"><span class="icon-flickr"></span></a>
+      </li>
+    
+      <li>
+        <a href=""><span class="icon-feed"></span></a>
+      </li>
+    
+    <li><a href=https://travis-ci.org/fhcflx/ciencia-medica ><img alt='travis-ci build' src=https://img.shields.io/travis/fhcflx/ciencia-medica.svg?colorA=a00000&colorB=a00000></a></li>
+  </ul>
+<div class="credits">
+<span>&copy; 2019 &nbsp;&nbsp;FHCFLX</span></br> <br>
+<span>Este sítio foi criado com o <a href="//github.com/clayh53/tufte-jekyll">tema Tufte para Ciência médica </a> no <a href="//jekyllrb.com">Jekyll</a>.</span>
+</div>
+</footer>
+
+  </body>
+</html>
