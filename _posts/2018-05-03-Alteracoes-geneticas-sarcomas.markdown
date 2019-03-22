@@ -6,6 +6,8 @@ tags:
   - Câncer
   - Terapia alvo
 author: ffelix
+lang: pt-br
+ref:
 ---
 Uma pesquisa publicada no  _Journal of the American Medical Association (JAMA) Oncology_ mostrou a viabilidade de personalizar a terapia de pacientes com sarcomas de partes moles através da pesquisa de mutações{% include mutation.html %} genéticas que possam servir de base para terapias alvo.
 <!--more-->

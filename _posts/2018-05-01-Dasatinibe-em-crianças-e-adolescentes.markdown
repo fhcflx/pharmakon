@@ -5,6 +5,8 @@ date:   2018-05-01 12:00:00 -0300
 tags:
   - Câncer
 author: ffelix
+lang: pt-br
+ref:
 ---
 
 No número 13 deste ano do _Journal of Clinical Oncology_ (JCO), os resultados do maior ensaio clínico realizado com pacientes pediátricos com leucemia mielóide crônica (LMC){% include lmc.html %} tratados com dasatinibe foram publicados.

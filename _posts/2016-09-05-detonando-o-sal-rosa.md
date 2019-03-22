@@ -5,9 +5,11 @@ date: 2016-09-05 08:00:00 -0700
 tags:
   - Charlatanismo
 author: ffelix
---- 
+lang: pt-br
+ref:
+---
 
-Existe uma intrigante crença de que a origem de uma substância muda suas propriedades químicas, físicas ou medicinais (supostamente). Sempre tive problemas com exclamações do tipo: "é natural, é bom". Afinal, veneno de jararaca, folha de Comigo-ninguém-pode e urânio são naturais - e não fazem bem à saúde! 
+Existe uma intrigante crença de que a origem de uma substância muda suas propriedades químicas, físicas ou medicinais (supostamente). Sempre tive problemas com exclamações do tipo: "é natural, é bom". Afinal, veneno de jararaca, folha de Comigo-ninguém-pode e urânio são naturais - e não fazem bem à saúde!
 <!--more-->
 
 Os gregos criaram a [teoria atômica](https://en.wikipedia.org/wiki/Atomic_theory), que diz que todas as substâncias são feitas das mesmas partículas (os átomos), há mais de 2 mil anos. De lá, para cá, malgrado as intenções durante a Idade Média, esta teoria acabou prevalecendo como a mais aceita e foi confirmada experimentalmente ao longo dos últimos séculos. Hoje, é tão certo quanto afirmar que o sol nasce que as variadas substâncias que compõem este imenso universo são todas feitas do mesmo pequeno número (pouco mais de cem) de átomos, arranjados de infinitas formas diferentes.
@@ -26,6 +28,6 @@ E quanto aos aditivos do sal industrializado? Sal tem sido usado como conservant
 
 Então, o sal refinado tem sal... e remédios? Na verdade, é bem isso, pois ele evita a deficiência de iodo. Já o famoso sal do Himalaia (bem como o também popular sal marinho) não tem iodo adicionado, somente as impurezas naturais. No mínimo, eles não seriam bons para evitar deficiência de iodo. E quanto à recomendação tão popular hoje em dia que manda substituir o sal comum "que faz mal" pelo sal marinho ou do Himalaia "que são medicinais"? Faça um favor a si e à sociedade e esqueça isso, OK? Se uma grande parcela da população acreditasse nessa balela, aumentaria a pobreza (já viu o preço deste "sal natural"?) e o bócio endêmico retornaria a ser uma doença frequente.
 
-Mas todo mundo sabe que sal faz mal à saúde! Claro, consumido em excesso, **qualquer tipo de sal**, seja do mar, do Himalaia ou das luas de Saturno, faz mal sim. O ideal é ter parcimônia no seu uso e ingerir uma quantidade pequena diariamente de sal. Usado em quantidade, sal do Himalaia vai prejudicar a saúde tanto quanto qualquer outro. 
+Mas todo mundo sabe que sal faz mal à saúde! Claro, consumido em excesso, **qualquer tipo de sal**, seja do mar, do Himalaia ou das luas de Saturno, faz mal sim. O ideal é ter parcimônia no seu uso e ingerir uma quantidade pequena diariamente de sal. Usado em quantidade, sal do Himalaia vai prejudicar a saúde tanto quanto qualquer outro.
 
 Concluindo, se você é rico e quer mostrar isso para seus amigos esnobes, compre aquela placa de sal Himalaio, mas por esse motivo. Não doure a pílula com contos de fada. E não esqueça de tomar um suplemento de iodo e medir regularmente a pressão arterial, que pode aumentar!!

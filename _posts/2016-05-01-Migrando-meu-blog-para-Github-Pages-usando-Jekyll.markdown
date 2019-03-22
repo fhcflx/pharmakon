@@ -7,6 +7,8 @@ tags:
   - GitHub
   - Bundler
 author: ffelix
+lang: pt-br
+ref:
 ---
 Decidi migrar meu [blog](http://pharmak.blogspot.com) para uma plataforma mais moderna e limpa. Para tanto, usei [Jekyll](https://jekyllrb.com) para criar a nova interface e [GitHub Pages ](https://pages.github.com/) para implementá-la e publicá-la na net. Inspirei-me em [Carl Boettiger](http://www.carlboettiger.info/index.html) e seu [**open lab notebook**](http://www.carlboettiger.info/2012/09/28/Welcome-to-my-lab-notebook.html). Como eu já tinha interesse em criar um projeto de "caderno de anotações de pesquisa aberto" ([open notebook science](https://en.wikipedia.org/wiki/Open_notebook_science)), mas voltado para pesquisa clínica, um [open science clinical trial](https://github.com/fhcflx/valkyrie) que vai abrigar um ensaio clínico com os princípios da [ciência aberta](https://pt.m.wikipedia.org/wiki/Ci%C3%AAncia_aberta) ([open science](https://en.wikipedia.org/wiki/Open_science)), entendi que a experiência com esta nova plataforma poderia ser aproveitada para este e outros projetos.
 <!--more-->

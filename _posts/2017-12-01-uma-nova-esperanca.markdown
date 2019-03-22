@@ -7,6 +7,8 @@ tags:
 - Câncer
 - Neuro-oncologia
 - DIPG
+lang: pt-br
+ref:
 ---
 
 Tumores difusos do tronco cerebral (DIPG) são mais comuns em crianças e constituem o glioma{% include glioma.html %} maligno mais frequente na infância. Apesar de representarem menos de 15% dos tumores cerebrais pediátricos, respondem pela maioria dos óbitos por tumores cerebrais em crianças. Não existe tratamento eficaz para esta doença em nossos dias e mais de 90% dos pacientes falece antes de completarem 2 anos após o diagnóstico. No mundo inteiro, buscam-se novas terapias para esta doença.

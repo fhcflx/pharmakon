@@ -6,6 +6,8 @@ tags:
   - Medicina quântica
   - Charlatanismo
 author: ffelix
+lang: pt-br
+ref:
 ---
 
 Que me perdoem os crédulos, mas um mínimo de bom senso é fundamental. Para começo de conversa, declaro logo que não defenderei nenhum conceito que use a palavra "quântico(a)" diferente da física. Então, se você é uma pessoa que "acredita" em qualquer coisa quântica, pode ignorar essa postagem. Porém, se você não tem "opinião" formada sobre o assunto ou apenas é curioso e quer alguma informação coerente, pode continuar, prometo que não se decepcionará.

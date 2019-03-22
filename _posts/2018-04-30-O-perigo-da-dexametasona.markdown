@@ -5,6 +5,8 @@ date:   2018-04-30 18:00:00 -0300
 tags:
   - Câncer
 author: ffelix
+lang: pt-br
+ref:
 ---
 
 No número 3 do volume 137 do _Journal of Neuro-Oncology_ (JNO), um estudo observacional retrospectivo mostrou que a dexametasona, droga usada rotineiramente para tratar edema cerebral em pacientes com tumores{% include cancer.html %} do sistema nervoso central, pode reduzir a sobrevida{% include sobrevida.html %} e aumentar a mortalidade dos pacientes.

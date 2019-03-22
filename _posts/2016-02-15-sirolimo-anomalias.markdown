@@ -7,6 +7,8 @@ tags:
 - Sildenafil
 - Linfangiomas
 - Anomalias vasculares
+lang: pt-br
+ref:
 ---
 
 A utilização de medicamentos aprovados para um fim em patologias diversas da aprovação original, procedimento denominado _reposicionamento_, tem sido cada vez mais proposto nos últimos anos. Uma das drogas que ficaram famosas em anos recentes foi o propranolol{% include propranolol.html %}, cujo efeito nos hemangiomas{% include hemangioma.html %} foi [descrito](http://bit.ly/fhcflxEw) em 2008. Outros casos ficaram conhecidos como falhas de avaliação com consequências potencialmente desagradáveis, como o [relato](http://bit.ly/fhcflxeS) de efeito da sildenafila{% include sildenafila.html %} em malformações linfáticas, posteriormente [refutado](http://bit.ly/fhcflx8n). Agora, um novo ensaio clínico{% include ensaio_clinico.html %} promete uma novidade para as anomalias vasculares. Será verdade?

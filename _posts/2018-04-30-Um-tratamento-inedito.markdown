@@ -5,6 +5,8 @@ date:   2018-04-30 12:00:00 -0300
 tags:
   - Câncer
 author: ffelix
+lang: pt-br
+ref:
 ---
 
 Numa revisão publicada no número 3 do volume 137 do _Journal of Neuro-Oncology_, o Dr. Rick da UCSF e colegas explicam o _Tumor Treating Fields_ (TTF), novo tratamento que foi incorporado ao tratamento padrão do glioblastoma{% include gbm.html %}, tumor cerebral mais frequente e mais letal em adultos.

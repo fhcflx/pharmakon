@@ -5,6 +5,8 @@ date:   2018-04-19 12:00:00 -0300
 tags:
   - Câncer
 author: ffelix
+lang: pt-br
+ref:
 ---
 
 Nesta semana, o _Journal of Clinical Oncology_ (JCO) publicou os resultados de uma pesquisa do MD Anderson Câncer Center que avaliou a percepção de pacientes com câncer{% include cancer.html %} avançado sobre a humanização da consulta oncológica.

@@ -5,6 +5,8 @@ date:   2018-05-04 12:00:00 -0300
 tags:
   - Câncer
 author: ffelix
+lang: pt-br
+ref:
 ---
 
 No último número do _Journal of Neuro-Oncology_, uma revisão e um estudo retrospectivo{% include retrospectiva.html %} investigam a possibilidade de drogas comumente usadas para tratar doenças cardiovasculares terem efeito na sobrevida{% include sobrevida.html %} de pacientes com gliomas{% include glioma.html %}, especialmente o glioblastoma{% include gbm.html %}.

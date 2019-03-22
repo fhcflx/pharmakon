@@ -6,6 +6,8 @@ author: Francisco H C Felix
 tags:
 - Fisiologia ou Medicina
 - Nobel
+lang: pt-br
+ref:
 ---
 
 O Prêmio Nobel de Fisiologia ou Medicina de 2014
@@ -25,4 +27,3 @@ Publicações relevantes:
 - [Torkel Hafting, Marianne Fyhn, Sturla Molden, May-Britt Moser & Edvard I. Moser. Microstructure of a spatial map in the entorhinal cortex. (2005) Nature 436, 801–806](https://www.nature.com/articles/nature03721)
 
 Fonte: [Nobel prize for decoding brain’s sense of place. Nature.](https://www.nature.com/news/nobel-prize-for-decoding-brain-s-sense-of-place-1.16093)
-

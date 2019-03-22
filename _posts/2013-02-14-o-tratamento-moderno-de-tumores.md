@@ -6,6 +6,8 @@ author: Francisco H C Felix
 tags:
 - Neuro-oncologia
 - Câncer
+lang: pt-br
+ref:
 modified_time: '2013-02-14T20:17:02.684-03:00'
 thumbnail: http://2.bp.blogspot.com/-Ajg5_IzHEH8/UR1np9MvDII/AAAAAAAAQlg/pimvLNYMglU/s72-c/n-o.png
 blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-1206931626742154643
@@ -26,7 +28,7 @@ Isso significa que cerca de metade das crianças diagnosticadas com tumor cerebr
 A chance de sobrevida varia radicalmente com o tipo de tumor. Enquanto mais de 85-90% dos pacientes com gliomas de baixo grau alcançam sobrevida prolongada, pacientes com gliomas de alto grau ou gliomas difusos da ponte têm um prognóstico ruim - menos de 10% vivem mais de 2 anos nas séries internacionais (Felix, 2013).&nbsp;A chance de sobrevida depende, fundamentalmente, do diagnóstico e tratamento adequados os quais somente podem ser oferecidos em centros especializados e multidisciplinares. É importante que os pacientes recebam a atenção de profissionais com experiência e conhecimento e tenham ao seu alcance os recursos necessários ao tratamento. O maior determinante do resultado é o tipo de tumor a ser tratado. A tabela que acompanha este texto mostra o tratamento mais adequado de acordo com a literatura mais recente, para os principais tipos de tumores cerebrais.
 
 ![](http://2.bp.blogspot.com/-Ajg5_IzHEH8/UR1np9MvDII/AAAAAAAAQlg/pimvLNYMglU/s1600/n-o.png)
-![](http://3.bp.blogspot.com/-bI-Z7SMwcO4/UR1nptMm9vI/AAAAAAAAQlc/X_W6YefFq64/s1600/n-o2.png) 
+![](http://3.bp.blogspot.com/-bI-Z7SMwcO4/UR1nptMm9vI/AAAAAAAAQlc/X_W6YefFq64/s1600/n-o2.png)
 
 Na tabela, as colunas mostram a classificacação clínica do paciente (Diagnóstico), o tratamento mais indicado pela literatura científica mais recente (Recomendação), o tipo do tumor (Histopatológico), grau da Organização Mundial da Saúde (OMS), características do grupo de pacientes (Estadiamento), referência do trabalho científico mais importante (Ref) e sobrevida esperada (EFS - pacientes sem doença 5 anos após o diagnóstico; OS - pacientes sobreviventes 5 anos após o diagnóstico).
 

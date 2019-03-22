@@ -6,6 +6,8 @@ author: Francisco H C Felix
 tags:
 - Fisiologia ou Medicina
 - Nobel
+lang: pt-br
+ref:
 modified_time: '2015-12-07T20:26:36.143-03:00'
 blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-5871814733024746877
 blogger_orig_url: http://pharmak.blogspot.com/2015/10/premio-nobel-de-fisiologia-e-medicina.html
@@ -31,6 +33,6 @@ _Figura 1: Tu Youyou (direita) e seu professor Lou Zhicen (楼之岑) (esquerda)
 Publicações relevantes:
 - [Burg et al., Avermectins, New Family of Potent Anthelmintic Agents: Producing Organism and Fermentation. Antimicrobial Agents and Chemotherapy (1979) 15:361-367.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC352666/pdf/aac00273-0045.pdf)
 - Egerton et al., Antimicrobial Agents and Chemotherapy (1979) 15:372-378.
-- Tu et al., [Studies on the constituents of Artemisia annua L. (author's transl)]. Yao Xue Xue Bao (1981) 16, 366-370 (Chinês) 
+- Tu et al., [Studies on the constituents of Artemisia annua L. (author's transl)]. Yao Xue Xue Bao (1981) 16, 366-370 (Chinês)
 
 Fonte: [The 2015 Nobel Prize in Physiology or Medicine - Press Release](http://www.nobelprize.org/nobel_prizes/medicine/laureates/2015/press.html)

@@ -6,6 +6,8 @@ author: Francisco H C Felix
 tags:
 - Fisiologia ou Medicina
 - Nobel
+lang: pt-br
+ref:
 ---
 
 O Prêmio Nobel de Fisiologia ou Medicina de 2016
@@ -22,4 +24,3 @@ Pacientemente, ele passou anos estudando o mecanismo de degradação molecular e
 _Figura: mecanismo esquemático da autofagia. Créditos Cheung & Ip, CC-BY SA 2.0._
 
 Fonte: [Yoshinori Ohsumi of Japan Wins Nobel Prize for Study of ‘Self-Eating’ Cells. The New York Times](https://www.nytimes.com/2016/10/04/science/yoshinori-ohsumi-nobel-prize-medicine.html)
-

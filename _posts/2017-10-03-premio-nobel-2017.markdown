@@ -6,6 +6,8 @@ author: Francisco H C Felix
 tags:
 - Fisiologia ou Medicina
 - Nobel
+lang: pt-br
+ref:
 ---
 
 O Prêmio Nobel de Fisiologia ou Medicina de 2017
@@ -14,7 +16,7 @@ O Prêmio Nobel de Fisiologia ou Medicina de 2017
 
 Dia 1 de outubro, Thomas Pearlmann, secretário do comitê do Prêmio Nobel, anunciou que Jeffrey Hall e Michael Rosbash, da Brandeis University, e Michael Young, da Rockefeller University, dividirão o Prêmio Nobel em Fisiologia ou Medicina de 2017. De acordo com o secretário, o trabalho dos coentistas explicou como plantas, animais e os seres humanos se adaptam aos ciclos naturais, como o ciclo dia-noite (circadiano).
 
-O meio científico foi surpreendido pela premiação de um grupo que não figurava entre as listas de favoritos. Apostava-se que o prêmio poderia ir para a imunoterapia do câncer ou para a técnica de edição genética com CRISPR. Jerome Groopman, escrevendo para o The New Yorker, comentou que a Academia Sueca quis mandar uma clara mensagem ao mundo científico e aos políticos que decidem sobre o financiamento da pesquisa, num momento em que se discutem as verbas para pesquisas ditas "inúteis". Groopman acredita que o Karolinska Institute desejou mandar uma mensagem para os gestores da pesquisa atualmente. 
+O meio científico foi surpreendido pela premiação de um grupo que não figurava entre as listas de favoritos. Apostava-se que o prêmio poderia ir para a imunoterapia do câncer ou para a técnica de edição genética com CRISPR. Jerome Groopman, escrevendo para o The New Yorker, comentou que a Academia Sueca quis mandar uma clara mensagem ao mundo científico e aos políticos que decidem sobre o financiamento da pesquisa, num momento em que se discutem as verbas para pesquisas ditas "inúteis". Groopman acredita que o Karolinska Institute desejou mandar uma mensagem para os gestores da pesquisa atualmente.
 
 Os pesquisadores agraciados publicaram seus achados estudando um gene que regula o ciclo circadiano em moscas das frutas. Na época (início da década de 90), a aplicabilidade da pesquisa era nenhuma, embora fosse muito interessante do ponto de vista teórico. Hoje, além de fundamental para entender como os organismos vivos reagem a mudanças cíclicas do ambiente, esse conhecimento criou todo um novo ramo da biologia e da medicina, com aplicações potenciais muit extensas. Groopman aponta que, numa conjuntura como a atual, talvez a pesquisa dos 3 nunca fosse financiada. Certamente, políticos iriam achar que pesquisar o relógio biológico de moscas era "inútil".
 

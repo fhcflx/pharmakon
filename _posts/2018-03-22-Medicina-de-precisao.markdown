@@ -7,6 +7,8 @@ tags:
   - Biologia molecular
   - Câncer
 author: ffelix
+lang: pt-br
+ref:
 ---
 
 Um jovem casal aguarda com ansiedade a sua primeira entrevista com uma médica a qual foram encaminhados. A consulta anterior com uma pediatra conhecida fora cheia de meias palavras e acompanhada de uma atitude anormalmente séria da médica que já atendia a família há tempos. Alheia a tudo, a criança deles brincava despreocupadamente, como se não estivesse em um hospital. Depois de uma espera que não foi medida em tempo, mas em antecipação, a nova médica, uma oncologista, declara a aterradora notícia para a família: câncer.

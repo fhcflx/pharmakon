@@ -7,6 +7,8 @@ tags:
   - Propranolol
   - Melanoma
 author: ffelix
+lang: pt-br
+ref:
 ---
 Um estudo publicado no _Journal of the American Medical Association (JAMA) Oncology_ mostrou que o uso de propranolol{% include propranolol.html %} reduziu em mais de 80% o risco de recaída em pacientes que foram tratados para melanoma, um dos tipos mais agressivos de câncer{% include cancer.html %} em seres humanos.
 <!--more-->

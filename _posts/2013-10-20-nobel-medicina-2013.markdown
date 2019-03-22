@@ -6,13 +6,15 @@ author: Francisco H C Felix
 tags:
 - Fisiologia ou Medicina
 - Nobel
+lang: pt-br
+ref:
 ---
 
 O Prêmio Nobel de Fisiologia ou Medicina de 2013
   foi dividido entre os cientistas James E. Rothman, da Yale University; Randy W. Schekman, da Universidade da California em Berkeley; e Dr. Thomas C. Südhof, da Stanford University por terem descoberto como as células transportam moléculas dentro delas.
   <!--more-->
 
-O transporte de moléculas dentro das células é vital para funções tão diferentes entre si quanto a liberação de sinais químicos pelos neurônios, a produção de hormônios e a função do sistema imunológico. No entanto, até antes do trabalho dos 3 laureados, ninguém savia muito como isso ocorria. 
+O transporte de moléculas dentro das células é vital para funções tão diferentes entre si quanto a liberação de sinais químicos pelos neurônios, a produção de hormônios e a função do sistema imunológico. No entanto, até antes do trabalho dos 3 laureados, ninguém savia muito como isso ocorria.
 
 As moléculas produzidas pelas células são empacotadas na forma de vesículas, pequenas "bolhas" cheias de substâncias. Estes pacotes são, então, transportados num sistema altamente controlado pelos genes (descobertos pelo Dr. Rothman). Quando chegam a seu destino, os pacotes precisam "atracar" em uma "doca" para descarregarem. Esse complicado sistema foi explicado pelo Dr Schekman. Finalmente, a "carga" precisa ser recebida no destino e "desempacotada" para ser liberada para uso. Foi a vez do Dr. Südhof explicar esta parte.
 
@@ -24,4 +26,3 @@ Será que estamos presenciando o início do fim dos EUA como potência científi
 _Figura: o complicado mecanismo de transporte de vesículas celulares. Créditos Phillipe A. Parone, CC BY 2.5_
 
 Fonte: [For 3 Nobel Winners, a Molecular Mystery Solved. The New York Times.](https://www.nytimes.com/2013/10/08/health/3-win-joint-nobel-prize-in-medicine.html)
-

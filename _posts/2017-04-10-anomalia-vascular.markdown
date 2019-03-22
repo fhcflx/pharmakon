@@ -5,6 +5,8 @@ date:   2017-04-10 12:00:00 -0300
 tags:
   - Anomalias vasculares
 author: ffelix
+lang: pt-br
+ref:
 ---
 
 **Anomalia vascular** é toda desordem de estrutura ou crescimento de vasos sanguíneos, podendo ser congênita, hereditária ou adquirida. Podem ser classificadas em tumores vasculares{% include tumorvasc.html %}, anomalias onde ocorre proliferação celular em alguma fase de seu desenvolvimento (ex.: hemangioma{% include hemangioma.html %}), ou malformações vasculares{% include mv.html %}, anomalias onde existem alterações morfoestruturais causadas por problemas durante a embriogênese ou adquiridas (ex.: malformação capilar{% include mc.html %}). Algumas anomalias vasculares desafiam a classificação, havendo controvérsia sobre sua natureza: tumor ou malformação (ex.: linfangioma, ou malformação linfática{% include ml.html %}).
