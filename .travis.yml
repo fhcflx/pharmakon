@@ -1,10 +1,11 @@
 version: ~> 1.0
 
-sudo: false # route your build to the container-based infrastructure for a faster build
+# sudo: false # route your build to the container-based infrastructure for a faster build
 
-language: 
-   rubyrvm
-   
+language: ruby
+#   rubyrvm
+#   - 2.4.1
+
 env:  
    global:  
    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
