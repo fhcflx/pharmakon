@@ -3,8 +3,7 @@ version: ~> 1.0
 sudo: false # route your build to the container-based infrastructure for a faster build
 
 language: 
-   rubyrvm:
-   - 2.4.1
+   rubyrvm
    
 env:  
    global:  
